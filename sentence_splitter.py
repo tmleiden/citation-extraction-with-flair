@@ -7,7 +7,6 @@ Created on Fri Apr 26 18:39:16 2019
 """
 
 import os
-import numpy
 
 groundtruth_bio_dir = '/data/bio_patent_citations/'
 all_filenames = os.listdir(groundtruth_bio_dir+"bio-origin/")

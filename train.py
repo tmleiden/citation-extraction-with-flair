@@ -6,7 +6,7 @@ from typing import List
 import torch,flair
 
 
-data_folder = '/home/s2149133/research/patent_data/final_splits'
+data_folder = 'patent_data'
 
 
 columns = {0: 'text', 1: 'pos', 2: 'ner'}
@@ -32,8 +32,8 @@ tag_type = 'ner'
 tag_dictionary = corpus.make_tag_dictionary(tag_type=tag_type)
 
 
-domain_embeddings_forward = FlairEmbeddings('/LMs/resources/taggers/language_model/best-lm.pt')
-domain_embeddings_backward = FlairEmbeddings('/LMs/resources/taggers/language_model/best-lm.pt')
+domain_embeddings_forward = FlairEmbeddings('/LMs/resources/taggers/language_model_forward/best-lm.pt')
+domain_embeddings_backward = FlairEmbeddings('/LMs/resources/taggers/language_model_backward/best-lm.pt')
 
 
 
@@ -64,5 +64,5 @@ from flair.trainers import ModelTrainer
 
 trainer: ModelTrainer = ModelTrainer(tagger, corpus)
 
-trainer.train('resources/taggers/patents_domain_embs_small',checkpoint=True,
+trainer.train('resources/taggers/patents_domain_emb',checkpoint=True,
 embeddings_in_memory=True,max_epochs=100)

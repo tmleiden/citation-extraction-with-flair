@@ -1,8 +1,6 @@
-import sys
 import os
 from flair.data import Sentence
 from flair.models import SequenceTagger
-import time
 from tqdm import tqdm
 
 model = SequenceTagger.load('/resources/taggers/model/best-model.pt')
