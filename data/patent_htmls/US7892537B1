@@ -1,0 +1,2699 @@
+<!doctype html>
+<html>
+  <head>
+    <title>US7892537B1 - High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+        - Google Patents</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <link rel="canonical" href="https://patents.google.com/patent/US7892537B1/en">
+    <meta name="description" content="
+     Butyrylcholinesterase (BChE) polypeptide variants of the presently-disclosed subject matter have enhanced catalytic efficiency for (−)-cocaine, as compared to wild-type BChE. Pharmaceutical compositions of the presently-disclosed subject matter include a BChE polypeptide variant having an enhanced catalytic efficiency for (−)-cocaine. A method of the presently-disclosed subject matter for treating a cocaine-induced condition includes administering to an individual an effective amount of a BChE polypeptide variant, as disclosed herein, to lower blood cocaine concentration. 
+   
+   ">
+    
+    <meta name="DC.type" content="patent">
+    
+    <meta name="DC.title" content="High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       ">
+    
+    <meta name="DC.date" content="2010-04-26" scheme="dateSubmitted">
+    
+    <meta name="DC.description" content="
+     Butyrylcholinesterase (BChE) polypeptide variants of the presently-disclosed subject matter have enhanced catalytic efficiency for (−)-cocaine, as compared to wild-type BChE. Pharmaceutical compositions of the presently-disclosed subject matter include a BChE polypeptide variant having an enhanced catalytic efficiency for (−)-cocaine. A method of the presently-disclosed subject matter for treating a cocaine-induced condition includes administering to an individual an effective amount of a BChE polypeptide variant, as disclosed herein, to lower blood cocaine concentration. 
+   
+   ">
+    
+    <meta name="citation_patent_application_number" content="US:12/767,128">
+    
+    <meta name="citation_pdf_url" content="https://patentimages.storage.googleapis.com/12/55/4a/bb45ff890aefce/US7892537.pdf">
+    
+    <meta name="citation_patent_number" content="US:7892537">
+    
+    <meta name="DC.date" content="2011-02-22" scheme="issue">
+    
+    <meta name="DC.contributor" content="Chang-Guo Zhan" scheme="inventor">
+    
+    <meta name="DC.contributor" content="Fang Zheng" scheme="inventor">
+    
+    <meta name="DC.contributor" content="Wenchao Yang" scheme="inventor">
+    
+    <meta name="DC.contributor" content="University of Kentucky Research Foundation" scheme="assignee">
+    
+    <meta name="DC.relation" content="US:20030153062:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:20040120939:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:7049121" scheme="references">
+    
+    <meta name="DC.relation" content="US:7438904" scheme="references">
+    
+    <meta name="DC.relation" content="US:7731957" scheme="references">
+    
+    <meta name="DC.relation" content="US:7740840" scheme="references">
+    
+    <meta name="citation_reference" content="Gao, et al.; Modeling effects of oxyanion hole on the ester hydrolyses catalyzed by human cholinesterases; Phys. Chem. B; 2005; 109; pp. 23070-23076." scheme="references">
+    
+    <meta name="citation_reference" content="Gao, et al; Computational design of a human butyrylcholinesterase mutant for accelerating cocaine hydrolysis based on the transition-state simulation; Angew. Chem. Int. Ed.; 2006; 45; pp. 653-657." scheme="references">
+    
+    <meta name="citation_reference" content="Gao, et al; Modeling evolution of hydrogen bonding and stablization of transition states in the process of cocaine hydrolysis catalyzed by human butyrylcholinesterase; Proteins; 2006; 62; pp. 99-110." scheme="references">
+    
+    <meta name="citation_reference" content="Hamza, et al.; Molecular dynamics simulation of cocaine binding with human butyrylcholinesterase and its mutants; J. Phys. Chem. B.; 2005; 109; pp. 4776-4782." scheme="references">
+    
+    <meta name="citation_reference" content="Pan, et al.; Computational redesign of human butyrylcholinesterase for anti-cocaine medication; G. Proc. Natl. Acad. Sci. USA; 2005; 102; pp. 16656-16661." scheme="references">
+    
+    <meta name="citation_reference" content="Xie, et al.; An improved cocaine hydrolase: the A328Y mutant of human butyrylcholinesterase is 4-fold more efficient; Moleculare Pharm; 1999; 55; pp. 83-91." scheme="references">
+    
+    <meta name="citation_reference" content="Zhan, et al.; Catalytic Mechanism and energy barriers for butyrylcholinesterase-catalyzed hydrolysis of cocaine; Biophysical Journal; 2005; 89; 3863-3872." scheme="references">
+    
+    <meta name="citation_reference" content="Zhan, et al.; Fundamental reaction mechanism for cocaine metabolism in human butyrylcholinesterase; J. Am. Chem. Soc.; 2003; 125; pp. 2462-2474." scheme="references">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Product+Sans">
+    <style>
+      body { transition: none; }
+    </style>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-27188110-4', 'auto');
+
+      version = 'patent-search.search_20180320_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "us,ep,wo,cn,ca,de,jp,kr,es,gb,be,dk,fi,fr,lu,nl,ru";
+      
+      window.experiments.enableSuggestions = true;
+      
+      
+      window.experiments.enableQueryURLSerialized = true;
+      
+      
+      window.experiments.enableSortByDate = true;
+      
+      
+      window.experiments.enableCoverageStats = true;
+      
+      
+      window.experiments.enableDownloadResults = true;
+      
+      
+      window.experiments.enableBooleanSearch = true;
+      
+      
+      
+      window.profilePicture = "";
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+    
+    <link rel="import" href="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/search-app-vulcanized.html">
+    
+  </head>
+  <body unresolved>
+    
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+    
+    <search-app>
+      
+      <span id="promo"><span><span style="color: #EA4335;">New!</span> <a target="_blank" href="https://www.darts-ip.com/darts-ip-google-patents/">View global litigation for patent families</a></span>
+</span>
+      <article class="result" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <h1 itemprop="pageTitle">US7892537B1 - High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+        - Google Patents</h1>
+  <span itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </span>
+
+  <meta itemprop="type" content="patent">
+  <a href="https://patentimages.storage.googleapis.com/12/55/4a/bb45ff890aefce/US7892537.pdf" itemprop="pdfLink">Download PDF</a>
+  <h2>Info</h2>
+
+  <dl>
+    <dt>Publication number</dt>
+    <dd itemprop="publicationNumber">US7892537B1</dd>
+    <meta itemprop="numberWithoutCodes" content="7892537">
+    <meta itemprop="kindCode" content="B1">
+    
+    <span>US7892537B1</span>
+    
+    <span>US12767128</span>
+    
+    <span>US76712810A</span>
+    
+    <span>US7892537B1</span>
+    
+    <span>US 7892537 B1</span>
+    
+    <span>US7892537 B1</span>
+    
+    <span>US 7892537B1</span>
+    
+    <span>US 12767128 </span>
+    
+    <span>US12767128 </span>
+    
+    <span>US 12767128</span>
+    
+    <span>US 76712810 A</span>
+    
+    <span>US76712810 A</span>
+    
+    <span>US 76712810A</span>
+    
+    <span>US 7892537 B1</span>
+    
+    <span>US7892537 B1</span>
+    
+    <span>US 7892537B1</span>
+    
+
+    <dt>Authority</dt>
+    <dd itemprop="countryCode">US</dd>
+
+    <dt>Grant status</dt>
+    <dd>
+      
+      Grant
+      <meta itemprop="isApplication" content="false" bool>
+      
+    </dd>
+
+    <dt>Patent type</dt>
+    <dd>
+      
+      <meta itemprop="isDesign" content="false" bool>
+      
+    </dd>
+
+    <dt>Prior art keywords</dt>
+    
+    <dd itemprop="priorArtKeywords" repeat>bche</dd>
+    <dd itemprop="priorArtKeywords" repeat>polypeptide</dd>
+    <dd itemprop="priorArtKeywords" repeat>variant</dd>
+    <dd itemprop="priorArtKeywords" repeat>id</dd>
+    <dd itemprop="priorArtKeywords" repeat>seq</dd>
+
+    <dt>Prior art date</dt>
+    <dd><time itemprop="priorArtDate" datetime="2005-10-04">2005-10-04</time></dd>
+
+    <dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+    <dd itemprop="legalStatusIfi" itemscope>
+      <span itemprop="status">Active</span>
+    </dd>
+  </dl>
+
+  <dt>Application number</dt>
+  <dd itemprop="applicationNumber">US12767128</dd>
+
+  
+
+  
+
+  <dt>Inventor</dt>
+  <dd itemprop="inventor" repeat>Chang-Guo Zhan</dd>
+  <dd itemprop="inventor" repeat>Fang Zheng</dd>
+  <dd itemprop="inventor" repeat>Wenchao Yang</dd>
+  <dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+  <dd itemprop="assigneeCurrent" repeat>
+    University of Kentucky Research Foundation
+  </dd>
+
+  <dt>Original Assignee</dt>
+  <dd itemprop="assigneeOriginal" repeat>University of Kentucky Research Foundation</dd>
+
+  <dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+  <dd><time itemprop="priorityDate" datetime="2005-10-04">2005-10-04</a></dd>
+
+  <dt>Filing date</dt>
+  <dd><time itemprop="filingDate" datetime="2010-04-26">2010-04-26</a></dd>
+
+  <dt>Publication date</dt>
+  <dd><time itemprop="publicationDate" datetime="2011-02-22">2011-02-22</time></dd>
+
+  <dt>Grant date</dt>
+  <dd><time itemprop="grantDate" datetime="2011-02-22">2011-02-22</time></dd>
+
+  
+
+  <h2>Links</h2>
+
+  <ul>
+    
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="usptoLink">
+      <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=/netahtml/PTO/search-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN/7892537" itemprop="url" target="_blank"><span itemprop="text">USPTO</span></a>
+    </li>
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="usptoAssignmentLink">
+      <a href="https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=7892537" itemprop="url" target="_blank"><span itemprop="text">USPTO Assignment</span></a>
+    </li>
+
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="espacenetLink">
+      <a href="http://worldwide.espacenet.com/publicationDetails/biblio?CC=US&amp;NR=7892537B1&amp;KC=B1&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+    </li>
+    
+
+    
+
+    
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="globalDossierLink">
+        <a href="http://globaldossier.uspto.gov/#/result/patent/US/7892537/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="stackexchangeLink">
+        <a href="https://patents.stackexchange.com/questions/tagged/US7892537" itemprop="url"><span itemprop="text">Discuss</span></a>
+      </li>
+      
+  </ul>
+
+  <section>
+    <h2>Images</h2>
+    <ul>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-0.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-0.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-1.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-1.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-10.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-10.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-11.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-11.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-12.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-12.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-13.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-13.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-14.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-14.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-15.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-15.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-16.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-16.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-17.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-17.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-18.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-18.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-19.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-19.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-2.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-2.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-20.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-20.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-21.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-21.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-22.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-22.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-23.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-23.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-24.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-24.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-25.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-25.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-26.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-26.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-27.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-27.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-28.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-28.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-29.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-29.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-3.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-3.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-30.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-30.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-31.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-31.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-32.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-32.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-33.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-33.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-34.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-34.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-35.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-35.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-36.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-36.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-37.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-37.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-38.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-38.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-39.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-39.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-4.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-4.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-40.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-40.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-41.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-41.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-42.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-42.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-43.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-43.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-5.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-5.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-6.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-6.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-7.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-7.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-8.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-8.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US7892537-9.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US7892537-9.png">
+      </li>
+      </ul>
+  </section>
+
+  <section>
+    <h2>Classifications</h2>
+    
+    <ul>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/00</span>&mdash;<span itemprop="Description">Medicinal preparations containing peptides</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/16</span>&mdash;<span itemprop="Description">Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/43</span>&mdash;<span itemprop="Description">Enzymes; Proenzymes; Derivatives thereof</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/46</span>&mdash;<span itemprop="Description">Hydrolases (3)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/465</span>&mdash;<span itemprop="Description">Hydrolases (3) acting on ester bonds (3.1), e.g. lipases, ribonucleases</span>
+            <meta itemprop="Leaf" content="true">
+            
+            <meta itemprop="FirstCode" content="true">
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N</span>&mdash;<span itemprop="Description">MICROORGANISMS OR ENZYMES; COMPOSITIONS THEREOF; PROPAGATING, PRESERVING OR MAINTAINING MICROORGANISMS; MUTATION OR GENETIC ENGINEERING; CULTURE MEDIA</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/00</span>&mdash;<span itemprop="Description">Enzymes; Proenzymes; Compositions thereof; Processes for preparing, activating, inhibiting, separating or purifying enzymes</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/14</span>&mdash;<span itemprop="Description">Hydrolases (3)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/16</span>&mdash;<span itemprop="Description">Hydrolases (3) acting on ester bonds (3.1)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/18</span>&mdash;<span itemprop="Description">Carboxylic ester hydrolases (3.1.1)</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/00</span>&mdash;<span itemprop="Description">Medicinal preparations containing peptides</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Y</span>&mdash;<span itemprop="Description">ENZYMES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Y301/00</span>&mdash;<span itemprop="Description">Hydrolases acting on ester bonds (3.1)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Y301/01</span>&mdash;<span itemprop="Description">Carboxylic ester hydrolases (3.1.1)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Y301/01008</span>&mdash;<span itemprop="Description">Cholinesterase (3.1.1.8), i.e. butyrylcholine-esterase</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      </ul>
+  </section>
+
+  <section itemprop="abstract" itemscope>
+    <h2>Abstract</h2>
+    
+    <div itemprop="content" html><abstract mxw-id="PA83178439" lang="EN" load-source="patent-office">
+    <div id="p-0001" num="0000" class="abstract">Butyrylcholinesterase (BChE) polypeptide variants of the presently-disclosed subject matter have enhanced catalytic efficiency for (−)-cocaine, as compared to wild-type BChE. Pharmaceutical compositions of the presently-disclosed subject matter include a BChE polypeptide variant having an enhanced catalytic efficiency for (−)-cocaine. A method of the presently-disclosed subject matter for treating a cocaine-induced condition includes administering to an individual an effective amount of a BChE polypeptide variant, as disclosed herein, to lower blood cocaine concentration.</div>
+  </abstract>
+  </div>
+  </section>
+
+  <section itemprop="description" itemscope>
+    <h2>Description</h2>
+    
+    <div itemprop="content" html><div mxw-id="PDES40841669" lang="EN" load-source="patent-office" class="description">
+    
+    <heading id="h-0001">RELATED APPLICATIONS</heading>
+    <p id="p-0002" num="0001">This application is a division of and claims benefit to U.S. patent application Ser. No. 12/685,341, now allowed, filed Jan. 11, 2010 now U.S. Pat. No. 7,740,840, which is a continuation-in-part of U.S. patent application Ser. No. 12/192,394 filed Aug. 15, 2008 now U.S. Pat. No. 7,731,957, which is a divisional of U.S. patent application Ser. No. 11/243,111, filed Oct. 4, 2005 and now issued as U.S. Pat. No. 7,438,904. The entire disclosures contained in U.S. patent application Ser. No. 12/192,394, U.S. patent application Ser. No. 11/243,111, and U.S. Pat. No. 7,438,904 are incorporated herein by this reference.</p>
+    
+    
+    <heading id="h-0002">GOVERNMENT INTEREST</heading>
+    <p id="p-0003" num="0002">Subject matter described herein was made with government support under Grant Number R01DA013930 awarded by the National Institute on Drug Abuse (NIDA) of the National Institutes of Health (NIH). The government has certain rights in the described subject matter.</p>
+    
+    
+    <heading id="h-0003">TECHNICAL FIELD</heading>
+    <p id="p-0004" num="0003">The presently-disclosed subject matter relates to butyrylcholinesterase variant polypeptides, and in particular, butyrylcholinesterase mutants having amino acid substitutions.</p>
+    <heading id="h-0004">INTRODUCTION</heading>
+    <p id="p-0005" num="0004">Cocaine abuse is a major medical and public health problem that continues to defy treatment. The disastrous medical and social consequences of cocaine addiction, such as violent crime, loss in individual productivity, illness, and death, have made the development of an effective pharmacological treatment a high priority. However, cocaine mediates its reinforcing and toxic effects by blocking neurotransmitter reuptake and the classical pharmacodynamic approach has failed to yield small-molecule receptor antagonists due to the difficulties inherent in blocking a blocker. An alternative to receptor-based approaches is to interfere with the delivery of cocaine to its receptors and accelerate its metabolism in the body.</p>
+    <p id="p-0006" num="0005">The dominant pathway for cocaine metabolism in primates is butyrylcholinesterase (BChE)-catalyzed hydrolysis at the benzoyl ester group (Scheme 1).</p>
+    <p id="p-0007" num="0006">
+      <chemistry id="CHEM-US-00001" num="00001">
+        <div class="patent-image"> <a href="//patentimages.storage.googleapis.com/US7892537B1/US07892537-20110222-C00001.png"> <img id="EMI-C00001" he="189.82mm" wi="75.86mm" file="US07892537-20110222-C00001.TIF" alt="Figure US07892537-20110222-C00001" img-content="chem" img-format="tif" src="//patentimages.storage.googleapis.com/US7892537B1/US07892537-20110222-C00001.png" class="patent-full-image" width="303" height="759"> </a> </div>
+        <attachments>
+          <attachment idref="CHEM-US-00001" attachment-type="cdx" file="US07892537-20110222-C00001.CDX"> </attachment>
+          <attachment idref="CHEM-US-00001" attachment-type="mol" file="US07892537-20110222-C00001.MOL"> </attachment>
+        </attachments>
+      </chemistry>
+    </p>
+    <p id="p-0008" num="0007">Only 5% of the cocaine is deactivated through oxidation by the liver microsomal cytochrome P450 system. Cocaine hydrolysis at benzoyl ester group yields ecgonine methyl ester, whereas the oxidation produces norcocaine. The metabolite ecgonine methyl ester is a biologically inactive metabolite, whereas the metabolite norcocaine is hepatotoxic and a local anesthetic. BChE is synthesized in the liver and widely distributed in the body, including plasma, brain, and lung. Extensive experimental studies in animals and humans demonstrate that enhancement of BChE activity by administration of exogenous enzyme substantially decreases cocaine half-life.</p>
+    <p id="p-0009" num="0008">Enhancement of cocaine metabolism by administration of BChE has been recognized to be a promising pharmacokinetic approach for treatment of cocaine abuse and dependence. However, the catalytic activity of this plasma enzyme is three orders-of-magnitude lower against the naturally occurring (−)-cocaine than that against the biologically inactive (+)-cocaine enantiomer. (+)-cocaine can be cleared from plasma in seconds and prior to partitioning into the central nervous system (CNS), whereas (−)-cocaine has a plasma half-life of approximately 45-90 minutes (for a relatively low dose of cocaine), long enough for manifestation of the CNS effects which peak in minutes. Under the overdose condition, BChE is saturated with (−)-cocaine and, thus, the plasma half-life of (−)-cocaine will be longer. Hence, BChE mutants with high activity against (−)-cocaine are highly desired for use in humans. Although some BChE mutants with increased catalytic activity over wild-type BChE have previously been generated, there exists a need for mutant BChE with even higher catalytic activity.</p>
+    <heading id="h-0005">SUMMARY</heading>
+    <p id="p-0010" num="0009">The presently-disclosed subject matter meets some or all of the above-identified needs, as will become evident to those of ordinary skill in the art after a study of information provided in this document.</p>
+    <p id="p-0011" num="0010">This Summary describes several embodiments of the presently-disclosed subject matter, and in many cases lists variations and permutations of these embodiments. This Summary is merely exemplary of the numerous and varied embodiments. Mention of one or more representative features of a given embodiment is likewise exemplary. Such an embodiment can typically exist with or without the feature(s) mentioned; likewise, those features can be applied to other embodiments of the presently-disclosed subject matter, whether listed in this Summary or not. To avoid excessive repetition, this Summary does not list or suggest all possible combinations of such features.</p>
+    <p id="p-0012" num="0011">The presently-disclosed subject matter includes butyrylcholinesterase (BChE) polypeptide variants. In some embodiments the amino acid sequence of the BChE polypeptide variant includes an amino acid sequence selected from the group consisting of: SEQ ID NOS: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, and 32, as set forth herein.</p>
+    <p id="p-0013" num="0012">The presently-disclosed subject matter further includes a pharmaceutical composition that includes a butyrylcholinesterase polypeptide variant and a suitable pharmaceutical carrier.</p>
+    <p id="p-0014" num="0013">The presently-disclosed subject matter further includes a method of treating a cocaine-induced condition, which includes administering to an individual an effective amount of BChE polypeptide variant or a pharmaceutical composition comprising a BChE polypeptide variant, as described herein, to lower blood cocaine concentration. In some embodiments, the BChE polypeptide variant exhibits a one-hundred-fold or more increase in cocaine hydrolysis catalytic efficiency compared to wild-type butyrylcholinesterase.</p>
+    <heading id="h-0006">BRIEF DESCRIPTION OF THE SEQUENCE LISTING</heading>
+    <p id="p-0015" num="0014">SEQ ID NO: 1 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 2;</p>
+    <p id="p-0016" num="0015">SEQ ID NO: 2 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227A, P285A, S287G, A328W, and Y332G;</p>
+    <p id="p-0017" num="0016">SEQ ID NO: 3 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 4;</p>
+    <p id="p-0018" num="0017">SEQ ID NO: 4 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227A, P285S, S287G, A328W, and Y332G;</p>
+    <p id="p-0019" num="0018">SEQ ID NO: 5 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 6;</p>
+    <p id="p-0020" num="0019">SEQ ID NO: 6 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227A, P285Q, S287G, A328W, and Y332G;</p>
+    <p id="p-0021" num="0020">SEQ ID NO: 7 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 8;</p>
+    <p id="p-0022" num="0021">SEQ ID NO: 8 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227P, S287G, A328W, and Y332G.</p>
+    <p id="p-0023" num="0022">SEQ ID NO: 9 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 10;</p>
+    <p id="p-0024" num="0023">SEQ ID NO: 10 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227A, P285G, S287G, A328W, and Y332G;</p>
+    <p id="p-0025" num="0024">SEQ ID NO: 11 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 12;</p>
+    <p id="p-0026" num="0025">SEQ ID NO: 12 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227A, L286M, S287G, A328W, and Y332G;</p>
+    <p id="p-0027" num="0026">SEQ ID NO: 13 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 14;</p>
+    <p id="p-0028" num="0027">SEQ ID NO: 14 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, P285Q, S287G, A328W, and Y332G;</p>
+    <p id="p-0029" num="0028">SEQ ID NO: 15 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 16;</p>
+    <p id="p-0030" num="0029">SEQ ID NO: 16 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, P285I, S287G, A328W, and Y332G;</p>
+    <p id="p-0031" num="0030">SEQ ID NO: 17 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 18;</p>
+    <p id="p-0032" num="0031">SEQ ID NO: 18 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227G, S287G, A328W, and Y332G;</p>
+    <p id="p-0033" num="0032">SEQ ID NO: 19 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 20;</p>
+    <p id="p-0034" num="0033">SEQ ID NO: 20 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, P285S, S287G, A328W, and Y332G;</p>
+    <p id="p-0035" num="0034">SEQ ID NO: 21 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 22;</p>
+    <p id="p-0036" num="0035">SEQ ID NO: 22 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227V, S287G, A328W, and Y332G;</p>
+    <p id="p-0037" num="0036">SEQ ID NO: 23 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 24;</p>
+    <p id="p-0038" num="0037">SEQ ID NO: 24 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, P285G, S287G, A328W, and Y332G;</p>
+    <p id="p-0039" num="0038">SEQ ID NO: 25 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 26;</p>
+    <p id="p-0040" num="0039">SEQ ID NO: 26 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F2271, S287G, A328W, and Y332G;</p>
+    <p id="p-0041" num="0040">SEQ ID NO: 27 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 28;</p>
+    <p id="p-0042" num="0041">SEQ ID NO: 28 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227L, S287G, A328W, and Y332G;</p>
+    <p id="p-0043" num="0042">SEQ ID NO: 29 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 30;</p>
+    <p id="p-0044" num="0043">SEQ ID NO: 30 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, L286M, S287G, A328W, and Y332G;</p>
+    <p id="p-0045" num="0044">SEQ ID NO: 31 is a nucleotide sequence encoding a butyrylcholinesterase (BChE) polypeptide variant of SEQ ID NO: 32; and SEQ ID NO: 32 is an amino acid sequence encoding a BChE polypeptide variant having the following amino acid substitutions, as compared to wild type BChE: A199S, F227A, P285K, S287G, A328W, and Y332G.</p>
+    
+    
+    <heading id="h-0007">DESCRIPTION OF EXEMPLARY EMBODIMENTS</heading>
+    <p id="p-0046" num="0045">The details of one or more embodiments of the presently-disclosed subject matter are set forth in this document. Modifications to embodiments described in this document, and other embodiments, will be evident to those of ordinary skill in the art after a study of the information provided in this document. The information provided in this document, and particularly the specific details of the described exemplary embodiments, is provided primarily for clearness of understanding and no unnecessary limitations are to be understood therefrom. In case of conflict, the specification of this document, including definitions, will control.</p>
+    <p id="p-0047" num="0046">The presently-disclosed subject matter includes butyrylcholinesterase (BChE) polypeptide variants. The BChE polypeptide variants disclosed herein each have enhanced catalytic efficiency for (−)-cocaine, as compared to wild-type BChE. The presently-disclosed subject matter further includes a pharmaceutical composition including a butyrylcholinesterase polypeptide variant, as described herein, and a suitable pharmaceutical carrier. The presently-disclosed subject matter further includes a method of treating a cocaine-induced condition comprising administering to an individual an effective amount of a butyrylcholinesterase polypeptide variant, as disclosed herein, to lower blood cocaine concentration.</p>
+    <p id="p-0048" num="0047">In some embodiments, the BChE polypeptide variant is selected from a BChE polypeptide variants set forth in Table 1. Table 1 also includes the SEQ ID NOs associated with the identified BChE polypeptide variants, as well as a summary of the approximate fold increase in catalytic efficiency against (−)-cocaine for the identified BChE polypeptide variants, as compared to wild type BChE.</p>
+    <p id="p-0049" num="0048">
+      <tables id="TABLE-US-00001" num="00001">
+        <table frame="none" colsep="0" rowsep="0" pgwide="1" class="description-table">
+          <tgroup align="left" colsep="0" rowsep="0" cols="1">
+            <colspec colname="1" colwidth="329pt" align="center"> </colspec>
+            <thead>
+              <tr class="description-tr">
+                <td namest="1" nameend="1" rowsep="1" class="description-td" colspan="1">TABLE 1</td>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr class="description-tr">
+                <td namest="1" nameend="1" align="center" rowsep="1" class="description-td" colspan="1"> </td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">BChE Polypeptide Variants and Associated SEQ ID NOs</td>
+              </tr>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="11">
+            <colspec colname="1" colwidth="28pt" align="left"> </colspec>
+            <colspec colname="2" colwidth="28pt" align="left"> </colspec>
+            <colspec colname="3" colwidth="28pt" align="left"> </colspec>
+            <colspec colname="4" colwidth="28pt" align="left"> </colspec>
+            <colspec colname="5" colwidth="28pt" align="left"> </colspec>
+            <colspec colname="6" colwidth="28pt" align="left"> </colspec>
+            <colspec colname="7" colwidth="28pt" align="left"> </colspec>
+            <colspec colname="8" colwidth="28pt" align="left"> </colspec>
+            <colspec colname="9" colwidth="49pt" align="center"> </colspec>
+            <colspec colname="10" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="11" colwidth="28pt" align="center"> </colspec>
+            <tbody valign="top">
+              <tr class="description-tr">
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td">Catalytic</td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td">Efficiency</td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td">(k<sub>cat</sub>/K<sub>M</sub>)</td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td">against</td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td">(−)-cocaine</td>
+                <td class="description-td">Nucleic</td>
+                <td class="description-td">Amino</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td">(Approximate</td>
+                <td class="description-td">Acid</td>
+                <td class="description-td">Acid</td>
+              </tr>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="5">
+            <colspec colname="1" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="2" colwidth="196pt" align="center"> </colspec>
+            <colspec colname="3" colwidth="49pt" align="center"> </colspec>
+            <colspec colname="4" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="5" colwidth="28pt" align="center"> </colspec>
+            <tbody valign="top">
+              <tr class="description-tr">
+                <td class="description-td">Variant</td>
+                <td class="description-td">Amino Acid Substitution</td>
+                <td class="description-td">Fold</td>
+                <td class="description-td">SEQ ID</td>
+                <td class="description-td">SEQ ID</td>
+              </tr>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="11">
+            <colspec colname="1" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="2" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="3" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="4" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="5" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="6" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="7" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="8" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="9" colwidth="49pt" align="center"> </colspec>
+            <colspec colname="10" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="11" colwidth="28pt" align="center"> </colspec>
+            <tbody valign="top">
+              <tr class="description-tr">
+                <td class="description-td">Number</td>
+                <td class="description-td">199</td>
+                <td class="description-td">227</td>
+                <td class="description-td">285</td>
+                <td class="description-td">286</td>
+                <td class="description-td">287</td>
+                <td class="description-td">328</td>
+                <td class="description-td">332</td>
+                <td class="description-td">Increase)<sup>a</sup> </td>
+                <td class="description-td">NO:</td>
+                <td class="description-td">NO:</td>
+              </tr>
+              <tr class="description-tr">
+                <td namest="1" nameend="11" align="center" rowsep="1" class="description-td" colspan="11"> </td>
+              </tr>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="11">
+            <colspec colname="1" colwidth="28pt" align="char" char="."> </colspec>
+            <colspec colname="2" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="3" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="4" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="5" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="6" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="7" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="8" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="9" colwidth="49pt" align="char" char="."> </colspec>
+            <colspec colname="10" colwidth="28pt" align="center"> </colspec>
+            <colspec colname="11" colwidth="28pt" align="center"> </colspec>
+            <tbody valign="top">
+              <tr class="description-tr">
+                <td class="description-td">1</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227A</td>
+                <td class="description-td">P285A</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G </td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">4080</td>
+                <td class="description-td"> 1</td>
+                <td class="description-td"> 2</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">2</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227A</td>
+                <td class="description-td">P285S</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G </td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">3700</td>
+                <td class="description-td"> 3</td>
+                <td class="description-td"> 4</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">3</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227A</td>
+                <td class="description-td">P285Q</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G </td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">3590</td>
+                <td class="description-td"> 5</td>
+                <td class="description-td"> 6</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">4</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227P</td>
+                <td class="description-td">-</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">1860</td>
+                <td class="description-td"> 7</td>
+                <td class="description-td"> 8</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">5</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227A</td>
+                <td class="description-td">P285G</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">2420</td>
+                <td class="description-td"> 9</td>
+                <td class="description-td">10</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">6</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227A</td>
+                <td class="description-td">-</td>
+                <td class="description-td">L286M</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">2120</td>
+                <td class="description-td">11</td>
+                <td class="description-td">12</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">7</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">-</td>
+                <td class="description-td">P285Q</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">2220</td>
+                <td class="description-td">13</td>
+                <td class="description-td">14</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">8</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">-</td>
+                <td class="description-td">P285I</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">830</td>
+                <td class="description-td">15</td>
+                <td class="description-td">16</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">9</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227G</td>
+                <td class="description-td">-</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G </td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">2010</td>
+                <td class="description-td">17</td>
+                <td class="description-td">18</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">10</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">-</td>
+                <td class="description-td">P285S</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">1240</td>
+                <td class="description-td">19</td>
+                <td class="description-td">20</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">11</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227V</td>
+                <td class="description-td">-</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">950</td>
+                <td class="description-td">21</td>
+                <td class="description-td">22</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">12</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">-</td>
+                <td class="description-td">P285G</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">1250</td>
+                <td class="description-td">23</td>
+                <td class="description-td">24</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">13</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227I</td>
+                <td class="description-td">-</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G </td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">1240</td>
+                <td class="description-td">25</td>
+                <td class="description-td">26</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">14</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227L</td>
+                <td class="description-td">-</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">1100</td>
+                <td class="description-td">27</td>
+                <td class="description-td">28</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">15</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">-</td>
+                <td class="description-td">-</td>
+                <td class="description-td">L286M</td>
+                <td class="description-td">S287G </td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">740</td>
+                <td class="description-td">29</td>
+                <td class="description-td">30</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">16</td>
+                <td class="description-td">A199S</td>
+                <td class="description-td">F227A </td>
+                <td class="description-td">P285K</td>
+                <td class="description-td">-</td>
+                <td class="description-td">S287G</td>
+                <td class="description-td">A328W</td>
+                <td class="description-td">Y332G</td>
+                <td class="description-td">1540</td>
+                <td class="description-td">31</td>
+                <td class="description-td">32</td>
+              </tr>
+              <tr class="description-tr">
+                <td namest="1" nameend="11" align="center" rowsep="1" class="description-td" colspan="11"> </td>
+              </tr>
+              <tr class="description-tr">
+                <td namest="1" nameend="11" align="left" id="FOO-00001" class="description-td" colspan="11"> <sup>a</sup>The approximate ratio of the k<sub>cat</sub>/K<sub>M </sub>value for the BChE mutant to that for the wild-type BChE against (−)-cocaine.</td>
+              </tr>
+            </tbody>
+          </tgroup>
+        </table>
+      </tables>
+    </p>
+    <p id="p-0050" num="0049">The terms “polypeptide”, “protein”, and “peptide”, which are used interchangeably herein, refer to a polymer of the protein amino acids, or amino acid analogs, regardless of its size or function. Although “protein” is often used in reference to relatively large polypeptides, and “peptide” is often used in reference to small polypeptides, usage of these terms in the art overlaps and varies. The term “polypeptide” as used herein refers to peptides, polypeptides, and proteins, unless otherwise noted. The terms “protein”, “polypeptide”, and “peptide” are used interchangeably herein when referring to a gene product. Thus, exemplary polypeptides include gene products, naturally occurring proteins, homologs, orthologs, paralogs, fragments and other equivalents, variants, and analogs of the foregoing.</p>
+    <p id="p-0051" num="0050">The term “variant” refers to an amino acid sequence that is different from the reference polypeptide by one or more amino acids, e.g., one or more amino acid substitutions. For example a butyrylcholinesterase (BChE) polypeptide variant differs from wild-type BChE by one or more amino acid substitutions, i.e., mutations.</p>
+    <p id="p-0052" num="0051">The terms “polypeptide fragment” or “fragment”, when used in reference to a reference polypeptide, refers to a polypeptide in which amino acid residues are deleted as compared to the reference polypeptide itself, but where the remaining amino acid sequence is usually identical to the corresponding positions in the reference polypeptide. Such deletions can occur at the amino-terminus, carboxy-terminus of the reference polypeptide, or alternatively both. A fragment can also be a “functional fragment,” in which case the fragment retains some or all of the activity of the reference polypeptide as described herein. For example, a functional fragment of a particular BChE polypeptide variant retains some or all of the cocaine hydrolysis activity, i.e., the catalytic efficiency for (−)-cocaine, of the particular BChE polypeptide variant. In this regard, the term “BChE polypeptide variant” is inclusive of functional fragments of the BChE polypeptide variant. Such fragments are typically are at least about 300, 325, 350, 375, 400, 425, 450, 475, 500, 525, or 550 amino acids long. One or more residues from about 1 to 67 and/or one or more residues from about 443 to 574 can be removed without substantially affecting the catalytic activity of the BChE polypeptide variant. As such, the term “BChE polypeptide variant” is inclusive of functional fragments wherein one or more residues from 1 to 67 and/or one or more residues from 443 to 574 is truncated relative to the full-length BChE polypeptide variant.</p>
+    <p id="p-0053" num="0052">The BChE polypeptide variant (e.g., SEQ ID NOS: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, and 32) can be formulated in a pharmaceutical composition along with a suitable pharmaceutical carrier known to one skilled in the art.</p>
+    <p id="p-0054" num="0053">The present BChE variant polypeptides can be used in treating a cocaine-induced condition by administering to an individual, an effective amount of a BChE variant polypeptides, (e.g., SEQ ID NOS: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, and 32), to lower blood cocaine concentration. The BChE polypeptide variant can be administered in the form of a pharmaceutical composition in which the BChE polypeptide variant is included with a suitable pharmaceutical carrier. Treatment of a cocaine-induced condition using one of the aforementioned BChE polypeptide variants can be in a manner that will be understood by those skilled in the art.</p>
+    <p id="p-0055" num="0054">The preferred dose for administration of a BChE polypeptide variant or pharmaceutical composition in accordance with the presently-described subject matter is that amount which will be effective in lowering (−)-cocaine concentration in a patient's bloodstream, and one would readily recognize that this amount will vary greatly depending on the nature of cocaine consumed, e.g., injected or inhaled, and the condition of a patient. An “effective amount” of butyrylcholinesterase polypeptide variant or pharmaceutical composition to be used in accordance with the presently-disclosed subject matter is intended to mean a nontoxic but sufficient amount of the agent, such that the desired prophylactic or therapeutic effect is produced. Thus, the exact amount of the enzyme or a particular agent that is required will vary from subject to subject, depending on the species, age, and general condition of the subject, the severity of the condition being treated, the particular carrier or adjuvant being used and its mode of administration, and the like. Similarly, the dosing regimen should also be adjusted to suit the individual to whom the composition is administered and will once again vary with age, weight, metabolism, etc. of the individual. Accordingly, the “effective amount” of any particular butyrylcholinesterase polypeptide variant, or pharmaceutical composition thereof, will vary based on the particular circumstances, and an appropriate effective amount may be determined in each case of application by one of ordinary skill in the art using only routine experimentation.</p>
+    <p id="p-0056" num="0055">The presently-disclosed subject matter is further illustrated by the following specific but non-limiting examples. The following examples may include compilations of data that are representative of data gathered at various times during the course of development and experimentation related to the presently-disclosed subject matter.</p>
+    <heading id="h-0008">EXAMPLES</heading>
+    <p id="p-0057" num="0056">Embodiments of the BChE polypeptide variants of the presently-disclosed subject matter were made and studied using the following experimental procedure.</p>
+    <p id="p-0058" num="0057">Site-directed mutagenesis of human BChE cDNA was performed by the QuikChange method of Braman, J.; Papworth, C.; Greener, A. <i>Methods Mol. Biol. </i>1996, 57, 5731, incorporated herein by this reference. Mutations were generated from wild-type human BChE in a pRc/CMV expression plasmid in accordance with Xie, W.; Altamirano, C. V.; Bartels, C. F.; Speirs, R. J.; Cashman, J. R.; Lockridge, O. <i>Mol. Pharmacol. </i>1999, 55, 83, each of which is incorporated herein by this reference. The expression plasmid pRc/CMV was kindly provided by Dr. O. Lockridge, University of Nebraska Medical Center (Omaha, Nebr.).</p>
+    <p id="p-0059" num="0058">Using plasmid DNA as template and primers with specific base-pair alterations, mutations were made by polymerase chain reaction with Pfu DNA polymerase, for replication fidelity. The PCR product was treated with Dpn I endonuclease to digest the parental DNA template. Cloned pfu DNA polymerase and Dpn I endonuclease were obtained from Stratagene (La Jolla, Calif.). Modified plasmid DNA was transformed into <i>Escherichia coli</i>, amplified, and purified. The DNA sequences of the mutants were confirmed by DNA sequencing. All oligonucleotides were synthesized by the Integrated DNA Technologies, Inc. The QIAprep Spin Plasmid Miniprep Kit and Qiagen plasmid purification kit and QIAquick PCR purification kit were obtained from Qiagen (Santa Clarita, Calif.).</p>
+    <p id="p-0060" num="0059">BChE mutants were expressed in human embryonic kidney cell line 293T/17. Cells were grown to 80-90% confluence in 6-well dishes and then transfected by Lipofectamine 2000 complexes of 4 μg plasmid DNA per each well. Cells were incubated at 37° C. in a CO<sub>2 </sub>incubator for 24 hours and cells were moved to 60-mm culture vessel and cultured for four more days. The culture medium [10% fetal bovine serum in Dulbecco's modified Eagle's medium (DMEM)] was harvested for a BChE activity assay.</p>
+    <p id="p-0061" num="0060">Human embryonic kidney 293T/17 cells were from ATCC (Manassas, Va.). Dulbecco's modified Eagle's medium (DMEM) was purchased from Fisher Scientific (Fairlawn, N.J.). Oligonucleotide primers were synthesized by the Integrated DNA Technologies and Analysis Facility of the University of Kentucky. 3,3′,5,5′-Tetramethylbenzidine (TMB) was obtained from Sigma (Saint Louis, Mo.). Anti-butyrylcholinesterase (mouse monoclonal antibody, Product # HAH002-01) was purchased from AntibodyShop (Gentofte, Denmark) and Goat anti-mouse IgG HRP conjugate from Zymed (San Francisco, Calif.).</p>
+    <p id="p-0062" num="0061">To measure cocaine and benzoic acid, the product of cocaine hydrolysis by BChE, sensitive radiometric assays based on toluene extraction of [<sup>3</sup>H]-(−)-cocaine labeled on its benzene ring were used in accordance with Zheng, F.; Yang, W.; Ko, M.-C.; Liu, J.; Cho, H.; Gao, D.; Tong, M.; Tai, H.-H.; Woods, J. H.; Zhan, C.-G. “Most Efficient Cocaine Hydrolase Designed by Virtual Screening of Transition States”, <i>J. Am. Chem. Soc. </i>2008, 130, 12148-12155, which is incorporated herein by this reference. <sup>3</sup>H-(−)-cocaine (50 Ci/mmol) was purchased from PerkinElmer Life Sciences (Boston, Mass.).</p>
+    <p id="p-0063" num="0062">In brief, to initiate reactions, 100 nCi of [<sup>3</sup>H]-(−)-cocaine was mixed with 100 μl of culture medium. Reactions proceeded at room temperature (25° C.) with varying concentrations of (−)-cocaine. Reactions were stopped by adding 300 μl of 0.02 M HCl, which neutralized the liberated benzoic acid while ensuring a positive charge on the residual cocaine. [<sup>3</sup>H]benzoic acid was extracted by 1 ml of toluene and measured by scintillation counting. Finally, the measured (−)-cocaine concentration-dependent radiometric data were analyzed by using the standard Michaelis-Menten kinetics so that the catalytic efficiency (k<sub>cat</sub>/K<sub>M</sub>) was determined, along with the use of an enzyme-linked immunosorbent assay (ELISA) described in by Zheng, F.; Yang, W.; Ko, M.-C.; Liu, J.; Cho, H.; Gao, D.; Tong, M.; Tai, H.-H.; Woods, J. H.; Zhan, C.-G. “Most Efficient Cocaine Hydrolase Designed by Virtual Screening of Transition States”, <i>J. Am. Chem. Soc. </i>2008, 130, 12148-12155.</p>
+    <p id="p-0064" num="0063">The catalytic efficiency (k<sub>cat</sub>/K<sub>M</sub>) of the BChE polypeptide variants of SEQ ID NO: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, and 32 are set forth in Table 2.</p>
+    <p id="p-0065" num="0064">
+      <tables id="TABLE-US-00002" num="00002">
+        <table frame="none" colsep="0" rowsep="0" class="description-table">
+          <tgroup align="left" colsep="0" rowsep="0" cols="1">
+            <colspec colname="1" colwidth="217pt" align="center"> </colspec>
+            <thead>
+              <tr class="description-tr">
+                <td namest="1" nameend="1" rowsep="1" class="description-td" colspan="1">TABLE 2</td>
+              </tr>
+            </thead>
+            <tbody valign="top">
+              <tr class="description-tr">
+                <td namest="1" nameend="1" align="center" rowsep="1" class="description-td" colspan="1"> </td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">Catalytic Efficiency (k<sub>cat</sub>/K<sub>M</sub>) of BChE Polypeptide Variants</td>
+              </tr>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="4">
+            <colspec colname="1" colwidth="35pt" align="center"> </colspec>
+            <colspec colname="2" colwidth="42pt" align="center"> </colspec>
+            <colspec colname="3" colwidth="77pt" align="center"> </colspec>
+            <colspec colname="4" colwidth="63pt" align="center"> </colspec>
+            <tbody valign="top">
+              <tr class="description-tr">
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td">Catalytic Efficiency</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td"> </td>
+                <td class="description-td"> </td>
+                <td class="description-td">Catalytic Efficiency</td>
+                <td class="description-td">against (−)-cocaine</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">Variant</td>
+                <td class="description-td">Amino Acid</td>
+                <td class="description-td">against (−)-cocaine</td>
+                <td class="description-td">(Approximate </td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">Number</td>
+                <td class="description-td">SEQ ID NO:</td>
+                <td class="description-td">(M<sup>−1 </sup>min<sup>−1</sup>)</td>
+                <td class="description-td">Fold Increase)<sup>a</sup> </td>
+              </tr>
+              <tr class="description-tr">
+                <td namest="1" nameend="4" align="center" rowsep="1" class="description-td" colspan="4"> </td>
+              </tr>
+            </tbody>
+          </tgroup>
+          <tgroup align="left" colsep="0" rowsep="0" cols="4">
+            <colspec colname="1" colwidth="35pt" align="char" char="."> </colspec>
+            <colspec colname="2" colwidth="42pt" align="char" char="."> </colspec>
+            <colspec colname="3" colwidth="77pt" align="center"> </colspec>
+            <colspec colname="4" colwidth="63pt" align="center"> </colspec>
+            <tbody valign="top">
+              <tr class="description-tr">
+                <td class="description-td">1</td>
+                <td class="description-td">2</td>
+                <td class="description-td">3.72 × 10<sup>9</sup> </td>
+                <td class="description-td">4080</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">2</td>
+                <td class="description-td">4</td>
+                <td class="description-td">3.37 × 10<sup>9</sup> </td>
+                <td class="description-td">3700</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">3</td>
+                <td class="description-td">6</td>
+                <td class="description-td">3.27 × 10<sup>9</sup> </td>
+                <td class="description-td">3590</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">4</td>
+                <td class="description-td">8</td>
+                <td class="description-td">1.69 × 10<sup>9</sup> </td>
+                <td class="description-td">1860</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">5</td>
+                <td class="description-td">10</td>
+                <td class="description-td">2.20 × 10<sup>9</sup> </td>
+                <td class="description-td">2420</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">6</td>
+                <td class="description-td">12</td>
+                <td class="description-td">1.93 × 10<sup>9</sup> </td>
+                <td class="description-td">2120</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">7</td>
+                <td class="description-td">14</td>
+                <td class="description-td">2.02 × 10<sup>9</sup> </td>
+                <td class="description-td">2220</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">8</td>
+                <td class="description-td">16</td>
+                <td class="description-td">7.56 × 10<sup>8</sup> </td>
+                <td class="description-td"> 830</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">9</td>
+                <td class="description-td">18</td>
+                <td class="description-td">1.83 × 10<sup>9</sup> </td>
+                <td class="description-td">2010</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">10</td>
+                <td class="description-td">20</td>
+                <td class="description-td">1.13 × 10<sup>9</sup> </td>
+                <td class="description-td">1240</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">11</td>
+                <td class="description-td">22</td>
+                <td class="description-td">8.65 × 10<sup>8</sup> </td>
+                <td class="description-td"> 950</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">12</td>
+                <td class="description-td">24</td>
+                <td class="description-td">1.14 × 10<sup>9</sup> </td>
+                <td class="description-td">1250</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">13</td>
+                <td class="description-td">26</td>
+                <td class="description-td">1.13 × 10<sup>9</sup> </td>
+                <td class="description-td">1240</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">14</td>
+                <td class="description-td">28</td>
+                <td class="description-td">1.00 × 10<sup>9</sup> </td>
+                <td class="description-td">1100</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">15</td>
+                <td class="description-td">30</td>
+                <td class="description-td">6.74 × 10<sup>8</sup> </td>
+                <td class="description-td"> 740</td>
+              </tr>
+              <tr class="description-tr">
+                <td class="description-td">16</td>
+                <td class="description-td">32</td>
+                <td class="description-td">1.40 × 10<sup>9</sup> </td>
+                <td class="description-td">1540</td>
+              </tr>
+              <tr class="description-tr">
+                <td namest="1" nameend="4" align="center" rowsep="1" class="description-td" colspan="4"> </td>
+              </tr>
+              <tr class="description-tr">
+                <td namest="1" nameend="4" align="left" id="FOO-00002" class="description-td" colspan="4"> <sup>a</sup>The approximate ratio of the k<sub>cat</sub>/K<sub>M </sub>value for the BChE mutant to that for the wild-type BChE against (−)-cocaine.</td>
+              </tr>
+            </tbody>
+          </tgroup>
+        </table>
+      </tables>
+    </p>
+    <p id="p-0066" num="0065">The catalytic efficiencies (k<sub>cat</sub>/K<sub>M</sub>) of the BChE polypeptide variants were found to be between about 6.74×10<sup>8 </sup>and 3.72×10<sup>9</sup>M<sup>−1 </sup>min<sup>−1</sup>, which is about 740 to about 4080 times the k<sub>cat</sub>/K<sub>M </sub>value (9.11×10<sup>5</sup>M<sup>−1 </sup>min<sup>−1</sup>) of the wild-type BChE.</p>
+    <p id="p-0067" num="0066">Enzyme-linked immunosorbent assays (ELISA) were preformed as follows. The ELISA buffers used were the same as those described in the literature such as Brock, A.; Mortensen, V.; Loft, A. G. R.; Nergaard-Pedersen, B. <i>J. Clin. Chem. Clin. Biochem. </i>1990, 28, 221-224; and Khattab, A. D.; Walker, C. H.; Johnston, G.; Siddiqui, M. K. Saphier, P. W. <i>Environmental Toxicology and Chemistry </i>1994, 13, 1661-1667, both of which are incorporated herein by this reference. The coating buffer was 0.1 M sodium carbonate/bicarbonate buffer, pH 9.5. The diluent buffer (EIA buffer) was potassium phosphate monobasic/potassium phosphate monohydrate buffer, pH 7.5, containing 0.9% sodium chloride and 0.1% bovine serum albumin. The washing buffer (PBS-T) was 0.01 M potassium phosphate monobasic/potassium phosphate monohydrate buffer, pH 7.5, containing 0.05% (v/v) Tween-20. All the assays were performed in triplicate. Each well of an ELISA microtiter plate was filled with 100 μl of the mixture buffer consisting of 20 μl culture medium and 80 μl coating buffer. The plate was covered and incubated overnight at 4° C. to allow the antigen to bind to the plate. The solutions were then removed and the wells were washed four times with PBS-T. The washed wells were filled with 200 μl diluent buffer and kept shaking for 1.5 h at room temperature (25° C.). After washing with PBS-T for four times, the wells were filled with 100 μl antibody (1:8000) and were incubated for 1.5 h, followed by washing for four times. Then, the wells were filled with 100 μl goat anti-mouse IgG HRP conjugate complex diluted to a final 1:3000 dilution, and were incubated at room temperature for 1.5 h, followed by washing for four times. The enzyme reactions were started by addition of 100 μl substrate (TMB) solution. The reactions were stopped after 15 min by the addition of 100 μl of 2 M sulfuric acid, and the absorbance was read at 460 nm using a Bio-Rad ELISA plate reader.</p>
+    <p id="p-0068" num="0067">While the terms used herein are believed to be well understood by one of ordinary skill in the art, the definitions set forth herein are provided to facilitate explanation of the presently-disclosed subject matter.</p>
+    <p id="p-0069" num="0068">Unless defined otherwise, all technical and scientific terms used herein have the same meaning as commonly understood by one of ordinary skill in the art to which the presently-disclosed subject matter belongs. Although any methods, devices, and materials similar or equivalent to those described herein can be used in the practice or testing of the presently-disclosed subject matter, representative methods, devices, and materials are now described.</p>
+    <p id="p-0070" num="0069">Following long-standing patent law convention, the terms “a”, “an”, and “the” refer to “one or more” when used in this application, including the claims. Thus, for example, reference to “a cell” includes a plurality of such cells, and so forth.</p>
+    <p id="p-0071" num="0070">Unless otherwise indicated, all numbers expressing quantities of ingredients, properties such as reaction conditions, and so forth used in the specification and claims are to be understood as being modified in all instances by the term “about”. Accordingly, unless indicated to the contrary, the numerical parameters set forth in this specification and claims are approximations that can vary depending upon the desired properties sought to be obtained by the presently-disclosed subject matter.</p>
+    <p id="p-0072" num="0071">As used herein, the term “about,” when referring to a value or to an amount of mass, weight, time, volume, concentration or percentage is meant to encompass variations of in some embodiments±50%, in some embodiments±40%, in some embodiments±30%, in some embodiments±20%, in some embodiments±10%, in some embodiments±5%, in some embodiments±1%, in some embodiments±0.5%, and in some embodiments±0.1% from the specified amount, as such variations are appropriate to perform the disclosed method.</p>
+    <p id="p-0073" num="0072">Throughout this document, various references are mentioned. All such references are incorporated herein by reference.</p>
+    
+  </div>
+  </div>
+  </section>
+
+  <section itemprop="claims" itemscope>
+    <h2>Claims (<span itemprop="count">5</span>)</h2>
+    
+    <div itemprop="content" html><div mxw-id="PCLM34993355" lang="EN" load-source="patent-office" class="claims">
+    <div class="claim"> <div id="CLM-00001" num="00001" class="claim">
+      <div class="claim-text">1. A butyrylcholinesterase polypeptide variant comprising the amino acid sequence of SEQ ID NO: 4.</div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00002" num="00002" class="claim">
+      <div class="claim-text">2. A pharmaceutical composition comprising:
+<div class="claim-text">a butyrylcholinesterase polypeptide variant comprising the amino acid sequence of SEQ ID NO: 4; and</div>
+<div class="claim-text">a suitable pharmaceutical carrier.</div>
+</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00003" num="00003" class="claim">
+      <div class="claim-text">3. A method of treating a cocaine-induced condition comprising administering to an individual an effective amount of the butyrylcholinesterase polypeptide variant of <claim-ref idref="CLM-00001">claim 1</claim-ref> to lower blood cocaine concentration.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00004" num="00004" class="claim">
+      <div class="claim-text">4. The method of <claim-ref idref="CLM-00003">claim 3</claim-ref>, wherein said butyrylcholinesterase polypeptide variant exhibits a one-hundred-fold or more increase in cocaine hydrolysis catalytic efficiency compared to butyrylcholinesterase.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00005" num="00005" class="claim">
+      <div class="claim-text">5. A method of treating a cocaine-induced condition comprising administering to an individual an effective amount of the pharmaceutical composition of <claim-ref idref="CLM-00002">claim 2</claim-ref> to lower blood cocaine concentration.</div>
+    </div>
+  </div> </div>
+  </div>
+  </section>
+
+  <section itemprop="application" itemscope>
+
+    <section itemprop="metadata" itemscope>
+        <span itemprop="applicationNumber">US12767128</span>
+        <span itemprop="priorityDate">2005-10-04</span>
+        <span itemprop="filingDate">2010-04-26</span>
+        <span itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </span>
+        <span itemprop="ifiStatus">Active</span>
+        
+        <a href="/patent/US7892537B1/en">
+            <span itemprop="representativePublication">US7892537B1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+        </a>
+    </section>
+
+    <h2>Priority Applications (4)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US11243111</span>
+                   
+                   <a href="/patent/US7438904B1/en">
+                        <span itemprop="representativePublication">US7438904B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2005-10-04</td>
+                <td itemprop="title">High-activity mutants of butyrylcholinesterase for cocaine hydrolysis and method of generating the same 
+       </td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12192394</span>
+                   
+                   <a href="/patent/US7731957B1/en">
+                        <span itemprop="representativePublication">US7731957B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2008-08-15</td>
+                <td itemprop="title">High-activity mutants of butyrylcholinesterase for cocaine hydrolysis and method of generating the same 
+       </td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12685341</span>
+                   
+                   <a href="/patent/US7740840B1/en">
+                        <span itemprop="representativePublication">US7740840B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2010-01-11</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12767128</span>
+                   
+                   <a href="/patent/US7892537B1/en">
+                        <span itemprop="representativePublication">US7892537B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2010-04-26</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr>
+           </tbody>
+       </table>
+
+    <h2>Applications Claiming Priority (5)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="appsClaimingPriority" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12767128</span>
+                   <a href="/patent/US7892537B1/en">
+                        <span itemprop="representativePublication">US7892537B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2010-04-26</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="appsClaimingPriority" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US13005213</span>
+                   <a href="/patent/US8206703B1/en">
+                        <span itemprop="representativePublication">US8206703B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2011-01-12</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="appsClaimingPriority" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US13479899</span>
+                   <a href="/patent/US8846887B1/en">
+                        <span itemprop="representativePublication">US8846887B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2012-05-24</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="appsClaimingPriority" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US14470751</span>
+                   <a href="/patent/US9175274B1/en">
+                        <span itemprop="representativePublication">US9175274B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2014-08-27</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="appsClaimingPriority" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US14864090</span>
+                   <a href="/patent/US9415092B1/en">
+                        <span itemprop="representativePublication">US9415092B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2015-09-24</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr>
+           </tbody>
+       </table>
+
+    <h2>Related Parent Applications (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="parentApps" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12685341</span>
+                    <span itemprop="relationType">Division</span>
+                    <a href="/patent/US7740840B1/en">
+                        <span itemprop="representativePublication">US7740840B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+
+                <td itemprop="">
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2010-01-11</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Related Child Applications (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="childApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US13005213</span>
+                    <span itemprop="relationType">Division</span>
+                    <a href="/patent/US8206703B1/en">
+                        <span itemprop="representativePublication">US8206703B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2011-01-12</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Publications (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Publication Number</th>
+                    <th>Publication Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="pubs" itemscope repeat>
+                <td>
+                   <span itemprop="publicationNumber">US7892537B1</span>
+                   
+                   
+                   <span itemprop="thisPatent">true</span>
+                   <a href="/patent/US7892537B1/en">US7892537B1
+                       (<span itemprop="primaryLanguage">en</span>)
+                   </a>
+                </td>
+                <td itemprop="publicationDate">2011-02-22</td>
+              </tr>
+           </tbody>
+        </table>
+
+  </section>
+
+  <section itemprop="family" itemscope>
+    <h1>Family</h1>
+    <h2>ID=42260628</h2>
+
+    <h2>Family Applications (6)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12685341</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US7740840B1/en">
+                        <span itemprop="representativePublication">US7740840B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2010-01-11</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12767128</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US7892537B1/en">
+                        <span itemprop="representativePublication">US7892537B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2010-04-26</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US13005213</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8206703B1/en">
+                        <span itemprop="representativePublication">US8206703B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2011-01-12</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US13479899</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    <span itemprop="ifiExpiration">2026-06-25</span>
+                    <a href="/patent/US8846887B1/en">
+                        <span itemprop="representativePublication">US8846887B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2012-05-24</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US14470751</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US9175274B1/en">
+                        <span itemprop="representativePublication">US9175274B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2014-08-27</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US14864090</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US9415092B1/en">
+                        <span itemprop="representativePublication">US9415092B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2015-09-24</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Family Applications Before (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="beforeApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12685341</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US7740840B1/en">
+                        <span itemprop="representativePublication">US7740840B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2010-01-11</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Family Applications After (4)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US13005213</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8206703B1/en">
+                        <span itemprop="representativePublication">US8206703B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2011-01-12</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US13479899</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    <span itemprop="ifiExpiration">2026-06-25</span>
+                    <a href="/patent/US8846887B1/en">
+                        <span itemprop="representativePublication">US8846887B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2012-05-24</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US14470751</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US9175274B1/en">
+                        <span itemprop="representativePublication">US9175274B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2014-08-27</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr><tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US14864090</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US9415092B1/en">
+                        <span itemprop="representativePublication">US9415092B1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2005-10-04</td>
+                <td itemprop="filingDate">2015-09-24</td>
+                <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Country Status (1)</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Country</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">US</span>
+                (<span itemprop="num">6</span>)
+              <meta itemprop="thisCountry" content="true">
+              
+              
+            </td>
+            <td>
+              <a href="/patent/US7740840B1/en">
+                <span itemprop="representativePublication">US7740840B1</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr>
+      </tbody>
+    </table>
+
+    <h2>Cited By (1)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2013040501A1/en">
+              <span itemprop="publicationNumber">WO2013040501A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2011-09-16</td>
+          <td itemprop="publicationDate">2013-03-21</td>
+          <td><span itemprop="assigneeOriginal">Pharmathene, Inc.</span></td>
+          <td itemprop="title">Compositions and combinations of organophosphorus bioscavengers and hyaluronan-degrading enzymes, and uses thereof 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Families Citing this family (1)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7740840B1/en">
+              <span itemprop="publicationNumber">US7740840B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-10-04</td>
+          <td itemprop="publicationDate">2010-06-22</td>
+          <td><span itemprop="assigneeOriginal">University Of Kentucky Research Foundation</span></td>
+          <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Citations (5)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20030153062A1/en">
+              <span itemprop="publicationNumber">US20030153062A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-12-20</td>
+          <td itemprop="publicationDate">2003-08-14</td>
+          <td><span itemprop="assigneeOriginal">Watkins Jeffry D.</span></td>
+          <td itemprop="title">Butyrylcholinesterase variant polypeptides with increased catalytic efficiency and methods of use 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20040120939A1/en">
+              <span itemprop="publicationNumber">US20040120939A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-12-20</td>
+          <td itemprop="publicationDate">2004-06-24</td>
+          <td><span itemprop="assigneeOriginal">Applied Molecular Evolution</span></td>
+          <td itemprop="title">Butyrylcholinesterase variant polypeptides with increased catalytic efficiency and methods of use 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7049121B2/en">
+              <span itemprop="publicationNumber">US7049121B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-12-20</td>
+          <td itemprop="publicationDate">2006-05-23</td>
+          <td><span itemprop="assigneeOriginal">Applied Molecular Evolution</span></td>
+          <td itemprop="title">Butyrylcholinesterase variant polypeptides with increased catalytic efficiency and methods of use 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7438904B1/en">
+              <span itemprop="publicationNumber">US7438904B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-10-04</td>
+          <td itemprop="publicationDate">2008-10-21</td>
+          <td><span itemprop="assigneeOriginal">University Of Kentucky Research Foundation</span></td>
+          <td itemprop="title">High-activity mutants of butyrylcholinesterase for cocaine hydrolysis and method of generating the same 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7740840B1/en">
+              <span itemprop="publicationNumber">US7740840B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-10-04</td>
+          <td itemprop="publicationDate">2010-06-22</td>
+          <td><span itemprop="assigneeOriginal">University Of Kentucky Research Foundation</span></td>
+          <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Family Cites Families (1)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP3638778B2/en">
+              <span itemprop="publicationNumber">JP3638778B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1997-03-31</td>
+          <td itemprop="publicationDate">2005-04-13</td>
+          <td><span itemprop="assigneeOriginal">株式会社ルネサステクノロジ</span></td>
+          <td itemprop="title">  The semiconductor integrated circuit device and manufacturing method thereof  </td>
+        </tr>
+      </tbody>
+    </table>
+
+    </section>
+
+  <section>
+    <h2>Patent Citations (6)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20030153062A1/en">
+              <span itemprop="publicationNumber">US20030153062A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-12-20</td>
+          <td itemprop="publicationDate">2003-08-14</td>
+          <td><span itemprop="assigneeOriginal">Watkins Jeffry D.</span></td>
+          <td itemprop="title">Butyrylcholinesterase variant polypeptides with increased catalytic efficiency and methods of use 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20040120939A1/en">
+              <span itemprop="publicationNumber">US20040120939A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-12-20</td>
+          <td itemprop="publicationDate">2004-06-24</td>
+          <td><span itemprop="assigneeOriginal">Applied Molecular Evolution</span></td>
+          <td itemprop="title">Butyrylcholinesterase variant polypeptides with increased catalytic efficiency and methods of use 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7049121B2/en">
+              <span itemprop="publicationNumber">US7049121B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-12-20</td>
+          <td itemprop="publicationDate">2006-05-23</td>
+          <td><span itemprop="assigneeOriginal">Applied Molecular Evolution</span></td>
+          <td itemprop="title">Butyrylcholinesterase variant polypeptides with increased catalytic efficiency and methods of use 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7438904B1/en">
+              <span itemprop="publicationNumber">US7438904B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-10-04</td>
+          <td itemprop="publicationDate">2008-10-21</td>
+          <td><span itemprop="assigneeOriginal">University Of Kentucky Research Foundation</span></td>
+          <td itemprop="title">High-activity mutants of butyrylcholinesterase for cocaine hydrolysis and method of generating the same 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7731957B1/en">
+              <span itemprop="publicationNumber">US7731957B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-10-04</td>
+          <td itemprop="publicationDate">2010-06-08</td>
+          <td><span itemprop="assigneeOriginal">University Of Kentucky Research Foundation</span></td>
+          <td itemprop="title">High-activity mutants of butyrylcholinesterase for cocaine hydrolysis and method of generating the same 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7740840B1/en">
+              <span itemprop="publicationNumber">US7740840B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-10-04</td>
+          <td itemprop="publicationDate">2010-06-22</td>
+          <td><span itemprop="assigneeOriginal">University Of Kentucky Research Foundation</span></td>
+          <td itemprop="title">High activity mutants of butyrylcholinesterase for cocaine hydrolysis 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Non-Patent Citations (8)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Gao, et al.; Modeling effects of oxyanion hole on the ester hydrolyses catalyzed by human cholinesterases; Phys. Chem. B; 2005; 109; pp. 23070-23076.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Gao, et al; Computational design of a human butyrylcholinesterase mutant for accelerating cocaine hydrolysis based on the transition-state simulation; Angew. Chem. Int. Ed.; 2006; 45; pp. 653-657.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Gao, et al; Modeling evolution of hydrogen bonding and stablization of transition states in the process of cocaine hydrolysis catalyzed by human butyrylcholinesterase; Proteins; 2006; 62; pp. 99-110.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Hamza, et al.; Molecular dynamics simulation of cocaine binding with human butyrylcholinesterase and its mutants; J. Phys. Chem. B.; 2005; 109; pp. 4776-4782.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Pan, et al.; Computational redesign of human butyrylcholinesterase for anti-cocaine medication; G. Proc. Natl. Acad. Sci. USA; 2005; 102; pp. 16656-16661.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Xie, et al.; An improved cocaine hydrolase: the A328Y mutant of human butyrylcholinesterase is 4-fold more efficient; Moleculare Pharm; 1999; 55; pp. 83-91.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Zhan, et al.; Catalytic Mechanism and energy barriers for butyrylcholinesterase-catalyzed hydrolysis of cocaine; Biophysical Journal; 2005; 89; 3863-3872.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Zhan, et al.; Fundamental reaction mechanism for cocaine metabolism in human butyrylcholinesterase; J. Am. Chem. Soc.; 2003; 125; pp. 2462-2474.</span>
+            
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <h2>Cited By (1)</h2>
+  <table>
+    <caption>* Cited by examiner, † Cited by third party</caption>
+    <thead>
+      <tr>
+        <th>Publication number</th>
+        <th>Priority date</th>
+        <th>Publication date</th>
+        <th>Assignee</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          
+          
+          <a href="/patent/WO2013040501A1/en">
+            <span itemprop="publicationNumber">WO2013040501A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          
+          
+        </td>
+        <td itemprop="priorityDate">2011-09-16</td>
+        <td itemprop="publicationDate">2013-03-21</td>
+        <td><span itemprop="assigneeOriginal">Pharmathene, Inc.</span></td>
+        <td itemprop="title">Compositions and combinations of organophosphorus bioscavengers and hyaluronan-degrading enzymes, and uses thereof 
+       </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <section>
+    <h2>Also Published As</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Publication date</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8206703B1/en">
+              <span itemprop="publicationNumber">US8206703B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-06-26</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7740840B1/en">
+              <span itemprop="publicationNumber">US7740840B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2010-06-22</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9415092B1/en">
+              <span itemprop="publicationNumber">US9415092B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2016-08-16</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8846887B1/en">
+              <span itemprop="publicationNumber">US8846887B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2014-09-30</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9175274B1/en">
+              <span itemprop="publicationNumber">US9175274B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2015-11-03</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Similar Documents</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication</th>
+          <th>Publication Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="17079165556799459197">
+              <a href="/scholar/17079165556799459197"><span itemprop="scholarAuthors">Redinbo et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2005">2005</time>
+          </td>
+          <td itemprop="title">Keynote review: Mammalian carboxylesterases: From drug targets to protein therapeutics</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="5932625134437591220">
+              <a href="/scholar/5932625134437591220"><span itemprop="scholarAuthors">Müller et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1996">1996</time>
+          </td>
+          <td itemprop="title">Altered drug-stimulated ATPase activity in mutants of the human multidrug resistance protein</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="10179940685704513198">
+              <a href="/scholar/10179940685704513198"><span itemprop="scholarAuthors">Pediaditakis et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2001">2001</time>
+          </td>
+          <td itemprop="title">The processing and utilization of hepatocyte growth factor/scatter factor following partial hepatectomy in the rat</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="9177136763809102393">
+              <a href="/scholar/9177136763809102393"><span itemprop="scholarAuthors">Veefkind et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2000">2000</time>
+          </td>
+          <td itemprop="title">Venlafaxine serum levels and CYP2D6 genotype</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6348584B1/en">
+                <span itemprop="publicationNumber">US6348584B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2002-02-19">2002-02-19</time>
+            
+          </td>
+          <td itemprop="title">Fibronectin binding protein compounds 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="8527227423801594310">
+              <a href="/scholar/8527227423801594310"><span itemprop="scholarAuthors">Lampasona et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1996">1996</time>
+          </td>
+          <td itemprop="title">Autoantibodies in insulin-dependent diabetes recognize distinct cytoplasmic domains of the protein tyrosine phosphatase-like IA-2 autoantigen.</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20060251619A1/en">
+                <span itemprop="publicationNumber">US20060251619A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2006-11-09">2006-11-09</time>
+            
+          </td>
+          <td itemprop="title">Modified interferon-gamma polypeptides and methods for using modified interferon-gamma polypeptides 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6267964B1/en">
+                <span itemprop="publicationNumber">US6267964B1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2001-07-31">2001-07-31</time>
+            
+          </td>
+          <td itemprop="title">Stabilized protein or peptide conjugates able to bond albumin having extended biological half-lives 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="11396885925467564398">
+              <a href="/scholar/11396885925467564398"><span itemprop="scholarAuthors">Verstraete</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2000">2000</time>
+          </td>
+          <td itemprop="title">Third-generation thrombolytic drugs</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="14571950520735429859">
+              <a href="/scholar/14571950520735429859"><span itemprop="scholarAuthors">Yun et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2001">2001</time>
+          </td>
+          <td itemprop="title">A structural pathway for activation of the kinesin motor ATPase</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US5801146A/en">
+                <span itemprop="publicationNumber">US5801146A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1998-09-01">1998-09-01</time>
+            
+          </td>
+          <td itemprop="title">Compound and method for inhibiting angiogenesis 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US5641669A/en">
+                <span itemprop="publicationNumber">US5641669A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1997-06-24">1997-06-24</time>
+            
+          </td>
+          <td itemprop="title">Platelet-activating factor acetylhydrolase 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="13781864832798549324">
+              <a href="/scholar/13781864832798549324"><span itemprop="scholarAuthors">Tanswell et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2002">2002</time>
+          </td>
+          <td itemprop="title">Pharmacokinetics and pharmacodynamics of tenecteplase in fibrinolytic therapy of acute myocardial infarction</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="13108854971916555327">
+              <a href="/scholar/13108854971916555327"><span itemprop="scholarAuthors">Oppermann et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1999">1999</time>
+          </td>
+          <td itemprop="title">Binding of amyloid β‐peptide to mitochondrial hydroxyacyl‐CoA dehydrogenase (ERAB): regulation of an SDR enzyme activity with implications for apoptosis in Alzheimer&#39;s disease</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="10154273707683033610">
+              <a href="/scholar/10154273707683033610"><span itemprop="scholarAuthors">Bernaerts et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1996">1996</time>
+          </td>
+          <td itemprop="title">Recombinant Staphylokinase Variants With Altered Immunoreactivity: I: Construction and Characterization</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="9389865496132987805">
+              <a href="/scholar/9389865496132987805"><span itemprop="scholarAuthors">Bonifacio et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1998">1998</time>
+          </td>
+          <td itemprop="title">IA-2 (islet cell antigen 512) is the primary target of humoral autoimmunity against type 1 diabetes-associated tyrosine phosphatase autoantigens</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20070178081A1/en">
+                <span itemprop="publicationNumber">US20070178081A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2007-08-02">2007-08-02</time>
+            
+          </td>
+          <td itemprop="title">Combination therapy for treating protein deficiency disorders 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="8752951736602493490">
+              <a href="/scholar/8752951736602493490"><span itemprop="scholarAuthors">Turner et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2002">2002</time>
+          </td>
+          <td itemprop="title">Biochemical characterization and structural analysis of a highly proficient cocaine esterase</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6013630A/en">
+                <span itemprop="publicationNumber">US6013630A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2000-01-11">2000-01-11</time>
+            
+          </td>
+          <td itemprop="title">Atrial natriuretic factor mutants and ischemic stroke 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/WO2000008152A1/en">
+                <span itemprop="publicationNumber">WO2000008152A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2000-02-17">2000-02-17</time>
+            
+          </td>
+          <td itemprop="title">Novel orphan cytokine receptors 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/WO2011028228A1/en">
+                <span itemprop="publicationNumber">WO2011028228A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2011-03-10">2011-03-10</time>
+            
+          </td>
+          <td itemprop="title">Coagulation factor vii compositions and methods of making and using same 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="15748108048147545936">
+              <a href="/scholar/15748108048147545936"><span itemprop="scholarAuthors">Thorpe et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1990">1990</time>
+          </td>
+          <td itemprop="title">The carboxyl region contains the catalytic domain of the membrane form of guanylate cyclase.</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="4812911751817217853">
+              <a href="/scholar/4812911751817217853"><span itemprop="scholarAuthors">He et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2004">2004</time>
+          </td>
+          <td itemprop="title">Identification of Val117 and Arg372 as critical amino acid residues for the activity difference between human CYP2A6 and CYP2A13 in coumarin 7-hydroxylation</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="2882612224986191803">
+              <a href="/scholar/2882612224986191803"><span itemprop="scholarAuthors">Xue et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2011">2011</time>
+          </td>
+          <td itemprop="title">Design, preparation, and characterization of high-activity mutants of human butyrylcholinesterase specific for detoxification of cocaine</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="10002322370798367611">
+              <a href="/scholar/10002322370798367611"><span itemprop="scholarAuthors">Kurosaki et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1999">1999</time>
+          </td>
+          <td itemprop="title">Molecular cloning of the cDNA coding for mouse aldehyde oxidase: tissue distribution and regulation in vivo by testosterone.</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Legal Events</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Code</th>
+          <th>Title</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2014-10-03">2014-10-03</time></td>
+          <td itemprop="code">REMI</td>
+          <td itemprop="title">Maintenance fee reminder mailed</td>
+          <td>
+            
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2014-10-21">2014-10-21</time></td>
+          <td itemprop="code">FPAY</td>
+          <td itemprop="title">Fee payment</td>
+          <td>
+            
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">4</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2014-10-21">2014-10-21</time></td>
+          <td itemprop="code">SULP</td>
+          <td itemprop="title">Surcharge for late payment</td>
+          <td>
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</article>
+
+      
+    </search-app>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/api.js"></script>
+    <script async="" defer="" src="//www.google.com/insights/consumersurveys/async_survey?site=cxkjf7ipxgbnnjy6k35ezcvbbe"></script>
+  </body>
+</html>

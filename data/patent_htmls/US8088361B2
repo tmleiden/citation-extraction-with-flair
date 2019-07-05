@@ -1,0 +1,3379 @@
+<!doctype html>
+<html>
+  <head>
+    <title>US8088361B2 - Treatment of allergic rhinitis in mammals with Clostridia neurotoxins 
+        - Google Patents</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <link rel="canonical" href="https://patents.google.com/patent/US8088361B2/en">
+    <meta name="description" content="
+     A method is disclosed for blocking or reducing physiological reaction in a mammal to the interaction of IgE antibodies present in said mammal upon contact with the corresponding antigen, by the administration to said mammal of a therapeutically effective amount of a neurotoxin (CnT) derived from  Clostridia  sp. 
+   
+   ">
+    
+    <meta name="DC.type" content="patent">
+    
+    <meta name="DC.title" content="Treatment of allergic rhinitis in mammals with Clostridia neurotoxins 
+       ">
+    
+    <meta name="DC.date" content="2010-12-22" scheme="dateSubmitted">
+    
+    <meta name="DC.description" content="
+     A method is disclosed for blocking or reducing physiological reaction in a mammal to the interaction of IgE antibodies present in said mammal upon contact with the corresponding antigen, by the administration to said mammal of a therapeutically effective amount of a neurotoxin (CnT) derived from  Clostridia  sp. 
+   
+   ">
+    
+    <meta name="citation_patent_application_number" content="US:12/976,421">
+    
+    <meta name="citation_pdf_url" content="https://patentimages.storage.googleapis.com/b2/89/ec/743df621f2b3d9/US8088361.pdf">
+    
+    <meta name="citation_patent_number" content="US:8088361">
+    
+    <meta name="DC.date" content="2012-01-03" scheme="issue">
+    
+    <meta name="DC.contributor" content="Ira Sanders" scheme="inventor">
+    
+    <meta name="DC.contributor" content="Ira Sanders" scheme="assignee">
+    
+    <meta name="DC.relation" content="US:20030157134:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:20020082197:A1" scheme="references">
+    
+    <meta name="DC.relation" content="WO:1995028171:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:5670484" scheme="references">
+    
+    <meta name="DC.relation" content="US:6822076" scheme="references">
+    
+    <meta name="DC.relation" content="US:7537773" scheme="references">
+    
+    <meta name="DC.relation" content="WO:2000015245:A2" scheme="references">
+    
+    <meta name="DC.relation" content="US:6429189" scheme="references">
+    
+    <meta name="DC.relation" content="WO:2002000172:A2" scheme="references">
+    
+    <meta name="DC.relation" content="US:20110150975:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:20110091505:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:20110086072:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:7879340" scheme="references">
+    
+    <meta name="DC.relation" content="US:20040247606:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:7655243" scheme="references">
+    
+    <meta name="DC.relation" content="US:7608275" scheme="references">
+    
+    <meta name="citation_reference" content="Hoffman, Hans Jürgen et al., &#34;SNARE Proteins are Critical for Regulated Exocytosis of ECP from Human Eosinophils&#34;, Biochemical and Biophysical Research Communications, vol. 282, (2001), p. 194-199." scheme="references">
+    
+    <meta name="citation_reference" content="Logan, M.R., &#34;A Critical Role for Vesicle-Associated Membrane Protein-7 in Exocytosis for Human Eosinophils and Neutrophils&#34;, Allergy, vol. 61, (2006), p. 777-784." scheme="references">
+    
+    <meta name="citation_reference" content="Mazzone, Stuart B., et al., &#34;Evidence for Differential Reflex Regulation of Cholinergic and Noncholinergic Payasympathetic Nerves Innervating the Airways&#34;, American Journal of Respiratory and Critical Care Medicine, vol. 165, (2002), p. 1076-1083." scheme="references">
+    
+    <meta name="citation_reference" content="Rohrbach, S., et al., &#34;Minimally Invasive Application of Botulinum Toxin Type A in Nasal Hypersecretion&#34;, Journal for Oto-Rhino-Laryngology and its Related Specialties, Nov.-Dec. 2001, vol. 63, No. 6, Nov. 2001, p. 382-384." scheme="references">
+    
+    <meta name="citation_reference" content="Rohrbach, S., et al., Botulinum Toxin Type A Induces Apoptosis in Nasal Glands of Guinea Pigs, Annals of Otology, Rhinology and Laryngology, vol. 101, (2001), p. 1045-1050." scheme="references">
+    
+    <meta name="citation_reference" content="Shaari, Christopher M., et al., &#34;Rhinorrhea is Decreased in Dogs After Nasal Application of Botulinum Toxin&#34;, Otolaryngology-Head and Neck Surgery, vol. 112, No. 4, (1995), p. 566-571." scheme="references">
+    
+    <meta name="citation_reference" content="Shaari, Christopher M., et al., &#34;Rhinorrhea is Decreased in Dogs After Nasal Application of Botulinum Toxin&#34;, Otolaryngology—Head and Neck Surgery, vol. 112, No. 4, (1995), p. 566-571." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,317-Non-Final Rejection dated Jun. 7, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,317—Non-Final Rejection dated Jun. 7, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,317-Response/Amendment dated Sep. 7, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,317—Response/Amendment dated Sep. 7, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,459-Non-Final Rejection dated Jun. 8, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,459—Non-Final Rejection dated Jun. 8, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,459-Response/amendment dated Sep. 7, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,459—Response/amendment dated Sep. 7, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,483-Non-Final Rejection dated Jun. 8, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,483—Non-Final Rejection dated Jun. 8, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,483-Response/Amendment dated Sep. 7, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="U.S. Appl. No. 12/976,483—Response/Amendment dated Sep. 7, 2011." scheme="references">
+    
+    <meta name="citation_reference" content="Ünal, M., et al., &#34;Effect of Botulinum Toxin Type A on Nasal Symptoms in Patients with Allergic Rhititis: a Double-Blind, Placebo-Controlled Clinical Trial&#34;, Acta Oto-Laryngologica, vol. 123, No. 9., Dec. 2003, p. 1060-1063." scheme="references">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Product+Sans">
+    <style>
+      body { transition: none; }
+    </style>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-27188110-4', 'auto');
+
+      version = 'patent-search.search_20180320_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "us,ep,wo,cn,ca,de,jp,kr,es,gb,be,dk,fi,fr,lu,nl,ru";
+      
+      window.experiments.enableSuggestions = true;
+      
+      
+      window.experiments.enableQueryURLSerialized = true;
+      
+      
+      window.experiments.enableSortByDate = true;
+      
+      
+      window.experiments.enableCoverageStats = true;
+      
+      
+      window.experiments.enableDownloadResults = true;
+      
+      
+      window.experiments.enableBooleanSearch = true;
+      
+      
+      
+      window.profilePicture = "";
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+    
+    <link rel="import" href="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/search-app-vulcanized.html">
+    
+  </head>
+  <body unresolved>
+    
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+    
+    <search-app>
+      
+      <span id="promo"><span><span style="color: #EA4335;">New!</span> <a target="_blank" href="https://www.darts-ip.com/darts-ip-google-patents/">View global litigation for patent families</a></span>
+</span>
+      <article class="result" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <h1 itemprop="pageTitle">US8088361B2 - Treatment of allergic rhinitis in mammals with Clostridia neurotoxins 
+        - Google Patents</h1>
+  <span itemprop="title">Treatment of allergic rhinitis in mammals with Clostridia neurotoxins 
+       </span>
+
+  <meta itemprop="type" content="patent">
+  <a href="https://patentimages.storage.googleapis.com/b2/89/ec/743df621f2b3d9/US8088361.pdf" itemprop="pdfLink">Download PDF</a>
+  <h2>Info</h2>
+
+  <dl>
+    <dt>Publication number</dt>
+    <dd itemprop="publicationNumber">US8088361B2</dd>
+    <meta itemprop="numberWithoutCodes" content="8088361">
+    <meta itemprop="kindCode" content="B2">
+    
+    <span>US8088361B2</span>
+    
+    <span>US12976421</span>
+    
+    <span>US97642110A</span>
+    
+    <span>US8088361B2</span>
+    
+    <span>US 8088361 B2</span>
+    
+    <span>US8088361 B2</span>
+    
+    <span>US 8088361B2</span>
+    
+    <span>US 12976421 </span>
+    
+    <span>US12976421 </span>
+    
+    <span>US 12976421</span>
+    
+    <span>US 97642110 A</span>
+    
+    <span>US97642110 A</span>
+    
+    <span>US 97642110A</span>
+    
+    <span>US 8088361 B2</span>
+    
+    <span>US8088361 B2</span>
+    
+    <span>US 8088361B2</span>
+    
+
+    <dt>Authority</dt>
+    <dd itemprop="countryCode">US</dd>
+
+    <dt>Grant status</dt>
+    <dd>
+      
+      Grant
+      <meta itemprop="isApplication" content="false" bool>
+      
+    </dd>
+
+    <dt>Patent type</dt>
+    <dd>
+      
+      <meta itemprop="isDesign" content="false" bool>
+      
+    </dd>
+
+    <dt>Prior art keywords</dt>
+    
+    <dd itemprop="priorArtKeywords" repeat>allergic</dd>
+    <dd itemprop="priorArtKeywords" repeat>bont</dd>
+    <dd itemprop="priorArtKeywords" repeat>cnt</dd>
+    <dd itemprop="priorArtKeywords" repeat>rhinitis</dd>
+    <dd itemprop="priorArtKeywords" repeat>nasal</dd>
+
+    <dt>Prior art date</dt>
+    <dd><time itemprop="priorArtDate" datetime="2002-11-21">2002-11-21</time></dd>
+
+    <dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+    <dd itemprop="legalStatusIfi" itemscope>
+      <span itemprop="status">Active</span>
+    </dd>
+  </dl>
+
+  <dt>Application number</dt>
+  <dd itemprop="applicationNumber">US12976421</dd>
+
+  
+
+  <dt>Other versions</dt>
+  <dd itemprop="directAssociations" itemscope repeat>
+    
+    <a href="/patent/US20110091504A1/en">
+      <span itemprop="publicationNumber">US20110091504A1</span>
+      (<span itemprop="primaryLanguage">en</span>
+      <meta itemprop="isApplication" content="true" bool>)
+    </a>
+  </dd>
+
+  <dt>Inventor</dt>
+  <dd itemprop="inventor" repeat>Ira Sanders</dd>
+  
+
+  <dt>Original Assignee</dt>
+  <dd itemprop="assigneeOriginal" repeat>Ira Sanders</dd>
+
+  <dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+  <dd><time itemprop="priorityDate" datetime="2002-11-21">2002-11-21</a></dd>
+
+  <dt>Filing date</dt>
+  <dd><time itemprop="filingDate" datetime="2010-12-22">2010-12-22</a></dd>
+
+  <dt>Publication date</dt>
+  <dd><time itemprop="publicationDate" datetime="2012-01-03">2012-01-03</time></dd>
+
+  <dt>Grant date</dt>
+  <dd><time itemprop="grantDate" datetime="2012-01-03">2012-01-03</time></dd>
+
+  
+
+  <h2>Links</h2>
+
+  <ul>
+    
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="usptoLink">
+      <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=/netahtml/PTO/search-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN/8088361" itemprop="url" target="_blank"><span itemprop="text">USPTO</span></a>
+    </li>
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="usptoAssignmentLink">
+      <a href="https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=8088361" itemprop="url" target="_blank"><span itemprop="text">USPTO Assignment</span></a>
+    </li>
+
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="espacenetLink">
+      <a href="http://worldwide.espacenet.com/publicationDetails/biblio?CC=US&amp;NR=8088361B2&amp;KC=B2&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+    </li>
+    
+
+    
+
+    
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="globalDossierLink">
+        <a href="http://globaldossier.uspto.gov/#/result/patent/US/8088361/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="stackexchangeLink">
+        <a href="https://patents.stackexchange.com/questions/tagged/US8088361" itemprop="url"><span itemprop="text">Discuss</span></a>
+      </li>
+      
+  </ul>
+
+  <section>
+    <h2>Images</h2>
+    <ul>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-0.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-0.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-1.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-1.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-2.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-2.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-3.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-3.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-4.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-4.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-5.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-5.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-6.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-6.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-7.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-7.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-8.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-8.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/pages/US8088361-9.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/pages/US8088361-9.png">
+      </li>
+      </ul>
+  </section>
+
+  <section>
+    <h2>Classifications</h2>
+    
+    <ul>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/00</span>&mdash;<span itemprop="Description">Medicinal preparations containing peptides</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/16</span>&mdash;<span itemprop="Description">Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/43</span>&mdash;<span itemprop="Description">Enzymes; Proenzymes; Derivatives thereof</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/46</span>&mdash;<span itemprop="Description">Hydrolases (3)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/48</span>&mdash;<span itemprop="Description">Hydrolases (3) acting on peptide bonds (3.4)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/4886</span>&mdash;<span itemprop="Description">Metalloendopeptidases (3.4.24), e.g. collagenase</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/4893</span>&mdash;<span itemprop="Description">Botulinum neurotoxin (3.4.24.69)</span>
+            <meta itemprop="Leaf" content="true">
+            
+            <meta itemprop="FirstCode" content="true">
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/00</span>&mdash;<span itemprop="Description">Medicinal preparations containing peptides</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/16</span>&mdash;<span itemprop="Description">Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/164</span>&mdash;<span itemprop="Description">Peptides having more than 20 amino acids; Gastrins; Somatostatins; Melanotropins; Derivatives thereof from bacteria</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/00</span>&mdash;<span itemprop="Description">Medicinal preparations characterised by special physical form</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0012</span>&mdash;<span itemprop="Description">Galenical forms characterised by the site of application</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0019</span>&mdash;<span itemprop="Description">Injectable compositions; Intramuscular, intravenous, arterial, subcutaneous administration; Compositions to be administered through the skin in an invasive manner</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/00</span>&mdash;<span itemprop="Description">Medicinal preparations characterised by special physical form</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0012</span>&mdash;<span itemprop="Description">Galenical forms characterised by the site of application</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0031</span>&mdash;<span itemprop="Description">Rectum, anus</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/00</span>&mdash;<span itemprop="Description">Medicinal preparations characterised by special physical form</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0012</span>&mdash;<span itemprop="Description">Galenical forms characterised by the site of application</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0043</span>&mdash;<span itemprop="Description">Nose</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/00</span>&mdash;<span itemprop="Description">Medicinal preparations characterised by special physical form</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0012</span>&mdash;<span itemprop="Description">Galenical forms characterised by the site of application</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0046</span>&mdash;<span itemprop="Description">Ear</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/00</span>&mdash;<span itemprop="Description">Medicinal preparations characterised by special physical form</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0012</span>&mdash;<span itemprop="Description">Galenical forms characterised by the site of application</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/007</span>&mdash;<span itemprop="Description">Pulmonary tract; Aromatherapy</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/00</span>&mdash;<span itemprop="Description">Medicinal preparations characterised by special physical form</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0012</span>&mdash;<span itemprop="Description">Galenical forms characterised by the site of application</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/007</span>&mdash;<span itemprop="Description">Pulmonary tract; Aromatherapy</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K9/0073</span>&mdash;<span itemprop="Description">Sprays or powders for inhalation; Aerolised or nebulised preparations generated by other means than thermal energy</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N</span>&mdash;<span itemprop="Description">MICROORGANISMS OR ENZYMES; COMPOSITIONS THEREOF; PROPAGATING, PRESERVING OR MAINTAINING MICROORGANISMS; MUTATION OR GENETIC ENGINEERING; CULTURE MEDIA</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N15/00</span>&mdash;<span itemprop="Description">Mutation or genetic engineering; DNA or RNA concerning genetic engineering, vectors, e.g. plasmids, or their isolation, preparation or purification; Use of hosts therefor</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N15/09</span>&mdash;<span itemprop="Description">Recombinant DNA-technology</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N15/63</span>&mdash;<span itemprop="Description">Introduction of foreign genetic material using vectors; Vectors; Use of hosts therefor; Regulation of expression</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N15/74</span>&mdash;<span itemprop="Description">Vectors or expression systems specially adapted for prokaryotic hosts other than E. coli, e.g. Lactobacillus, Micromonospora</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K39/00</span>&mdash;<span itemprop="Description">Medicinal preparations containing antigens or antibodies</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K2039/54</span>&mdash;<span itemprop="Description">Medicinal preparations containing antigens or antibodies characterised by the route of administration</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K2039/541</span>&mdash;<span itemprop="Description">Mucosal route</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K2039/543</span>&mdash;<span itemprop="Description">Mucosal route intranasal</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K38/00</span>&mdash;<span itemprop="Description">Medicinal preparations containing peptides</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K48/00</span>&mdash;<span itemprop="Description">Medicinal preparations containing genetic material which is inserted into cells of the living body to treat genetic diseases; Gene therapy</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Y</span>&mdash;<span itemprop="Description">ENZYMES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Y304/00</span>&mdash;<span itemprop="Description">Hydrolases acting on peptide bonds, i.e. peptidases (3.4)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Y304/24</span>&mdash;<span itemprop="Description">Metalloendopeptidases (3.4.24)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Y304/24069</span>&mdash;<span itemprop="Description">Bontoxilysin (3.4.24.69), i.e. botulinum neurotoxin</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      </ul>
+  </section>
+
+  <section itemprop="abstract" itemscope>
+    <h2>Abstract</h2>
+    
+    <div itemprop="content" html><abstract mxw-id="PA88090211" lang="EN" load-source="patent-office">
+    <div num="p-0001" class="abstract">A method is disclosed for blocking or reducing physiological reaction in a mammal to the interaction of IgE antibodies present in said mammal upon contact with the corresponding antigen, by the administration to said mammal of a therapeutically effective amount of a neurotoxin (CnT) derived from <i>Clostridia </i>sp.</div>
+  </abstract>
+  </div>
+  </section>
+
+  <section itemprop="description" itemscope>
+    <h2>Description</h2>
+    
+    <div itemprop="content" html><div mxw-id="PDES44148759" lang="EN" load-source="patent-office" class="description">
+    
+    <heading>CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+    <p num="p-0002">This application is a continuation of U.S. application Ser. No. 10/535,504, filed on May 18, 2005, now U.S. Pat. No. 7,879,340, filed as International Application No. PCT/US03/37286 on Nov. 20, 2003, which claims the benefit of U.S. Provisional Application No. 60/427,749, filed Nov. 21, 2002.</p>
+    
+    
+    <heading>FIELD OF THE INVENTION</heading>
+    <p num="p-0003">A method is disclosed for blocking or reducing physiological reaction in a mammal to the interaction of IgE antibodies present in said mammal upon contact with the corresponding antigen, by the administration to said mammal of a therapeutically effective amount of a neurotoxin (CnT) derived from <i>Clostridia </i>sp.</p>
+    <heading>BACKGROUND OF THE INVENTION</heading>
+    <p num="p-0004">Throughout this application various publications are referred to within parentheses or by footnote. The contents of these publications are hereby incorporated by reference in their entirety.</p>
+    <heading>INTRODUCTION</heading>
+    <p num="p-0005">The physiological reaction in a mammal to the interaction of IgE antibodies present in said mammal upon contact with the corresponding antigen is generally referred to as allergy. It is believed that the allergic response evolved to combat infections with parasites. As parasitic infections are rare in industrialized countries this mechanism becomes pathologic in certain susceptible (atopic) individuals. Characteristic of allergies is that the antigen, also called the allergen, is normally innocuous, and the body's reaction is inappropriate.</p>
+    <p num="p-0006">Allergic reactions can involve all body tissues but are most prominent in the boundaries with the external environment: the airway, eye, gastrointestinal tract and skin. The conditions are known as allergic rhinitis in the nose (hay fever), allergic asthma in the lungs, food allergies in the GI tract and allergic hypersensitivity (hives) or dermatitis in the skin. Anaphylaxis refers to the systemic reaction that occurs when an allergen is introduced directly into the circulation, such as occurs with injection of drugs and insect stings. A massive early phase reaction occurs throughout the body. Symptoms include diffuse airway swelling and hypotension which can be life threatening.</p>
+    <p num="p-0007">Each year more than 50 million Americans suffer from allergic diseases, costing the health care system $18 billion annually (American Academy of Allergy, Asthma and Immunology (AAAAI). The Allergy Report: Science Based Findings on the Diagnosis &amp; Treatment of Allergic Disorders, 1996-2001).</p>
+    <p num="p-0008">Alarmingly, the prevalence and severity of allergic disorders has rapidly increased in the United States over the past twenty years, so there is a need for new therapies for these conditions.</p>
+    <p num="p-0009">In 1998, an estimated 15 million Americans, or 6.4 percent of the population, had asthma, with 5 million being children. Children account for 4.8 million of Americans with asthma. Each year, 1.8 million emergency room visits are for asthma, nearly 500,000 Americans are hospitalized and more than 5,000 die from the disease. Although asthma deaths are infrequent, they have increased significantly during the last two decades. From 1975-1979, the death rate was 8.2 per 100,000 people. That rate jumped in 1993-1995 to 17.9 per 100,000. Asthma cost the U.S. economy an estimated $10.7 billion in 1994, including a direct health care cost of $6.1 billion and indirect costs, such as lost workdays, of $4.6 billion.</p>
+    <p num="p-0010">Approximately 16.7 million office visits to health care providers each year are attributed to allergic rhinitis alone (CDC. Fast Stats A-Z, Vital and Health Statistics, Series 10, no. 13. 1999</p>
+    <p num="p-0011">A related condition, chronic sinusitis, is the most commonly reported chronic disease, affecting 12.6 percent of people (approximately 38 million) in the United States in 1996. Another related condition, serous otitis media, is the most common condition in children requiring an office visit to a health care provider.</p>
+    <p num="p-0012">Atopic dermatitis is one of the most common skin diseases, particularly in infants and children. The estimated prevalence in the United States is 9 percent Rudikoff D and Lebwohl M. “Atopic dermatitis.” Lancet 351(9117): 1715-21. 1998</p>
+    <p num="p-0013">Experts estimate that food allergy occurs in 8 percent of children 6 years of age or under, and in 1 to 2 percent of adults Sampson H A. In Allergy, Principles and Practice, 5<sup>th </sup>Ed., E. Middleton et al, ed. Mosby, St. Louis, p. 1162. 1998</p>
+    <p num="h-0005">Pathophysiology of Allergy</p>
+    <p num="p-0014">Allergy is an ailment that affects millions of individuals worldwide. Attempts to desensitize an individual against a material that causes an allergic response (hereafter designated as an “allergen”) by injection of measured dosages of the allergen heretofore has failed to achieve complete relief of allergy symptoms reproducibly in all allergic individuals. An allergic response is a term of art and has a well-defined meaning. Within the context of the present invention, an allergic or reagenic response includes, in particular, at least one of the features of 1.) production of an abnormally high level of IgE in an individual's serum, 2.) immunologic interaction between an allergen, an individual's IgE and leukocytes resulting in release of histamines, 3.) production of hives, rashes, wheal and flare and similar dermatological manifestation of hypersensitivity, and 4.) anaphylaxis.</p>
+    <p num="p-0015">An allergic response is a state of hypersensitivity in which an exaggerated immune response is induced by the exposure to a particular antigen or allergen. Hypersensitivity reactions can be classified as immediate or delayed. Immediate or type I hypersensitivity (or anaphylactic response) is an allergic reaction which develops very quickly, i.e., within seconds or minutes of exposure of the patient to the causative allergen, and it is mediated by IgE antibodies produced by B lymphocytes. In non-allergic patients, there is no IgE antibody of clinical relevance. However, in a person suffering with allergic diseases, IgE antibody mediates immediate hypersensitivity by sensitizing mast cells which are abundant in the skin, membranes of the eye, nose and mouth, and in the respiratory tract and intestines.</p>
+    <p num="p-0016">IgE secreted from activated B cells can attach to Fc receptors located on the surface of mast cells and basophil granulocytes, which contain numerous cytoplasmic granules packed with chemical mediators e.g. histamine (J. Klein, “Immunology”, Blackwell Sci. Pub., London, 1990; E. Benjamini &amp; S. Leskowitz, “Immunology”, Wiley-Liss, N.Y. 1991). This receptor binds circulating IgE with very high affinity and retains it at the mast cell surface for extended periods of time. Activation is accomplished through the binding of an allergen simultaneously to more than one polyvalent molecule of Fc receptor-bound IgE. This “cross linking” of at least two surface-bound IgE molecules brings Fc receptor proteins into close association with one another in the plane of the mast cell plasma membrane. When the bound IgE is contacted by the appropriate allergen, the mast cell becomes activated. Kinases associated with these receptors become activated as a result of this proximity. They initiate the second messenger cascade, which results in the fusion of the granules with the cell surface membrane, leading to the exocytosis of the granule contents, such as histamine, cytokines, and leukotrienes into the surrounding tissue, and the concomitant induction of allergic symptoms. It is the activity of these substances which is responsible for the clinical symptoms typical of immediate hypersensitivity. These include contraction of smooth muscle in the airways or the intestine, the dilation of small blood vessels and the increase in their permeability to water and plasma proteins, the secretion of thick sticky mucus, and in the skin, swelling and the stimulation of nerve endings that results in itching.</p>
+    <p num="p-0017">Delayed type hypersensitivity (DTH) reactions are mediated by T-cells and macrophages and become evident only after 1 to 2 days and persist from several days to a few weeks. DTH is also referred to as cell-mediated hypersensitivity (i.e., T-cell mediated) and is part of a larger group of reactions called cell-mediated immunity.</p>
+    <p num="p-0018">Anaphylaxis, or anaphylactic shock, is an acute systemic (whole body) type of allergic reaction, It occurs when a person has become sensitized to a certain substance or allergen (that is, the immune system has been abnormally triggered to recognize that allergen as a threat to the body). On the second or subsequent exposure to the substance, an allergic reaction occurs. This reaction is sudden, severe, and involves the whole body. Anaphylaxis is life-threatening and can occur at any time.</p>
+    <p num="p-0019">Therapeutically, many agents are used to try to prevent the release of mediators from mast cells and basophils and/or to treat the downstream events by blocking or ameliorating the effects of the mediators on target tissues. Therapeutic agents commonly employed fall under the following main groups.</p>
+    <p num="p-0020">Antihistamines block and mop up the released histamine, i.e. the major mediator of the allergic response.</p>
+    <p num="p-0021">Alpha-1 beta -2 agonists, e.g., Epinephrine, Salbutamol overcome indirectly the downstream effects on vasculature and smooth muscle.</p>
+    <p num="p-0022">Chromoglycate is useful for primary prevention of mast cells/basophil degranulation. This prophylactic must be taken continuously. It does not prevent the cross-linking of IgE but it somehow interferes with subsequent events. Theophylline and other phosphodiesterase inhibitors again influence downstream biochemical events particularly associated with cyclic nucleotides. Steroids have multiple sites of activities against the allergic response. They are either administered locally and/or systemically.</p>
+    <p num="p-0023">None of the above treatments are ideal for the modulation of allergic responses because each has specific problems such as side effects including drowsiness, they also lack specificity in the immune system leading to global immuno-suppression. Also many of these therapeutic agents need to be administered continuously. Therefore, new improved treatments are constantly being sought to control the allergic response prophylactically and/or therapeutically without the above-mentioned limitations.</p>
+    <p num="p-0024">Individuals who wish to become desensitized against an allergen often must submit himself/herself to injections of measured doses of the allergen, first administered at weekly or biweekly intervals, then gradually decreases to bimonthly or monthly intervals throughout the year. Such injections generally commence with a small dose of the allergen and then gradually increasing the dosage until a maximally-tolerated maintenance dose is achieved. The individual is then kept on a maintenance dose of the allergen for long periods of time or until the individual no longer exhibits an allergic reaction to the allergen.</p>
+    <p num="p-0025">Other treatment regimes have been devised to reduce or eliminate an allergic response.</p>
+    <p num="p-0026">Allergen injection therapy (allergen immunotherapy also known as subcutaneous immunotherapy (SCIT) is known to reduce the severity of allergic rhinitis. This treatment is theorized to involve the production of a different form of antibody, a protective antibody which is termed a “blocking antibody” (Cooke, R A et al., Serologic Evidence of Immunity with Coexisting Sensitization in a Type of Human Allergy, Exp. Med. 1935; 62:733). Chemical agents have been developed which inhibit the interactions between the IgE and its receptor (Cheng et al., U.S. Pat. No. 5,965,605 and Ra et al., U.S. Pat. No. 6,090,034). IgE antagonists have also been used to treat allergic disease (Presta et al., U.S. Pat. No 5,965,709) and compounds that exhibit immunosuppressive activity and inhibits the release of histamine (Bycroft et al., U.S. Pat. No. 5,969,158). St. Remy et al., U.S. Pat. No. 4,740,371, discloses an immune complex of an allergen for treating allergies involving a combination of the specific allergen and the corresponding antibody to that allergen. The injection of the complex into a patient is said to reduce a patient's allergic reaction to that specific allergen. Others have suggested that certain human proteins can neutralize IgE by blocking it from interacting with the mast cells, but this has not been established clearly as a clinically effective therapy (Stanworth, et al., Allergy Treatment with a Peptide Vaccine, Lancet 1990; 336:1279-81). Patterson et al., U.S. Pat. No. 5,314,690 disclosed a method and preparations for reducing IgE antibodies to allergens in allergic subjects wherein substance P (a neuropeptide) and an allergen or fragments of allergens or haptens acting as allergens are administered together to the allergic subjects through a non-oral route.</p>
+    <p num="p-0027">Cholera Toxin and B Subunit as Adjuvants Cholera toxin (CT) and the closely related heat-labile toxin (LT) from Escherichia coli are known as exceptionally potent immunoadjuvants when co-administered with antigens by various mucosal routes (Elson et al., J. Immunol. 1984; 133:2892-2897; Hohngren et al., Vaccin 1973; 1 1: 1 179-1184; Lycke et al, Eur. J. Immunol. 1992; 22:2277-228 1. Both CT and LT are recognized as “AB” toxins in that they are composed of two distinct structural and functional components: a single toxic-active A subunit component and a non-toxic cell-binding B subunit. The latter is a imopentamer component and a non-toxic affinity for GMI ganglioside receptors (Holingren et al., Nature 19 8 1; 292:413-417). Such receptors are known to be present on most mammalian cells, e.g., on skin and other epithelial cells, on all known antigen-presenting cells including dendritic cells (DC) and Langerhan's cells (LC), as well as on B and T lymphocytes. Recently, Gleim et al., U.S. Pat. No. 5,980,898 disclosed a system for transcutaneous immunization that induces an immune response (e.g., humoral and/or cellular effectors) in an animal or human. The system provides a simple application to intact skin of both rodents and humans of a formulation comprised of antigen and an adjuvant that was whole cholera toxin.</p>
+    <p num="p-0028">Common to allergies is the involvement of the IgE class of antibody. Individuals are not born with allergies; rather they acquire them by exposure to allergens. The steps of the IgE allergic reaction are sensitization upon first exposure to the allergen, and then the allergic response to subsequent exposures. The allergic response consists of an immediate and delayed response referred to as the early and late phase responses respectively. In atopic individuals, those prone to allergies, the initial exposure to an antigen results in the production of IgE antibodies that specifically recognize that allergen. This process is called sensitization.</p>
+    <p num="p-0029">The early phase response (ERP) is the immediate reaction that occurs within minutes of exposure to an allergen. IgE are bound to the surface of a neuroimmune cell called the mast cell (in the circulation these cells are called basophils). Sufficient numbers of bound IgE antibodies that react with an allergen causes the mast cell to release its content of secretory vesicles, a process known as degranulation. The secretory vesicles contain histamine and other stored substances such as nerve growth factor (NGF). In addition the mast cell and T cells immediately begin manufacturing leukotrienes, cytokines, enzymes and substances that activate blood platelets and attract secondary cells such as eosinophils. Symptoms vary depending on the site, but common reactions are smooth muscle contraction, mucus secretion, vascular permeability, and sensory nerve stimulation.</p>
+    <p num="p-0030">The late phase response (LPR) develops over hours to days of exposure as eosinophils and other cells are attracted to the area. Eosinophils produce major basic protein, eosinophil cationic protein, leukotrienes and nerve growth factor. TH2 lymphocytes release cytokines that promote further IgE production and eosinophil chemo attraction, and increased numbers of mast cells.</p>
+    <p num="p-0031">Nerve Involvement in Allergy</p>
+    <p num="p-0032">The sensory nerve stimulation causes reflexes that are designed to aid in defending the tissue. These reflexes are often a larger problem then the local allergic response. Reflexes can range from large gross motor actions to regional afferent and efferent arcs or even local axon-axonal reflexes involving a single neuron.</p>
+    <p num="p-0033">Some reflexes recruit major motor actions that are well recognized. In the nose, sneezing is a reflex attempt to expel unwanted material and coughing is the equivalent response in the lungs.</p>
+    <p num="p-0034">Regional reflex arcs involve the sensing of the stimulus by the sensory neuron, the transfer of the message to the ganglia and the central nervous system and an efferent response via autonomic neurons. Reflex excitation by the autonomic nervous system directly causes mast cell to degranulate, thereby spreading the reaction. In addition these reflexes control a variety of other functions. In the nose these reflexes cause increased mucus production, increased cilia movement, nasal congestion and sneezing. In the lungs reflexes cause bronchospasm, increased mucosal congestion, production of airway secretions and coughing. In the GI tract reflexes cause dysmotility, mucosal congestion and secretions. In the skin the reflexes cause swelling and itching.</p>
+    <p num="p-0035">Finally there are local axon-axonal reflexes in sensory nociceptive nerve fibers. Allergic stimulation of a single neuron causes release of mediators from other axons of the same neuron. (Barnes P et al. 1991 Neuropeptides in the respiratory tract. Am Rev Resp Dis 144:1187-1198, 1391-1399)</p>
+    <p num="p-0036">In chronic allergic stimulation the mast cells and eosinophils releases nerve growth factor which causes growth of the nerves in the region. Thereby allowing for increased neural responses and hyper reactivity. This hyper reactivity is not limited to allergic reactions but extends to non-allergic conditions such as respiratory tract infections including viral and bacterial infections. Specifically viral rhinitis, viral and bacterial sinusitis, suppurative otitis media, bronchitis and pneumonia. Therefore individuals become more susceptible to these conditions and have more frequent and severe infections.</p>
+    <p num="p-0037">Furthermore the repeated allergic reactions cause changes in the qualitative response of the neural reflexes such that they are inappropriately activated. This negatively effects non-allergic conditions, such as bronchospasm mucus production and coughing in non-allergic lung conditions such as bronchitis and emphysema.</p>
+    <p num="p-0038">Allergic Reactions Differ from Inflammatory Reactions</p>
+    <p num="p-0039">Allergic reactions differ from inflammation. Allergies represent the body's inappropriate response to what is in essence a harmless antigen. It is believed that the IgE allergic reactions evolved to combat parasitic infections which are now rare in industrialized societies. In contrast, inflammation is the body's response to actual tissue damage or infection. Inflammation is clinically distinguished by the classical symptoms of calor, rubor and dolor: heat, redness and pain. Inflammation is a process that triggers a cascade of mediators with wide effects, both locally and systemically. Local reactions include pain, vasodilation and migration of macrophages and neutrophils. Systemic reactions include fever. Certain conditions, such as rhinitis or asthma, can be triggered by allergies, infections, irritating chemicals or may be entirely neurogenic, the result of nerve activity without prior inflammatory or allergic stimulation.</p>
+    <p num="h-0006">Specific Allergic Conditions</p>
+    <p num="h-0007">Rhinitis</p>
+    <p num="p-0040">Allergic Rhinitis</p>
+    <p num="p-0041">The inner lining of the nose is a mucosa that contains serous and mucus glands and large numbers of mast cells. This mucosa extends to the openings leading to the sinuses as well as the Eustachian tube where it is continuous with the mucosa of the sinuses and middle ear, respectively. The EPR of the nasal mucosa causes mast cell degranulation. The release of histamine, heparin and neuropeptides provokes vasodilation and acute swelling of the mucosa and has some minor direct stimulatory effect on the mucus secreting glands. Reflex excitation causes reflex sneezing, congestion and neural stimulation of the seromucinous glands and further congestion. LPR attracts eosinophils and prolongs the reaction.</p>
+    <p num="p-0042">Allergic reactions can also be chronic, a condition known as perennial rhinitis. In these cases airborne allergens are constantly in the environment. Chronic low-level allergic reactions cause a thickening of the nasal mucosa due to edema and hypertrophy of glandular elements. As a result the primary symptoms of perennial rhinitis are nasal congestion, and postnasal drip. After each allergic reaction the mucosa swells; repeated allergic reactions enlarges the mucosa permanently and may form polyps. Thickening of the mucosa can cause obstruction of the small openings that allow drainage from the sinus. Obstruction of these openings allows nasal secretions to collect and become infected, thereby causing sinusitis.</p>
+    <p num="p-0043">Topical treatment of allergic rhinitis includes steroid sprays and chromalyn sodium (Nasocrom®) a chemical that blocks mast cell degranulation, and/or nasal decongestants (Neosynephrine). Systemic treatment includes oral anti-histamines and non-sedating antihistamines (Allegra®, Zyrtec®, Claritin®). Long-term therapy requires immune desensitization to the allergen by progressive intradermal injections of the allergen over months to years. rhinitis can lead</p>
+    <p num="p-0044">Allergic rhinitis can lead to pulmonary disease, including but not limited to asthma and emphysema, suitably asthma caused by hyperreactivity and/or the symptoms of bronchoconstriction, mucosal edema, increased secretions and cough. These can be treated by the application of CnT to the nasal cavity of patients with allergic rhinitis. It is well known in the art that allergic conditions of the nose can cause reflex changes in the lung that mimic or exacerbate asthma. (McCusker C et al 2002, Site-specific sensitization in a murine model of allergic rhinitis: Role of the upper airway in lower airway disease, J Allergy Clin Immunol, 110:891-898)</p>
+    <p num="h-0008">Perennial Allergic Rhinitis</p>
+    <p num="p-0045">Perenial rhinitis is a chronic condition and certain symptoms, such as nasal congestion, are more prominent then others such as sneezing. Therefore therapy for this condition needs to be over more prolonged period, if not indefinitely. Although the same treatments as disclosed for seasonal allergic rhinitis can be used repeatedly, certain methods of treatment are disclosed here that are more efficient and convenient for longer term therapy.</p>
+    <p num="p-0046">Parasympathetic neurons do not extend from the central nervous system to their target organs in the nose. Instead parasympathetic preganglionic neurons have their cell bodies in the brain stem and have an axon that extends partway and synapses on the cell body of a second neuron called the postganglionic neuron. The axons of the postganglionic neurons extend into nose and sinuses and modulate many of the biological responses seen during allergic reactions. The cell body of the post ganglionic parasympathetic neuron also receives collateral afferent synapses from sensory neurons that are stimulated during allergic reactions. Therefore much of the neuronal circuit involved in the allergic reaction converges onto the cell body of the postganglionic neuron.</p>
+    <p num="p-0047">All of the postganglionic neuron cell bodies are concentrated in small structure called the sphenopalatine ganglion. Moreover all afferent synaptic connections on these neurons is cholinergic, the neurotransmitter most sensitive to BoNT. Therefore application of CnT to the sphenopalatine ganglion is the most efficient way of blocking the allergic neural reaction.</p>
+    <p num="p-0048">The sphenopalatine ganglion is accessible to needle injection via the sphenopalatine canal. This canal passes though the hard palate and is accessible about one centimeter medial to the second molar. Injections of anesthetic and vasoconstrictor agents are commonly performed by clinicians skilled in the art of nasal surgery.</p>
+    <p num="p-0049">Infectious Rhinitis</p>
+    <p num="p-0050">Although they share some of the same symptoms, allergic rhinitis differs from infectious rhinitis. The most common cause of infectious rhinitis is a viral infection, known as the common cold. Bacterial and fungal infections of the nose occur also but these are comparatively rare as primary events. During viral infections the epithelial cells release secretions that trigger an inflammatory response. The classic signs of caldor, rubor and dolor; heat, redness, and pain characterize inflammation. White blood cells such as macrophages and neutrophils migrate from small blood vessels in the area to the infected mucosa. These cells in turn release a variety of chemical mediators that increase the inflammation. Infectious rhinitis is characterized by a purulent or pus like postnasal drip, and nasal congestion. In many viral infections there are systemic symptoms such as fever. Treatment of viral infection is symptomatic with topical and systemic decongestants, and antipyretic and anti-inflammatory drugs.</p>
+    <p num="p-0051">Vasomotor and Other Causes of Rhinitis</p>
+    <p num="p-0052">Vasomotor rhinitis is strictly a neural hyper stimulation of the serous secretory glands of the nose. This condition is characterized by a watery nasal discharge with a very small content of mucus. Vasomotor rhinitis results directly from neural stimulation of temperature changes or while eating, and associated other symptoms such as congestion, and sneezing are not prominent. U.S. Pat. No. 5,766,605 discloses a method of blocking the symptom of rhinorrhea in vasomotor rhinitis using clostridia neurotoxins.</p>
+    <p num="p-0053">Serous Otitis Media</p>
+    <p num="p-0054">Direct reaction of the middle ear mucosa to allergens, or indirect effects by blockage of the Eustachian tube, leads to serous otitis media. In this condition the middle ear fills with fluid and hearing is impaired. As this condition most often affects young children, they are at risk of leaning disabilities due to the decreased hearing acuity.</p>
+    <p num="p-0055">Sinusitis, a Complication of Rhinitis</p>
+    <p num="p-0056">Sinusitis is an infection of the sinuses. The sinuses are air filled cavities surrounding and opening into the nasal cavity via small openings called ostia. The maxillary sinuses compose the mass of the cheeks and the ostia are between the inferior and middle turbinate. The frontal sinuses are above the brow underneath the skin of the forehead, they open into the nasal cavity via a duct that enters beneath the middle turbinate. The sphenoid sinuses are in the nasopharynx and have ostia on their anterior surface. The ethmoid sinuses are located between the eyes and are composed of numerous small air cells. The anterior and posterior cells drain independently. The anterior ethmoid region is especially important due to the confluence of drainage ostia. The area is called the infundibulum, and a small amount of obstruction can cause widespread sinus infections.</p>
+    <p num="p-0057">Sinus infections are either acute or chronic. In acute sinusitis a bacterial infection follows a viral infection of the upper respiratory tract. However, sinusitis can also occur from obstruction of the draining ostia of the sinuses by inflammation or mass lesion. Topical nasal decongestants and systemic antibiotics are used to treat acute sinusitis. Severe or complicated infections may require surgical drainage of the involved sinus. Chronic sinusitis is a low-grade ongoing or recurrent infection of the sinuses. In these cases the mucosa of the sinuses has become thickened and enlarged due to edema and increased secretory glandular elements. In these cases small abscess may persist and relatively mild inflammatory stimuli may cause obstruction of the narrowed sinus ostia. Treatment of chronic sinusitis includes topical steroid sprays, systemic anti histamines and decongestants, and/or surgical removal of diseased mucosa with enlargement of the ostia.</p>
+    <p num="p-0058">Asthma</p>
+    <p num="p-0059">Asthma is a general term given to a similar constellation of symptoms: bronchospasm, mucosal swelling and increased secretions. Allergic stimulation, infections, irritating chemicals, cold air or exercise can trigger asthma.</p>
+    <p num="p-0060">Allergic asthma is a specific subset of asthma that is initiated by allergens and involves the IgE mediated reaction. Local and organ reactions include bronchial smooth muscle constriction, mucosal swelling and increased secretions.</p>
+    <p num="p-0061">Other Allergic Conditions</p>
+    <p num="p-0062">Other allergic conditions include food allergies, and allergic dermatitis.</p>
+    <p num="h-0009"> <i>Clostridia </i>Neurotoxins (CnT)</p>
+    <p num="p-0063"> <i>Clostridium </i>(<i>C</i>.) <i>botulinum </i>and the closely related species <i>C. butyricum </i>and <i>beratti </i>produce an extremely powerful neurotoxin that causes the paralytic condition known as botulism. The botulinum neurotoxin (BoNT) protein consists of a light and heavy chain that together weigh approximately 150 kD. In botulism the primary target is the synapse of the motor neuron with the muscle fiber. Here BoNT is taken up by the membrane of the motor neuron and is internalized. The effect of BoNT is to inhibit the release of neurotransmitters and neuropeptides by neurons. In clinical use each serotype appears to differ in its potency in blocking different classes of neurons.</p>
+    <p num="p-0064">BoNT works by a two-stage mechanism, uptake and molecular action. Peripheral nerve terminals take up BoNT. After translocation across the cell membrane BoNT interferes with the molecular mechanism of neurosecretion. Specifically, BoNT cleaves the proteins involved in synaptic vesicle docking and release called the SNARE complex. The result is to block neural signals.</p>
+    <p num="p-0065"> <i>C. tetani </i>produce tetanus neurotoxin (TeNT). TeNT is similar to the BoNTs in that it interferes with vesicle release by cleaving VAMP, one of the SNARE family of proteins. However the in vivo biological activity of TeNT is usually quite different from BoNT. The systemic disorder tetanus results from TeNT produced at a wound site and disseminated throughout the body via the blood stream. The TeNT is taken up by peripheral motor neurons and transported to the central nervous system. The TeNT then preferentially blocks inhibitory neurons connecting to the motor neuron, thereby allowing unopposed excitatory input. However, at higher doses TeNT and when introduced directly into the neuron also blocks all neurons in the same manner as BoNT. In this application it is assumed that when BoNT is discussed, is includes the TeNT when used at higher blocking doses.</p>
+    <p num="p-0066">At present seven immunologically distinct serotypes of the BoNT are known, named A, B, C, D, E, F and G. The type C serotype is now known to be divided into three different toxins with distinct biological effects. Only C1 is a neurotoxin, whereas C2 and C3 are not. C2 is distinctive for blocking actin formation, which can prevent mast cell degranulation. Although all BoNT serotypes interfere with proteins that cause the release of synaptic vesicles from cells they each interfere with different proteins, or different parts of the same protein:
+</p> <ul> <li id="ul0001-0001" num="0000"> <ul> <li id="ul0002-0001" num="0066">BoNT A &amp; E cleave SNAP-25 (synapse associated protein)</li> <li id="ul0002-0002" num="0067">BoNT C cleaves SNAP-25 and syntaxin</li> <li id="ul0002-0003" num="0068">BoNT B, D, F &amp; G (and TeNT) cleave VAMP (vesicle associated membrane protein)</li> </ul> </li> </ul>
+
+    <p num="p-0067">Most if not all cell types use the vesicle system for secretion, although the molecules within these vesicles differ for each type of cell. If experimentally introduced into any cell BoNT appears capable of blocking its vesicle release. However, in nature BoNT appears to be internalized into neurons, particularly the efferent neurons. The vesicles within neurons contain classical neurotransmitters (acetylcholine, epinephrine, nor epinephrine, dopamine, serotonin, glutamate, GABA and others) and/or neuropeptides (substance P, neurokinin A, calcitonin gene related peptide (CGRP), neuropeptide Y, interleukins, growth factors and others). Although the highest affinity of BoNT is for cholinergic neurons, in various preparations BoNT has been shown to block secretion of all these molecules.</p>
+    <p num="p-0068">The Clinical Effects of Botulinum Toxin on Different Classes of Neurons</p>
+    <p num="p-0069">Voluntary Motor Nerves</p>
+    <p num="p-0070">The first and still primary use of BoNT is to block motor nerve communication with muscle fibers. BoNT is injected within the target muscle. The BoNT is then internalized into motor neurons where it decreases or stops the release of the neurotransmitter acetylcholine (AChE), thereby causing paresis or paralysis of the muscle. Scott introduced the concept of localized muscular injections of BoNT in the specific condition of strabismus (squint, crossed eyes). Later BoNT was found to be particularly useful for movement disorders such as tics, spasms, contractures, cramps and tremors. More recently, the injection of BoNT into facial muscles has been found to ameliorate skin wrinkling and lines related to aging. Another recent application of BoNT injections is to decrease the pain accompanying muscle tension in conditions such as headache and temporo-mandibular joint syndrome.</p>
+    <p num="p-0071">Autonomic Motor Neurons</p>
+    <p num="p-0072">Effector neurons of the autonomic system innervate and control the contraction of smooth muscles using AChE as the neurotransmitter. Injections of BoNT have been used to decrease tone in the smooth muscles of the lower esophageal sphincter, esophagus, stomach wall, and pyloric sphincter, sphincter of Odi, anal sphincter, and urinary bladder.</p>
+    <p num="p-0073">Autonomic Secretory Neurons</p>
+    <p num="p-0074">Effector neurons of the autonomic system control or modulate the secretion of various water and mucoid fluids throughout the body. BoNT injections have been used to decrease sweating, salivary gland flow, gastric secretions including acid production, nasal and other respiratory secretions, and tearing.</p>
+    <p num="p-0075">Sensory Neurons</p>
+    <p num="p-0076">Sensory neurons release a wide variety of neuropeptides, cytokines, growth factors and other substances that effect parenchymal cells, blood vessels and immune cells. Notable is that these substances can activate mast cells directly thereby extending the allergic reaction. Except for nitrous oxide these substances are released via the SNARE mechanism and can be blocked by CnT.</p>
+    <heading>SUMMARY OF THE INVENTION</heading>
+    <p num="p-0077">As used herein ‘local administration’ includes but is not limited to injection by needle and in-dwelling catheter (including pressure jet injectors), topical administration in lyophilized powder, liquid solutions, creams, ointments, aerosolized or introduced by liposomal (niosomes) vectors, or as nucleic acid introduced by viral or other vectors. The CnT may also be embedded in biopolymers or delivered by implanted pumps to release the CnT into solution over prolonged periods.</p>
+    <p num="p-0078">By “therapeutically effective amount” it is meant of purposes of this invention that the CnT is administered in a non-toxic amount sufficient to cause reduction in the occurrence or magnitude of the symptoms being targeted.</p>
+    <p num="p-0079">By “unit” it is meant the biological equivalent of the current unit measure used for botulinum toxin A marketed as Botox. At present BoNT is measured by biological assay; a unit of BoNT is the amount that causes death to 50% of mice when injected intraperitoneally. BoNT-A is marketed as Botox by Allergan Corp, Irvine Ca, and as Dysport by Ipsen Ltd, Berks United Kingdom. Although the biological assay is done the same way the in vivo effect of Botox and Dysport vary. BoNT-B is marketed as Myobloc by Elan Pharmaceuticals, Dublin, Ireland. TeNT is not commercially available but other assays have compared the potency of the blocking effect of TeNT to BoNT. All serotypes of BoNT as well as TeNT are commercially available from List Biological Laboratories. A therapeutically effective amount of BoNT will vary depending on the organ to be treated, how much of the organ will be treated, the method of application and the exact preparation of BoNT used. A therapeutically effective amount will vary from a fraction of a unit to hundreds of units as it currently does with intramuscular injections. The exact dosage will not require undo experimentation by those skilled in the art.</p>
+    <p num="p-0080">Where solutions or suspensions of BoNT or CnT are referred to, unless indicated to the contrary, this means the designated number of units in 1 ml of Normal saline.</p>
+    <p num="p-0081">By “CnT” it is meant that any biological substance having essentially the same biological effect within cells as the wild types of clostridia neurotoxins. Specifically, to block or decrease the activity of the SNARE family of proteins involved in secretion of allergy related neurohumors. Numerous substitutions for the major parts of the CnT have been disclosed and these are all included in this specification. This would include fragments, altered forms, and recombinant forms of CnT. Also included are chimeras, hybrids and conjugates. Also included are the use of DNA and RNA sequences that are directly applied and translated in the allergic sites. Also included are “vectors”, various compositions that deliver a botulinum or tetanus toxin light chain or its equivalent such as Protease A across cell membranes. These vectors include but are not limited to viruses, liposomes, noisomes, and protein transduction domains (U.S. Provisional Application 60/449,107).</p>
+    <p num="p-0082">Allergic “neurohumors” are neurotransmitters, neuropeptides and cytokines that participate in allergic reactions and whose secretion or action can be blocked by CnT. They include acetylcholine, noradrenaline, neuropeptide Y, substance P, calcitonin gene reactive protein (CGRP), histamine, nerve growth factor, and interleukins.</p>
+    <p num="p-0083">The invention is directed to a method of blocking or reducing physiological reaction in a mammal, suitably but not limited to <i>H. sapiens</i>, to the interaction of IgE antibodies present in said mammal upon contact with the corresponding antigen. This blocking is achieved by the administration to said mammal of a therapeutically effective amount of a neurotoxin (CnT) derived from <i>Clostridia </i>sp. Suitably, the CnT is derived from a species of <i>Clostridia </i>selected from the group consisting of <i>C. botulinum, C. butyricum, C. beratti, C. tetani</i>. The neurotoxins (BoNT), derived from <i>C. botulinum</i>, are derived from serotypes A, B, C1, D, E, F and G, while neurotoxin (TeNT), is derived from <i>C. tetani </i> </p>
+    <p num="p-0084">BoNT/A is marketed as Botox® by Allergan Inc and as Dysport® by Ipsen Ltd as a lyophilized powder that is reconstituted with preservative free normal saline prior to use. BoNT/B is marketed as Myobloc® by Elan Pharmaceuticals in normal saline solution. The light chains and holotoxins for each BoNT serotypes and TeNT can be obtained from List Biological Labs and/or Metabiologics Inc.</p>
+    <p num="p-0085">CnT compositions of the present inventions are prepared in a variety of forms depending on whether the composition is injected or implanted, topically applied to respiratory mucosa of the nasal cavity or lungs, gastrointestinal mucosa, or to skin.</p>
+    <p num="p-0086">For all injectable CnT compositions fluid dosage forms are prepared utilizing the compound and a pyrogen-free sterile vehicle. The compound, depending on the vehicle and concentration used, can be either dissolved or suspended in the vehicle. In preparing solutions the compound can be dissolved in the vehicle, the solution being made isotonic if necessary by addition of sodium chloride and sterilized by filtration through a sterile filter using aseptic techniques before filling into suitable sterile vials or ampoules and sealing. Alternatively, if solution stability is adequate, the solution in its sealed containers may be sterilized by autoclaving. Advantageously additives such as buffering, solubilizing, stabilizing, preservative or bactericidal, suspending or emulsifying agents and/or local anaesthetic agents may be dissolved in the vehicle.</p>
+    <p num="p-0087">Dry powders, which are dissolved or suspended in a suitable vehicle prior to use, may be prepared by filling pre-sterilized drug substance and other ingredients into a sterile container using aseptic technique in a sterile area. Alternatively the drug and other ingredients may be dissolved into suitable containers using aseptic technique in a sterile area. The product is then freeze-dried and the containers are sealed aseptically.</p>
+    <p num="p-0088">In the respiratory and gastrointestinal systems, CnT binds to mucosal epithelial cells and is actively transcytosed across the mucosa. Compositions suitable for administration to the respiratory tract include aerosols, nebulisable solutions or micro-fine powders for insufflation. In the latter case, particle size of less than 50 microns, especially less than 10 microns, is preferred.</p>
+    <p num="p-0089">Compositions suitable for topical mucosal application include normal saline solutions as described above for injections. Other suitable compositions include gels and creams.</p>
+    <p num="p-0090">The skin presents a formidable barrier to the application of CnT. CnT may be mechanically propelled across the dermal barrier with air or water pressure injectors or in association with micro-pellets. Other suitable forms of transdermal delivery include iontophoresis. CnT may be encapsulated into liposomes or niosomes to form suitable trans-dermal compositions.</p>
+    <p num="p-0091">The method of administration may take many forms, including topical, intra-dermal, sub-cutaneous, trans-cutaneous, intra cavital and by inhalation of the CnT in a suitable carrier. Examples of such administration include, but are not limited to contact with absorbent pledgets having CnT absorbed thereon, contact with biodegradable micropellets having CnT embedded therein. Also included is injection, for example, injection to the nasal mucosa or injection into the pterygoplatine space through the palate, or injection into affected areas of the surface skin, more invasively, by myringotomy and injection into the middle ear space across the tympanic membranes. Alternatively less invasive methods include by drops into the inner eyelid and inhalation of an aqueous mist containing same.</p>
+    <p num="p-0092">The physiological reaction reactions dealt with herein include but are not limited to conditions such as allergic rhinitis, infectious rhinitis, vasomotor rhinitis, serous otitis media, sinusitis, asthma, food allergies and allergic dermatitis.</p>
+    <p num="p-0093">The amount of CnT administered per administration may be, but is not limited to between about 0.1 and about 1000 units, suitably between about 1 and about 100 units per administration, preferably between about 1 and about 20 units.</p>
+    <p num="p-0094">The invention is also directed to use of a neurotoxin (CnT) derived from <i>Clostridia </i>sp. for the production of a medicament for blocking or reducing physiological reaction in a mammal to the interaction of IgE antibodies present in said mammal upon contact with the corresponding antigen. The formulations of CnT, including BoNT and TeNT, which are suitable for the purposes designated herein are well known, but have not previously been designated for this purpose.</p>
+    <p num="p-0095">There is a great need for an effective treatment for allergic disorders. It has long been thought that the allergic reaction involved only histamine release by mast cells. Therefore first line therapy for allergy was antihistamines, or more recently the non-sedating antihistamines. Other therapies are directed to block the effects of the mast cell secretions with adrenergic agonists. It is not obvious to those skilled in the art that a central role in allergic disorders involves the autonomic nervous system and that this nerve activity can be blocked by CnT for a beneficial effect.</p>
+    <p num="p-0096">It is an object of the invention to provide a treatment for allergic conditions. Included particularly are allergy related rhinitis, asthma, gastroenterititis, serous otitis, sinusitis and dermatitis and their related conditions (such as sinusitis and serous otitis media that occur secondary to allergy induced mucosal swelling). Treatment is by local application of therapeutically effective amounts of CnTs to the body structure and/or the nerves and nerve ganglia supplying these structures. CnT interfere with the allergic process by:</p>
+    <p num="p-0097">1) Directly blocking neuroimmune secretions by the mast cell or other immune cell types including but not limited to eosinophils</p>
+    <p num="p-0098">2) Block the release of neurohumors by mast cells induced by autonomic nerve activity.</p>
+    <p num="p-0099">3) Decrease neurohumoral release during axonal reflexes.</p>
+    <p num="p-0100">4) Decrease the parasympathetic effector arm of reflex allergic responses</p>
+    <p num="p-0101">5) Decrease the increased tonic activity of the autonomic systemic that is related to prior allergic reactions.</p>
+    <p num="p-0102">6) Decrease the enlargement and hypersensitivity of sensory nerves induced by nerve growth factor and other neurohumors released during allergic reactions.</p>
+    <p num="p-0103">7) Reverse certain complications of allergic reactions such as mucosal thickening by decreasing autonomic nerve activity.</p>
+    <p num="p-0104">The beneficial effect of this treatment in the:</p>
+    <p num="p-0105">1) Nasal area, is to decrease the symptoms of sneezing, itching, nasal congestion and post nasal drip, as well as related conditions including nasal polyps and mucosal thickening, and complications such as sinusitis and serous otitis.</p>
+    <p num="p-0106">2) Lungs, is to decrease coughing and wheezing (bronchoconstriction, edema) and the non-specific sensory hypersensitivity related to chronic allergic reactions.</p>
+    <p num="p-0107">3) Eye, is to decrease itching, tearing and redness.</p>
+    <p num="p-0108">4) Skin, is to decrease itching and swelling.</p>
+    <p num="p-0109">5) Gastrointestinal tract, is to decrease gastrointestinal dysmotility.</p>
+    
+    
+    <heading>EXAMPLES</heading>
+    <heading>Example 1</heading>
+    <heading>Seasonal Allergic Rhinitis</heading>
+    <p num="p-0110">1a) A 30-year-old male has seasonal allergic rhinitis. In May, prior to pollen formation, 30 units of BoNT are topically applied in each nostril. Specifically, the nasal cavity is sprayed with a solution of 1% lidocaine and ½% neosynephrine to anesthetize and decongest the nasal mucosa, respectively. Then 1 cc of normal saline containing 30 units of BoNT is sprayed into each nasal cavity. This method of delivery, although commonly used for application of nasal medication, is inherently inefficient as a significant percentage of a sprayed medication will exit the posterior nasal cavity and be exhaled or swallowed.</p>
+    <p num="p-0111">1b) In another embodiment, the patient is treated by placing 1×3 cm<sup>2 </sup>cotton pledgets impregnated with 20 units of BoNT onto the medial surface of the turbinates and left for one hour, then removed by the physician. This delivery method is more efficient then a spray, however a significant percentage of the BoNT will not diffuse from the pledgets to the mucosa.</p>
+    <p num="p-0112">1c) Alternatively, the patient has topical anesthesia applied only to a localized area, preferably the anterior end of the inferior turbinate. Then, patient has a 1 cm<sup>2 </sup>cotton pledget impregnated with 10 units of BoNT placed onto the mucosa of the anterior turbinate for one hour and then removed. Within the nasal cavity a mucociliary blanket transports fluids and particles posteriorly, thereby distributing the BoNT. This is an example of applying a BoNT to a localized region of the nasal cavity and using the normal physiology of the nasal cavity for distribution. The routes of mucociliary clearance of the nose and sinus cavities are known so that other variations of this method are apparent to those skilled in the art.</p>
+    <p num="p-0113">1d) In another embodiment, using a topical biodegradable depot to deliver BoNT over an extended time period to nasal mucosa is used for treating the patient. Various biodegradable compounds are known in the art that vary in consistency and rate of dissolution.</p>
+    <p num="p-0114">An example is oxidized cellulose (marketed as Surgicel® by Johnson &amp; Johnson, New Brunswick, N.J.). The oxidized cellulose can be manufactured with BoNT as an integral component, or the BoNT can be added to the oxidized cellulose before its clinical use. Surgicel is available in the form of a thin flexible sheet that is often cut to fit the area of the body to which it will be applied. For intranasal use the size may vary from a few square millimeters to a 4 by 8 cm<sup>2 </sup>sheet that could contact the entire exposed mucosa of the nasal cavity. BoNT can be added to the Surgicel as a lyophilized powder or after reconstitution into solution. If added as a powder it can homogeneously applied onto one side of the Surgicel and the material can be folded. The material is then moistened with normal saline to bind the material together and immobilize the BoNT prior to clinical use. In contrast the BoNT can first be constituted into solution and then absorbed into the material.</p>
+    <p num="p-0115">As an example a 2×6 cm<sup>2 </sup>piece of oxidized cellulose is saturated with 1 cc of normal saline containing a total of 10 units of BoNT. Using a nasal speculum the nostril is dilated and the nasal cavity is visualized and the saturated cellulose place therein. The cellulose will gradually dissolve over hours while releasing a small continual dose of BoNT directly onto the nasal mucosa.</p>
+    <p num="p-0116">Alternatively, 0.5 cc. of normal saline containing 5 units of BoNT is applied to the oxidized cellulose which is grasped with bayonet forceps and placed flat onto the medial surface of the anterior end of the inferior turbinate of each nasal cavity. As disclosed above the mucociliary action of the nasal mucosa transports liquids and particles from the anterior to posterior nasal cavity.</p>
+    <p num="p-0117">1e) In another embodiment the patient is injected with BoNT solution directly into the nasal mucosa. After anesthetizing and decongesting the mucosa, 5 units of BoNT in 1 cc of saline are injected beneath the mucosa throughout the length of the inferior turbinate with a 25 gauge spinal needle coupled to a 1 cc syringe.</p>
+    <p num="p-0118">1f) Alternatively the patient can be treated with TeNT.</p>
+    <p num="p-0119">Compositions of TeNT for intranasal administration, can range in dose from 0.1 to 1000 units in 0.1 cc to 10 cc of solution. One preferable composition is 10 units of TeNT in 1 cc of normal saline.</p>
+    <p num="p-0120">As an example the same patient is treated by spraying each nostril with 1 cc of normal saline solution containing 10 units of TeNT.</p>
+    <p num="p-0121">Alternatively, if only decongestion is desired 10 units of TeNT can be topically applied.</p>
+    <p num="p-0122">In another embodiment, 1 unit of recombinant DNA coding for TeNT is pressure injected across the nasal mucosa to transfect mucosal cells. These cells then express the TeNT for months.</p>
+    <heading>Example 2</heading>
+    <heading>Perennial Allergic Rhinitis</heading>
+    <p num="p-0123">2a) Direct injection of the sphenopalatine ganglia.</p>
+    <p num="p-0124">A 40-year-old female has chronic nasal congestion due to perennial rhinitis. Skin testing demonstrates that she is allergic to numerous environmental antigens and intranasal examination shows enlarged turbinate mucosa and nasal polyps. Testing of nasal secretions shows eosinophilia. An injection of 20 units of BoNT in a 1 cc solution of normal saline is made through the sphenopalatine canal into the area of the sphenopalatine ganglia.</p>
+    <p num="p-0125">In another embodiment, 100 units of BoNT embedded in 0.1 micron biodegradable pellets suspended in solution is injected into the mucosa of each turbinate to slowly release its contents over 6 months.</p>
+    <p num="p-0126">Alternatively a biodegradable carrier containing 5 units of BoNT is placed intranasally in the most superior and posterior aspect of the lateral nasal wall. This permits the BoNT to diffuse across the nasal wall to the underlying sphenopalatine ganglia.</p>
+    <heading>Example 3</heading>
+    <heading>Serous Otitis Media</heading>
+    <p num="p-0127">A 3-year-old male has a history of serous otitis media. Under general anesthesia a myringotomy is made into the tympanic membranes and 2 units of BoNT in 0.5 cc of normal saline is injected.</p>
+    <heading>Example 4</heading>
+    <heading>Sinusitis</heading>
+    <p num="p-0128">A fifty-year-old male has a history of allergic rhinitis and recurrent sinusitis. Ten units of BoNT are injected through the palate into the pterygopalatine space to block the sphenopalatine ganglion.</p>
+    <heading>Example 5</heading>
+    <heading>Allergic Dermatitis</heading>
+    <p num="p-0129">A seventy-year-old male has severe allergic dermatitis of the forearm skin. Each forearm is injected with 10 injections of 0.3 units BoNT in 0.1 cc of normal saline. Each injection is made intradermally at 3 cm intervals.</p>
+    <heading>Example 6</heading>
+    <heading>Allergic Asthma</heading>
+    <p num="p-0130">A 13-year-old boy has severe allergic asthma. He is treated by bimonthly. inhalation therapy of an aerosilized solution of 5 units of botulinum toxin in 5 cc of normal saline.</p>
+    <p num="p-0131">Alternatively the same botulinum solution can be injected directly into the trachea and bronchi. After injecting local anesthesia into the skin overlying the cricothyroid membrane a needle is passed directly through the skin and cricothyroid membrane and the BoNT solution is sprayed into the trachea. The solution drips down to reach the bronchial mucosa where it is topically absorbed. and is absorbed</p>
+    <heading>Example 7</heading>
+    <heading>Allergic Rhinitis</heading>
+    <p num="p-0132">A 40-year-old male has allergic rhinitis and an associated reflex chronic cough. Application of CnT to the nasal cavity as described above or alternatively injected or aerosilized topical application of BoNT to the lungs is used to treat the cough.</p>
+    <heading>Example 8</heading>
+    <heading>Food Allergies</heading>
+    <p num="p-0133">A 10-year-old boy with food allergies manifested by bloating and diarrhea is treated with a rectal suppository containing 50 units of BoNT. The suppository is composed of biocompatible material designed to be solid at room temperature but to dissolve at body temperature. Sufficient materials for the composition are cocoa butter glycerinated gelatin, hydrogenated vegetable oils, polyethylene glycols of various molecular weights and fatty esters of polyethylene glycol.</p>
+    <heading>Example 9</heading>
+    <heading>Infectious Rhinitis</heading>
+    <p num="p-0134">Chronic allergic exposure causes the nervous system to become hyper responsive to non-allergic stimulation such as that caused by viral infections.</p>
+    <p num="p-0135">A patient with rhinitis is given 10 units of BoNT and 5 units of TeNT prior to spring.</p>
+    
+  </div>
+  </div>
+  </section>
+
+  <section itemprop="claims" itemscope>
+    <h2>Claims (<span itemprop="count">13</span>)</h2>
+    
+    <div itemprop="content" html><div mxw-id="PCLM38615629" lang="EN" load-source="patent-office" class="claims">
+    <div class="claim"> <div id="CLM-00001" num="00001" class="claim">
+      <div class="claim-text">1. A method of treating allergic rhinitis comprising administering a therapeutically effective amount of a neurotoxin (CnT) to a mammal suffering from allergic rhinitis, wherein the CnT is isolated or purified from a species of <i>Clostridia </i>selected from the group consisting of <i>C. botulinum, C. butyricum </i>and <i>C. beratti</i>, and wherein the allergic rhinitis is treated.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00002" num="00002" class="claim">
+      <div class="claim-text">2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the allergic rhinitis treated is seasonal allergic rhinitis.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00003" num="00003" class="claim">
+      <div class="claim-text">3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the allergic rhinitis treated is perennial allergic rhinitis.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00004" num="00004" class="claim">
+      <div class="claim-text">4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein at least one symptom of allergic rhinitis is treated.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00005" num="00005" class="claim">
+      <div class="claim-text">5. The method of <claim-ref idref="CLM-00004">claim 4</claim-ref>, wherein the at least one symptom is selected from the group consisting of sneezing, itching, nasal congestion, postnasal drip, mucosal thickening, and nasal polyps.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00006" num="00006" class="claim">
+      <div class="claim-text">6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the CnT is administered to the sphenopalatine ganglion.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00007" num="00007" class="claim">
+      <div class="claim-text">7. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the mode of administration of the CnT to the mammal is selected from the group consisting of:
+<div class="claim-text">(a) spraying the CnT into at least one nasal cavity;</div>
+<div class="claim-text">(b) placing at least one cotton pledget impregnated with CnT within at least one nasal cavity;</div>
+<div class="claim-text">(c) placing at least one cotton pledget impregnated with CnT onto the medial surface of the turbinates;</div>
+<div class="claim-text">(d) placing at least one cotton pledget impregnated with CnT onto the mucosa of the anterior turbinate;</div>
+<div class="claim-text">(e) using a topical biodegradable depot containing CnT to deliver CnT to nasal mucosa;</div>
+<div class="claim-text">(f) placing a piece of oxidized cellulose containing CnT into at least one nasal cavity;</div>
+<div class="claim-text">(g) placing a biodegradable carrier containing CnT intranasally;</div>
+<div class="claim-text">(h) injecting the CnT into the nasal mucosa;</div>
+<div class="claim-text">(i) topical administration;</div>
+<div class="claim-text">(j) pressure injection of DNA encoding recombinant DNA coding for CnT across the nasal mucosa to transfect mucosal cells;</div>
+<div class="claim-text">(k) injecting biodegradable pellets embedded with CnT into the nasal mucosa;</div>
+<div class="claim-text">(l) injecting the CnT into the pterygopalatine space; and</div>
+<div class="claim-text">(m) causing the mammal to inhale an aerosolized solution of CnT in normal saline.</div>
+</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00008" num="00008" class="claim">
+      <div class="claim-text">8. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the amount of CnT administered is between about 0.1 and about 1,000 units.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00009" num="00009" class="claim">
+      <div class="claim-text">9. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the amount of CnT administered is between about 1 and about 100 units.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00010" num="00010" class="claim">
+      <div class="claim-text">10. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the amount of CnT administered is between about 1 and about 20 units.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00011" num="00011" class="claim">
+      <div class="claim-text">11. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the CnT is a fragment, altered form, or recombinant form of CnT.</div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00012" num="00012" class="claim">
+      <div class="claim-text">12. A method of preventing allergic rhinitis comprising administering a therapeutically effective amount of a neurotoxin (CnT) to a mammal at risk for suffering from allergic rhinitis, wherein the CnT is isolated or purified from a species of <i>Clostridia </i>selected from the group consisting of <i>C. botulinum, C. butyricum </i>and <i>C. beratti</i>, and wherein the allergic rhinitis is prevented.</div>
+    </div>
+    </div> <div class="claim"> <div id="CLM-00013" num="00013" class="claim">
+      <div class="claim-text">13. A method of reducing the inflammation associated with allergic rhinitis comprising administering a therapeutically effective amount of a neurotoxin (CnT) to a mammal suffering from inflammation associated with allergic rhinitis, wherein the CnT is isolated or purified from a species of <i>Clostridia </i>selected from the group consisting of <i>C. botulinum, C. butyricum </i>and <i>C. beratti</i>, and wherein the inflammation is reduced.</div>
+    </div>
+  </div> </div>
+  </div>
+  </section>
+
+  <section itemprop="application" itemscope>
+
+    <section itemprop="metadata" itemscope>
+        <span itemprop="applicationNumber">US12976421</span>
+        <span itemprop="priorityDate">2002-11-21</span>
+        <span itemprop="filingDate">2010-12-22</span>
+        <span itemprop="title">Treatment of allergic rhinitis in mammals with Clostridia neurotoxins 
+       </span>
+        <span itemprop="ifiStatus">Active</span>
+        
+        <a href="/patent/US8088361B2/en">
+            <span itemprop="representativePublication">US8088361B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+        </a>
+    </section>
+
+    <h2>Priority Applications (4)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US42774902</span>
+                   <span itemprop="isUsProvisional">true</span>
+                   
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2002-11-21</td>
+                <td itemprop="title"></td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">PCT/US2003/037286</span>
+                   
+                   <a href="/patent/WO2004048519A3/en">
+                        <span itemprop="representativePublication">WO2004048519A3</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2003-11-20</td>
+                <td itemprop="title">Treatment of mammalian reaction to ige interactions 
+       </td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US10535504</span>
+                   
+                   <a href="/patent/US7879340B2/en">
+                        <span itemprop="representativePublication">US7879340B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2003-11-20</td>
+                <td itemprop="title">Treatment of mammalian reaction of IgE interactions 
+       </td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12976421</span>
+                   
+                   <a href="/patent/US8088361B2/en">
+                        <span itemprop="representativePublication">US8088361B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2010-12-22</td>
+                <td itemprop="title">Treatment of allergic rhinitis in mammals with Clostridia neurotoxins 
+       </td>
+              </tr>
+           </tbody>
+       </table>
+
+    <h2>Applications Claiming Priority (2)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="appsClaimingPriority" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12976421</span>
+                   <a href="/patent/US8088361B2/en">
+                        <span itemprop="representativePublication">US8088361B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2010-12-22</td>
+                <td itemprop="title">Treatment of allergic rhinitis in mammals with Clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="appsClaimingPriority" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US13304092</span>
+                   <a href="/patent/US8349292B2/en">
+                        <span itemprop="representativePublication">US8349292B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2011-11-23</td>
+                <td itemprop="title">Treatment of allergic otitis media in mammals with Clostridia neurotoxins 
+       </td>
+              </tr>
+           </tbody>
+       </table>
+
+    <h2>Related Parent Applications (3)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="parentApps" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US10535504</span>
+                    <span itemprop="relationType">Continuation</span>
+                    
+
+                <td itemprop="">
+                <td itemprop="priorityDate"></td>
+                <td itemprop="filingDate"></td>
+                <td itemprop="title"></td>
+              </tr><tr itemprop="parentApps" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">PCT/US2003/037286</span>
+                    <span itemprop="relationType">Continuation</span>
+                    <a href="/patent/WO2004048519A3/en">
+                        <span itemprop="representativePublication">WO2004048519A3</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+
+                <td itemprop="">
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2003-11-20</td>
+                <td itemprop="title">Treatment of mammalian reaction to ige interactions 
+       </td>
+              </tr><tr itemprop="parentApps" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US10535504</span>
+                    <span itemprop="relationType">Continuation</span>
+                    <a href="/patent/US7879340B2/en">
+                        <span itemprop="representativePublication">US7879340B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+
+                <td itemprop="">
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2003-11-20</td>
+                <td itemprop="title">Treatment of mammalian reaction of IgE interactions 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Related Child Applications (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="childApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US13304092</span>
+                    <span itemprop="relationType">Continuation</span>
+                    <a href="/patent/US8349292B2/en">
+                        <span itemprop="representativePublication">US8349292B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2011-11-23</td>
+                <td itemprop="title">Treatment of allergic otitis media in mammals with Clostridia neurotoxins 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Publications (2)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Publication Number</th>
+                    <th>Publication Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="pubs" itemscope repeat>
+                <td>
+                   <span itemprop="publicationNumber">US20110091504A1</span>
+                   
+                   <span itemprop="isApplication">true</span>
+                   
+                   <a href="/patent/US20110091504A1/en">US20110091504A1
+                       (<span itemprop="primaryLanguage">en</span>)
+                   </a>
+                </td>
+                <td itemprop="publicationDate">2011-04-21</td>
+              </tr><tr itemprop="pubs" itemscope repeat>
+                <td>
+                   <span itemprop="publicationNumber">US8088361B2</span>
+                   
+                   
+                   <span itemprop="thisPatent">true</span>
+                   <a href="/patent/US8088361B2/en">US8088361B2
+                       (<span itemprop="primaryLanguage">en</span>)
+                   </a>
+                </td>
+                <td itemprop="publicationDate">2012-01-03</td>
+              </tr>
+           </tbody>
+        </table>
+
+  </section>
+
+  <section itemprop="family" itemscope>
+    <h1>Family</h1>
+    <h2>ID=32393325</h2>
+
+    <h2>Family Applications (8)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US10535504</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    <span itemprop="ifiExpiration">2025-06-12</span>
+                    <a href="/patent/US7879340B2/en">
+                        <span itemprop="representativePublication">US7879340B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2003-11-20</td>
+                <td itemprop="title">Treatment of mammalian reaction of IgE interactions 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12976421</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8088361B2/en">
+                        <span itemprop="representativePublication">US8088361B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2010-12-22</td>
+                <td itemprop="title">Treatment of allergic rhinitis in mammals with Clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12976317</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8088360B2/en">
+                        <span itemprop="representativePublication">US8088360B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2010-12-22</td>
+                <td itemprop="title">Treatment of infectious rhinitis in mammals with clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12976483</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8092781B2/en">
+                        <span itemprop="representativePublication">US8092781B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2010-12-22</td>
+                <td itemprop="title">Treatment of sinusitis in mammals with clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12976459</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8715620B2/en">
+                        <span itemprop="representativePublication">US8715620B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2010-12-22</td>
+                <td itemprop="title">Treatment of asthma in mammals with clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US13304092</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8349292B2/en">
+                        <span itemprop="representativePublication">US8349292B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2011-11-23</td>
+                <td itemprop="title">Treatment of allergic otitis media in mammals with Clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US14223056</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US9314513B2/en">
+                        <span itemprop="representativePublication">US9314513B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2014-03-24</td>
+                <td itemprop="title">Treatment of mammalian physiological reaction of IgE antibodies present in said mammal upon contact with the corresponding antigen 
+       </td>
+              </tr><tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US15083540</span>
+                    <span itemprop="ifiStatus">Pending</span>
+                    
+                    <a href="/patent/US20160206711A1/en">
+                        <span itemprop="representativePublication">US20160206711A1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2016-03-29</td>
+                <td itemprop="title">Treatment of Mammalian Physiological Reaction of IgE Antibodies Present in Said Mammal Upon Contact with the Corresponding Antigen 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Family Applications Before (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="beforeApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US10535504</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    <span itemprop="ifiExpiration">2025-06-12</span>
+                    <a href="/patent/US7879340B2/en">
+                        <span itemprop="representativePublication">US7879340B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2003-11-20</td>
+                <td itemprop="title">Treatment of mammalian reaction of IgE interactions 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Family Applications After (6)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12976317</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8088360B2/en">
+                        <span itemprop="representativePublication">US8088360B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2010-12-22</td>
+                <td itemprop="title">Treatment of infectious rhinitis in mammals with clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12976483</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8092781B2/en">
+                        <span itemprop="representativePublication">US8092781B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2010-12-22</td>
+                <td itemprop="title">Treatment of sinusitis in mammals with clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12976459</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8715620B2/en">
+                        <span itemprop="representativePublication">US8715620B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2010-12-22</td>
+                <td itemprop="title">Treatment of asthma in mammals with clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US13304092</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US8349292B2/en">
+                        <span itemprop="representativePublication">US8349292B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2011-11-23</td>
+                <td itemprop="title">Treatment of allergic otitis media in mammals with Clostridia neurotoxins 
+       </td>
+              </tr><tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US14223056</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    
+                    <a href="/patent/US9314513B2/en">
+                        <span itemprop="representativePublication">US9314513B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2014-03-24</td>
+                <td itemprop="title">Treatment of mammalian physiological reaction of IgE antibodies present in said mammal upon contact with the corresponding antigen 
+       </td>
+              </tr><tr itemprop="afterApplications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US15083540</span>
+                    <span itemprop="ifiStatus">Pending</span>
+                    
+                    <a href="/patent/US20160206711A1/en">
+                        <span itemprop="representativePublication">US20160206711A1</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2002-11-21</td>
+                <td itemprop="filingDate">2016-03-29</td>
+                <td itemprop="title">Treatment of Mammalian Physiological Reaction of IgE Antibodies Present in Said Mammal Upon Contact with the Corresponding Antigen 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    <h2>Country Status (6)</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Country</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">US</span>
+                (<span itemprop="num">8</span>)
+              <meta itemprop="thisCountry" content="true">
+              
+              
+            </td>
+            <td>
+              <a href="/patent/US7879340B2/en">
+                <span itemprop="representativePublication">US7879340B2</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">EP</span>
+                (<span itemprop="num">1</span>)
+              
+              
+              
+            </td>
+            <td>
+              <a href="/patent/EP1565210B1/en">
+                <span itemprop="representativePublication">EP1565210B1</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">CA</span>
+                (<span itemprop="num">2</span>)
+              
+              
+              
+            </td>
+            <td>
+              <a href="/patent/CA2507115C/en">
+                <span itemprop="representativePublication">CA2507115C</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">DK</span>
+                (<span itemprop="num">1</span>)
+              
+              
+              
+            </td>
+            <td>
+              <a href="/patent/DK1565210T3/en">
+                <span itemprop="representativePublication">DK1565210T3</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">ES</span>
+                (<span itemprop="num">1</span>)
+              
+              
+              
+            </td>
+            <td>
+              <a href="/patent/ES2380662T3/en">
+                <span itemprop="representativePublication">ES2380662T3</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">WO</span>
+                (<span itemprop="num">1</span>)
+              
+              
+              
+            </td>
+            <td>
+              <a href="/patent/WO2004048519A3/en">
+                <span itemprop="representativePublication">WO2004048519A3</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr>
+      </tbody>
+    </table>
+
+    <h2>Cited By (2)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20120251576A1/en">
+              <span itemprop="publicationNumber">US20120251576A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2009-12-15</td>
+          <td itemprop="publicationDate">2012-10-04</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Treatment of Nasal and Sinus Disorders 
+       </td>
+        </tr><tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20160206711A1/en">
+              <span itemprop="publicationNumber">US20160206711A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-11-21</td>
+          <td itemprop="publicationDate">2016-07-21</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Treatment of Mammalian Physiological Reaction of IgE Antibodies Present in Said Mammal Upon Contact with the Corresponding Antigen 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Families Citing this family (7)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CA2413301A1/en">
+              <span itemprop="publicationNumber">CA2413301A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2000-06-28</td>
+          <td itemprop="publicationDate">2002-01-03</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Methods for using tetanus toxin for benificial purposes in animals (mammals) 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CA2518157A1/en">
+              <span itemprop="publicationNumber">CA2518157A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2003-03-06</td>
+          <td itemprop="publicationDate">2004-09-16</td>
+          <td><span itemprop="assigneeOriginal">Botulinum Toxin Research Associates, Inc.</span></td>
+          <td itemprop="title">Treatment of sinusitis related chronic facial pain and headache with botulinum toxin 
+     </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8105611B2/en">
+              <span itemprop="publicationNumber">US8105611B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-06-17</td>
+          <td itemprop="publicationDate">2012-01-31</td>
+          <td><span itemprop="assigneeOriginal">Allergan, Inc.</span></td>
+          <td itemprop="title">Treatment of autoimmune disorder with a neurotoxin 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9511210B2/en">
+              <span itemprop="publicationNumber">US9511210B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2006-05-19</td>
+          <td itemprop="publicationDate">2016-12-06</td>
+          <td><span itemprop="assigneeOriginal">The Foundry, Llc</span></td>
+          <td itemprop="title">Apparatus for toxin delivery to the nasal cavity 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9095603B2/en">
+              <span itemprop="publicationNumber">US9095603B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2006-04-05</td>
+          <td itemprop="publicationDate">2015-08-04</td>
+          <td><span itemprop="assigneeOriginal">Yissum Research Development Company Of The Hebrew University Of Jerusalem Ltd.</span></td>
+          <td itemprop="title">Anti-allergy compositions 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8470337B2/en">
+              <span itemprop="publicationNumber">US8470337B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2008-03-13</td>
+          <td itemprop="publicationDate">2013-06-25</td>
+          <td><span itemprop="assigneeOriginal">Allergan, Inc.</span></td>
+          <td itemprop="title">Therapeutic treatments using botulinum neurotoxin 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2013009761A1/en">
+              <span itemprop="publicationNumber">WO2013009761A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2011-07-13</td>
+          <td itemprop="publicationDate">2013-01-17</td>
+          <td><span itemprop="assigneeOriginal">The Foundry, Llc</span></td>
+          <td itemprop="title">Methods and apparatus for delivering a therapeutic agent to nasopharyngeal mucosa targets 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Citations (12)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO1995028171A1/en">
+              <span itemprop="publicationNumber">WO1995028171A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-04-15</td>
+          <td itemprop="publicationDate">1995-10-26</td>
+          <td><span itemprop="assigneeOriginal">Mount Sinai School Of Medicine Of The City University Of New York</span></td>
+          <td itemprop="title">Treatment of autonomic nerve dysfunction with botulinum toxin 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US5670484A/en">
+              <span itemprop="publicationNumber">US5670484A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-05-09</td>
+          <td itemprop="publicationDate">1997-09-23</td>
+          <td><span itemprop="assigneeOriginal">Binder; William J.</span></td>
+          <td itemprop="title">Method for treatment of skin lesions associated with cutaneous cell-proliferative disorders 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2000015245A2/en">
+              <span itemprop="publicationNumber">WO2000015245A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-09-11</td>
+          <td itemprop="publicationDate">2000-03-23</td>
+          <td><span itemprop="assigneeOriginal">Elan Pharmaceuticals, Inc.</span></td>
+          <td itemprop="title">Stable liquid formulations of botulinum toxin 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2002000172A2/en">
+              <span itemprop="publicationNumber">WO2002000172A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2000-06-28</td>
+          <td itemprop="publicationDate">2002-01-03</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Methods for using tetanus toxin for benificial purposes in animals (mammals) 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20020082197A1/en">
+              <span itemprop="publicationNumber">US20020082197A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1993-12-28</td>
+          <td itemprop="publicationDate">2002-06-27</td>
+          <td><span itemprop="assigneeOriginal">Allergan Sales, Inc.</span></td>
+          <td itemprop="title">Method for treating a mucus secretion 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6429189B1/en">
+              <span itemprop="publicationNumber">US6429189B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1999-12-10</td>
+          <td itemprop="publicationDate">2002-08-06</td>
+          <td><span itemprop="assigneeOriginal">Botulinum Toxin Research Associates, Inc.</span></td>
+          <td itemprop="title">Cytotoxin (non-neurotoxin) for the treatment of human headache disorders and inflammatory diseases 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6822076B2/en">
+              <span itemprop="publicationNumber">US6822076B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-05-13</td>
+          <td itemprop="publicationDate">2004-11-23</td>
+          <td><span itemprop="assigneeOriginal">Biotecon Therapeutics Gmbh</span></td>
+          <td itemprop="title">Hybrid protein for inhibiting the degranulation of mastocytes and the use thereof 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20040247606A1/en">
+              <span itemprop="publicationNumber">US20040247606A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-03-06</td>
+          <td itemprop="publicationDate">2004-12-09</td>
+          <td><span itemprop="assigneeOriginal">Gary Borodic</span></td>
+          <td itemprop="title">Treatment of sinusitis related chronic facial pain and headache with botulinum toxin injections 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7537773B1/en">
+              <span itemprop="publicationNumber">US7537773B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-08-25</td>
+          <td itemprop="publicationDate">2009-05-26</td>
+          <td><span itemprop="assigneeOriginal">Botulinum Toxin Research Associates, Inc.</span></td>
+          <td itemprop="title">Chemodenervating pharmaceutical as anti-inflammatory agent 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7608275B2/en">
+              <span itemprop="publicationNumber">US7608275B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2005-07-22</td>
+          <td itemprop="publicationDate">2009-10-27</td>
+          <td><span itemprop="assigneeOriginal">The Foundry, Llc</span></td>
+          <td itemprop="title">Systems and methods for delivery of a therapeutic agent 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7655243B2/en">
+              <span itemprop="publicationNumber">US7655243B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2005-07-22</td>
+          <td itemprop="publicationDate">2010-02-02</td>
+          <td><span itemprop="assigneeOriginal">The Foundry, Llc</span></td>
+          <td itemprop="title">Methods and systems for toxin delivery to the nasal cavity 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7879340B2/en">
+              <span itemprop="publicationNumber">US7879340B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-11-21</td>
+          <td itemprop="publicationDate">2011-02-01</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Treatment of mammalian reaction of IgE interactions 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Family Cites Families (2)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US5510339A/en">
+              <span itemprop="publicationNumber">US5510339A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">1993-02-02</td>
+          <td itemprop="publicationDate">1996-04-23</td>
+          <td><span itemprop="assigneeOriginal">Mayo Foundation For Medical Education And Research</span></td>
+          <td itemprop="title">Method for the treatment of bronchial asthma by administration of topical anesthetics 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6063768A/en">
+              <span itemprop="publicationNumber">US6063768A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1997-09-04</td>
+          <td itemprop="publicationDate">2000-05-16</td>
+          <td><span itemprop="assigneeOriginal">First; Eric R.</span></td>
+          <td itemprop="title">Application of botulinum toxin to the management of neurogenic inflammatory disorders 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    </section>
+
+  <section>
+    <h2>Patent Citations (16)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20030157134A1/en">
+              <span itemprop="publicationNumber">US20030157134A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1993-12-28</td>
+          <td itemprop="publicationDate">2003-08-21</td>
+          <td><span itemprop="assigneeOriginal">Aoki Kei Roger</span></td>
+          <td itemprop="title">Method for treating a non-rhinorrhea cholinergic influenced secretion 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20020082197A1/en">
+              <span itemprop="publicationNumber">US20020082197A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1993-12-28</td>
+          <td itemprop="publicationDate">2002-06-27</td>
+          <td><span itemprop="assigneeOriginal">Allergan Sales, Inc.</span></td>
+          <td itemprop="title">Method for treating a mucus secretion 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO1995028171A1/en">
+              <span itemprop="publicationNumber">WO1995028171A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-04-15</td>
+          <td itemprop="publicationDate">1995-10-26</td>
+          <td><span itemprop="assigneeOriginal">Mount Sinai School Of Medicine Of The City University Of New York</span></td>
+          <td itemprop="title">Treatment of autonomic nerve dysfunction with botulinum toxin 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US5670484A/en">
+              <span itemprop="publicationNumber">US5670484A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1994-05-09</td>
+          <td itemprop="publicationDate">1997-09-23</td>
+          <td><span itemprop="assigneeOriginal">Binder; William J.</span></td>
+          <td itemprop="title">Method for treatment of skin lesions associated with cutaneous cell-proliferative disorders 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6822076B2/en">
+              <span itemprop="publicationNumber">US6822076B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-05-13</td>
+          <td itemprop="publicationDate">2004-11-23</td>
+          <td><span itemprop="assigneeOriginal">Biotecon Therapeutics Gmbh</span></td>
+          <td itemprop="title">Hybrid protein for inhibiting the degranulation of mastocytes and the use thereof 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7537773B1/en">
+              <span itemprop="publicationNumber">US7537773B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-08-25</td>
+          <td itemprop="publicationDate">2009-05-26</td>
+          <td><span itemprop="assigneeOriginal">Botulinum Toxin Research Associates, Inc.</span></td>
+          <td itemprop="title">Chemodenervating pharmaceutical as anti-inflammatory agent 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2000015245A2/en">
+              <span itemprop="publicationNumber">WO2000015245A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-09-11</td>
+          <td itemprop="publicationDate">2000-03-23</td>
+          <td><span itemprop="assigneeOriginal">Elan Pharmaceuticals, Inc.</span></td>
+          <td itemprop="title">Stable liquid formulations of botulinum toxin 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6429189B1/en">
+              <span itemprop="publicationNumber">US6429189B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1999-12-10</td>
+          <td itemprop="publicationDate">2002-08-06</td>
+          <td><span itemprop="assigneeOriginal">Botulinum Toxin Research Associates, Inc.</span></td>
+          <td itemprop="title">Cytotoxin (non-neurotoxin) for the treatment of human headache disorders and inflammatory diseases 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2002000172A2/en">
+              <span itemprop="publicationNumber">WO2002000172A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2000-06-28</td>
+          <td itemprop="publicationDate">2002-01-03</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Methods for using tetanus toxin for benificial purposes in animals (mammals) 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20110150975A1/en">
+              <span itemprop="publicationNumber">US20110150975A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2002-11-21</td>
+          <td itemprop="publicationDate">2011-06-23</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Treatment of Mammalian Physiological Reaction of IgE Antibodies Present in Said Mammal Upon Contact With the Corresponding Antigen 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20110091505A1/en">
+              <span itemprop="publicationNumber">US20110091505A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2002-11-21</td>
+          <td itemprop="publicationDate">2011-04-21</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Treatment of Mammalian Physiological Reaction of IgE Antibodies Present in Said Mammal Upon Contact With the Corresponding Antigen 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20110086072A1/en">
+              <span itemprop="publicationNumber">US20110086072A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2002-11-21</td>
+          <td itemprop="publicationDate">2011-04-14</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Treatment of Mammalian Physiological Reaction of IgE Antibodies Present in Said Mammal Upon Contact With the Corresponding Antigen 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7879340B2/en">
+              <span itemprop="publicationNumber">US7879340B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-11-21</td>
+          <td itemprop="publicationDate">2011-02-01</td>
+          <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+          <td itemprop="title">Treatment of mammalian reaction of IgE interactions 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20040247606A1/en">
+              <span itemprop="publicationNumber">US20040247606A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-03-06</td>
+          <td itemprop="publicationDate">2004-12-09</td>
+          <td><span itemprop="assigneeOriginal">Gary Borodic</span></td>
+          <td itemprop="title">Treatment of sinusitis related chronic facial pain and headache with botulinum toxin injections 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7655243B2/en">
+              <span itemprop="publicationNumber">US7655243B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2005-07-22</td>
+          <td itemprop="publicationDate">2010-02-02</td>
+          <td><span itemprop="assigneeOriginal">The Foundry, Llc</span></td>
+          <td itemprop="title">Methods and systems for toxin delivery to the nasal cavity 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7608275B2/en">
+              <span itemprop="publicationNumber">US7608275B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2005-07-22</td>
+          <td itemprop="publicationDate">2009-10-27</td>
+          <td><span itemprop="assigneeOriginal">The Foundry, Llc</span></td>
+          <td itemprop="title">Systems and methods for delivery of a therapeutic agent 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Non-Patent Citations (20)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Hoffman, Hans Jürgen et al., "<a href='http://scholar.google.com/scholar?q="SNARE+Proteins+are+Critical+for+Regulated+Exocytosis+of+ECP+from+Human+Eosinophils"'>SNARE Proteins are Critical for Regulated Exocytosis of ECP from Human Eosinophils</a>", Biochemical and Biophysical Research Communications, vol. 282, (2001), p. 194-199.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Logan, M.R., "<a href='http://scholar.google.com/scholar?q="A+Critical+Role+for+Vesicle-Associated+Membrane+Protein-7+in+Exocytosis+for+Human+Eosinophils+and+Neutrophils"'>A Critical Role for Vesicle-Associated Membrane Protein-7 in Exocytosis for Human Eosinophils and Neutrophils</a>", Allergy, vol. 61, (2006), p. 777-784.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Mazzone, Stuart B., et al., "<a href='http://scholar.google.com/scholar?q="Evidence+for+Differential+Reflex+Regulation+of+Cholinergic+and+Noncholinergic+Payasympathetic+Nerves+Innervating+the+Airways"'>Evidence for Differential Reflex Regulation of Cholinergic and Noncholinergic Payasympathetic Nerves Innervating the Airways</a>", American Journal of Respiratory and Critical Care Medicine, vol. 165, (2002), p. 1076-1083.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Rohrbach, S., et al., "<a href='http://scholar.google.com/scholar?q="Minimally+Invasive+Application+of+Botulinum+Toxin+Type+A+in+Nasal+Hypersecretion"'>Minimally Invasive Application of Botulinum Toxin Type A in Nasal Hypersecretion</a>", Journal for Oto-Rhino-Laryngology and its Related Specialties, Nov.-Dec. 2001, vol. 63, No. 6, Nov. 2001, p. 382-384.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Rohrbach, S., et al., Botulinum Toxin Type A Induces Apoptosis in Nasal Glands of Guinea Pigs, Annals of Otology, Rhinology and Laryngology, vol. 101, (2001), p. 1045-1050.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Shaari, Christopher M., et al., "<a href='http://scholar.google.com/scholar?q="Rhinorrhea+is+Decreased+in+Dogs+After+Nasal+Application+of+Botulinum+Toxin"'>Rhinorrhea is Decreased in Dogs After Nasal Application of Botulinum Toxin</a>", Otolaryngology-Head and Neck Surgery, vol. 112, No. 4, (1995), p. 566-571.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Shaari, Christopher M., et al., "<a href='http://scholar.google.com/scholar?q="Rhinorrhea+is+Decreased+in+Dogs+After+Nasal+Application+of+Botulinum+Toxin"'>Rhinorrhea is Decreased in Dogs After Nasal Application of Botulinum Toxin</a>", Otolaryngology—Head and Neck Surgery, vol. 112, No. 4, (1995), p. 566-571.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,317-Non-Final Rejection dated Jun. 7, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,317—Non-Final Rejection dated Jun. 7, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,317-Response/Amendment dated Sep. 7, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,317—Response/Amendment dated Sep. 7, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,459-Non-Final Rejection dated Jun. 8, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,459—Non-Final Rejection dated Jun. 8, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,459-Response/amendment dated Sep. 7, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,459—Response/amendment dated Sep. 7, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,483-Non-Final Rejection dated Jun. 8, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,483—Non-Final Rejection dated Jun. 8, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,483-Response/Amendment dated Sep. 7, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">U.S. Appl. No. 12/976,483—Response/Amendment dated Sep. 7, 2011.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Ünal, M., et al., "<a href='http://scholar.google.com/scholar?q="Effect+of+Botulinum+Toxin+Type+A+on+Nasal+Symptoms+in+Patients+with+Allergic+Rhititis%3A+a+Double-Blind%2C+Placebo-Controlled+Clinical+Trial"'>Effect of Botulinum Toxin Type A on Nasal Symptoms in Patients with Allergic Rhititis: a Double-Blind, Placebo-Controlled Clinical Trial</a>", Acta Oto-Laryngologica, vol. 123, No. 9., Dec. 2003, p. 1060-1063.</span>
+            
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <h2>Cited By (2)</h2>
+  <table>
+    <caption>* Cited by examiner, † Cited by third party</caption>
+    <thead>
+      <tr>
+        <th>Publication number</th>
+        <th>Priority date</th>
+        <th>Publication date</th>
+        <th>Assignee</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          
+          
+          <a href="/patent/US20160206711A1/en">
+            <span itemprop="publicationNumber">US20160206711A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2002-11-21</td>
+        <td itemprop="publicationDate">2016-07-21</td>
+        <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+        <td itemprop="title">Treatment of Mammalian Physiological Reaction of IgE Antibodies Present in Said Mammal Upon Contact with the Corresponding Antigen 
+       </td>
+      </tr><tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          
+          
+          <a href="/patent/US20120251576A1/en">
+            <span itemprop="publicationNumber">US20120251576A1</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          <span itemprop="examinerCited">*</span>
+          
+        </td>
+        <td itemprop="priorityDate">2009-12-15</td>
+        <td itemprop="publicationDate">2012-10-04</td>
+        <td><span itemprop="assigneeOriginal">Ira Sanders</span></td>
+        <td itemprop="title">Treatment of Nasal and Sinus Disorders 
+       </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <section>
+    <h2>Also Published As</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Publication date</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20110086072A1/en">
+              <span itemprop="publicationNumber">US20110086072A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2011-04-14</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/ES2380662T3/en">
+              <span itemprop="publicationNumber">ES2380662T3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-05-17</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20110150975A1/en">
+              <span itemprop="publicationNumber">US20110150975A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2011-06-23</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/EP1565210B1/en">
+              <span itemprop="publicationNumber">EP1565210B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-01-11</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CA2854831A1/en">
+              <span itemprop="publicationNumber">CA2854831A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2004-06-10</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8349292B2/en">
+              <span itemprop="publicationNumber">US8349292B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2013-01-08</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20110091505A1/en">
+              <span itemprop="publicationNumber">US20110091505A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2011-04-21</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CA2854831C/en">
+              <span itemprop="publicationNumber">CA2854831C</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2016-08-30</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CA2507115A1/en">
+              <span itemprop="publicationNumber">CA2507115A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2004-06-10</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8715620B2/en">
+              <span itemprop="publicationNumber">US8715620B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2014-05-06</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/DK1565210T3/en">
+              <span itemprop="publicationNumber">DK1565210T3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-05-07</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/EP1565210A4/en">
+              <span itemprop="publicationNumber">EP1565210A4</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2007-12-26</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/EP1565210A2/en">
+              <span itemprop="publicationNumber">EP1565210A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2005-08-24</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20060008462A1/en">
+              <span itemprop="publicationNumber">US20060008462A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2006-01-12</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7879340B2/en">
+              <span itemprop="publicationNumber">US7879340B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2011-02-01</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8088360B2/en">
+              <span itemprop="publicationNumber">US8088360B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-01-03</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9314513B2/en">
+              <span itemprop="publicationNumber">US9314513B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2016-04-19</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8092781B2/en">
+              <span itemprop="publicationNumber">US8092781B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-01-10</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20120071395A1/en">
+              <span itemprop="publicationNumber">US20120071395A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2012-03-22</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CA2507115C/en">
+              <span itemprop="publicationNumber">CA2507115C</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2014-08-05</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20110091504A1/en">
+              <span itemprop="publicationNumber">US20110091504A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2011-04-21</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2004048519A3/en">
+              <span itemprop="publicationNumber">WO2004048519A3</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2004-07-01</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2004048519A2/en">
+              <span itemprop="publicationNumber">WO2004048519A2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2004-06-10</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20160206711A1/en">
+              <span itemprop="publicationNumber">US20160206711A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2016-07-21</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20140286930A1/en">
+              <span itemprop="publicationNumber">US20140286930A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2014-09-25</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Similar Documents</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication</th>
+          <th>Publication Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="10937569717277715277">
+              <a href="/scholar/10937569717277715277"><span itemprop="scholarAuthors">Blitzer et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2001">2001</time>
+          </td>
+          <td itemprop="title">Botulinum toxin: basic science and clinical uses in otolaryngology</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="499833618257184463">
+              <a href="/scholar/499833618257184463"><span itemprop="scholarAuthors">Bolte</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1998">1998</time>
+          </td>
+          <td itemprop="title">Autism and Clostridium tetani</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="1374033341471205023">
+              <a href="/scholar/1374033341471205023"><span itemprop="scholarAuthors">Bachert et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2004">2004</time>
+          </td>
+          <td itemprop="title">Allergic rhinitis, rhinosinusitis, and asthma: one airway disease</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="6309710600093762631">
+              <a href="/scholar/6309710600093762631"><span itemprop="scholarAuthors">Wassilak et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2009">2009</time>
+          </td>
+          <td itemprop="title">Tetanus</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="2995605512225999315">
+              <a href="/scholar/2995605512225999315"><span itemprop="scholarAuthors">Widdicombe</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1999">1999</time>
+          </td>
+          <td itemprop="title">Respiratory reflexes</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6063768A/en">
+                <span itemprop="publicationNumber">US6063768A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2000-05-16">2000-05-16</time>
+            
+          </td>
+          <td itemprop="title">Application of botulinum toxin to the management of neurogenic inflammatory disorders 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20040058313A1/en">
+                <span itemprop="publicationNumber">US20040058313A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2004-03-25">2004-03-25</time>
+            
+          </td>
+          <td itemprop="title">Compositions, targets, methods and devices for the therapy of ocular and periocular disorders 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="7139518532734792276">
+              <a href="/scholar/7139518532734792276"><span itemprop="scholarAuthors">Jankovic et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1991">1991</time>
+          </td>
+          <td itemprop="title">Therapeutic uses of botulinum toxin</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="12251865396115432184">
+              <a href="/scholar/12251865396115432184"><span itemprop="scholarAuthors">Tsui</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1996">1996</time>
+          </td>
+          <td itemprop="title">Botulinum toxin as a therapeutic agent</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6869610B2/en">
+                <span itemprop="publicationNumber">US6869610B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-03-22">2005-03-22</time>
+            
+          </td>
+          <td itemprop="title">Pain treatment by peripheral administration of a neurotoxin 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="4143274378194285019">
+              <a href="/scholar/4143274378194285019"><span itemprop="scholarAuthors">Johnson et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2008">2008</time>
+          </td>
+          <td itemprop="title">Botulism</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6645496B2/en">
+                <span itemprop="publicationNumber">US6645496B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2003-11-11">2003-11-11</time>
+            
+          </td>
+          <td itemprop="title">Method for treating tardive dyskinesia with Botulinum toxin type B 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20090232850A1/en">
+                <span itemprop="publicationNumber">US20090232850A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2009-09-17">2009-09-17</time>
+            
+          </td>
+          <td itemprop="title">Therapeutic treatments using botulinum neurotoxin 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20040126396A1/en">
+                <span itemprop="publicationNumber">US20040126396A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2004-07-01">2004-07-01</time>
+            
+          </td>
+          <td itemprop="title">Botulinum toxin treatment for strabismus 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6143306A/en">
+                <span itemprop="publicationNumber">US6143306A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2000-11-07">2000-11-07</time>
+            
+          </td>
+          <td itemprop="title">Methods for treating pancreatic disorders 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="2496896321430397252">
+              <a href="/scholar/2496896321430397252"><span itemprop="scholarAuthors">Middlebrook et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1997">1997</time>
+          </td>
+          <td itemprop="title">Botulinum toxins</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="18024130742620367828">
+              <a href="/scholar/18024130742620367828"><span itemprop="scholarAuthors">Wohlfarth et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1997">1997</time>
+          </td>
+          <td itemprop="title">Botulinum A toxins: units versus units</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="1699741322099230630">
+              <a href="/scholar/1699741322099230630"><span itemprop="scholarAuthors">Mandhane et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2011">2011</time>
+          </td>
+          <td itemprop="title">Allergic rhinitis: an update on disease, present treatments and future prospects</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20050220820A1/en">
+                <span itemprop="publicationNumber">US20050220820A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-10-06">2005-10-06</time>
+            
+          </td>
+          <td itemprop="title">Treatment of holocrine gland dysfunction with clostridia neurotoxins 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20060057165A1/en">
+                <span itemprop="publicationNumber">US20060057165A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2006-03-16">2006-03-16</time>
+            
+          </td>
+          <td itemprop="title">Clostridium botulinum toxin formulation and method for reducing weight 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20060153876A1/en">
+                <span itemprop="publicationNumber">US20060153876A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2006-07-13">2006-07-13</time>
+            
+          </td>
+          <td itemprop="title">Cell membrane translocation of regulated snare inhibitors, compositions therefor, and methods for treatment of disease 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20020082197A1/en">
+                <span itemprop="publicationNumber">US20020082197A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2002-06-27">2002-06-27</time>
+            
+          </td>
+          <td itemprop="title">Method for treating a mucus secretion 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="13255808329238309283">
+              <a href="/scholar/13255808329238309283"><span itemprop="scholarAuthors">Juniper et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1990">1990</time>
+          </td>
+          <td itemprop="title">Aqueous beclomethasone diproprionate nasal spray: regular versus “as required” use in the treatment of seasonal allergic rhinitis</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="6035273456961289516">
+              <a href="/scholar/6035273456961289516"><span itemprop="scholarAuthors">Samter</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1973">1973</time>
+          </td>
+          <td itemprop="title">Intolerance to aspirin</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="9323815923136438381">
+              <a href="/scholar/9323815923136438381"><span itemprop="scholarAuthors">Mosbech et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1987">1987</time>
+          </td>
+          <td itemprop="title">High dose grass pollen tablets used for hyposensitization in hay fever patients</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Legal Events</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Code</th>
+          <th>Title</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2015-07-31">2015-07-31</time></td>
+          <td itemprop="code">FPAY</td>
+          <td itemprop="title">Fee payment</td>
+          <td>
+            
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">4</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2015-07-31">2015-07-31</time></td>
+          <td itemprop="code">SULP</td>
+          <td itemprop="title">Surcharge for late payment</td>
+          <td>
+            
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2017-11-01">2017-11-01</time></td>
+          <td itemprop="code">FEPP</td>
+          <td itemprop="title"></td>
+          <td>
+            
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.)</span>
+            </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</article>
+
+      
+    </search-app>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/api.js"></script>
+    <script async="" defer="" src="//www.google.com/insights/consumersurveys/async_survey?site=cxkjf7ipxgbnnjy6k35ezcvbbe"></script>
+  </body>
+</html>

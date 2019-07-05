@@ -1,0 +1,2343 @@
+<!doctype html>
+<html>
+  <head>
+    <title>US8293506B2 - L-cysteine-producing bacterium and a method for producing L-cysteine 
+        - Google Patents</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <link rel="canonical" href="https://patents.google.com/patent/US8293506B2/en">
+    <meta name="description" content="
+     The present invention provides a bacterium belonging to the family Enterobacteriaceae, which is able to produce L-cysteine and has been modified to increase the activity of the protein encoded by the dsbA gene. This bacterium is cultured in a medium, and L-cysteine, L-cystine, a derivative or precursor thereof or a mixture thereof can be collected from the medium. 
+   
+   ">
+    
+    <meta name="DC.type" content="patent">
+    
+    <meta name="DC.title" content="L-cysteine-producing bacterium and a method for producing L-cysteine 
+       ">
+    
+    <meta name="DC.date" content="2010-02-24" scheme="dateSubmitted">
+    
+    <meta name="DC.description" content="
+     The present invention provides a bacterium belonging to the family Enterobacteriaceae, which is able to produce L-cysteine and has been modified to increase the activity of the protein encoded by the dsbA gene. This bacterium is cultured in a medium, and L-cysteine, L-cystine, a derivative or precursor thereof or a mixture thereof can be collected from the medium. 
+   
+   ">
+    
+    <meta name="citation_patent_application_number" content="US:12/711,299">
+    
+    <meta name="citation_pdf_url" content="https://patentimages.storage.googleapis.com/82/17/6c/1da0e4c39dca15/US8293506.pdf">
+    
+    <meta name="citation_patent_number" content="US:8293506">
+    
+    <meta name="DC.date" content="2012-10-23" scheme="issue">
+    
+    <meta name="DC.contributor" content="Gen Nonaka" scheme="inventor">
+    
+    <meta name="DC.contributor" content="Hiroshi Takagi" scheme="inventor">
+    
+    <meta name="DC.contributor" content="Iwao Ohtsu" scheme="inventor">
+    
+    <meta name="DC.contributor" content="Natthawut Wiriyathanawudhiwong" scheme="inventor">
+    
+    <meta name="DC.contributor" content="Takeshi Nakatani" scheme="inventor">
+    
+    <meta name="DC.contributor" content="Ajinomoto Co Inc" scheme="assignee">
+    
+    <meta name="DC.relation" content="JP:H05336986:A" scheme="references">
+    
+    <meta name="DC.relation" content="US:6218168" scheme="references">
+    
+    <meta name="DC.relation" content="US:5972663" scheme="references">
+    
+    <meta name="DC.relation" content="JP:H11155571:A" scheme="references">
+    
+    <meta name="DC.relation" content="JP:2000083670:A" scheme="references">
+    
+    <meta name="DC.relation" content="US:6673569" scheme="references">
+    
+    <meta name="DC.relation" content="WO:2001027307:A1" scheme="references">
+    
+    <meta name="DC.relation" content="CA:2386539:A1" scheme="references">
+    
+    <meta name="DC.relation" content="JP:2002233384:A" scheme="references">
+    
+    <meta name="DC.relation" content="US:20030077766:A1" scheme="references">
+    
+    <meta name="DC.relation" content="JP:2003169668:A" scheme="references">
+    
+    <meta name="DC.relation" content="US:20050112731:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:7312058" scheme="references">
+    
+    <meta name="DC.relation" content="US:20100093045:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:20080076163:A1" scheme="references">
+    
+    <meta name="DC.relation" content="JP:2005245311:A" scheme="references">
+    
+    <meta name="DC.relation" content="JP:2005287333:A" scheme="references">
+    
+    <meta name="DC.relation" content="US:20050221453:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:20090226984:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:20090226983:A1" scheme="references">
+    
+    <meta name="citation_reference" content="Akiyama, Y., et al., &#34;In Vitro Catalysis of Oxidative Folding of Disulfide-bonded Proteins by the Escherichia coli dsbA (ppfA) Gene Product,&#34; J. Biol. Chem. 1992;267(31):22440-22445." scheme="references">
+    
+    <meta name="citation_reference" content="Andersen, C. L., et al., &#34;A new Escherichia coli gene, dsbG, encodes a periplasmic protein involved in disulphide bond formation, required for recycling DsbA/DsbB and DsbC redox proteins,&#34; Mol. Microbiol. 1997;26(1):121-132." scheme="references">
+    
+    <meta name="citation_reference" content="Bardwell, J. C. A., &#34;Building bridges: disulphide bond formation in the cell,&#34; Mol. Microbiol. 1994:14(2):199-205." scheme="references">
+    
+    <meta name="citation_reference" content="Bardwell, J. C. A., et al., &#34;Identification of a Protein Required for Disulfide Bond Formation In Vivo,&#34; Cell 1991;67:581-589." scheme="references">
+    
+    <meta name="citation_reference" content="Dabetaler, T., et al., &#34;Identification of a major facilitator protein from Escherichia coli involved in efflux of metabolites of the cysteine pathway,&#34; Mol. Microbiol. 2000;36(5):1101-1112." scheme="references">
+    
+    <meta name="citation_reference" content="Daβler, T., et al., &#34;Identification of a major facilitator protein from Escherichia coli involved in efflux of metabolites of the cysteine pathway,&#34; Mol. Microbiol. 2000;36(5):1101-1112." scheme="references">
+    
+    <meta name="citation_reference" content="Givol, D., et al., &#34;Oxidation and Disulfide Interchange in the Reactivation of Reduced Ribonuclease,&#34; J. Biol. Chem. 1964;239(9):3114-3116." scheme="references">
+    
+    <meta name="citation_reference" content="Inaba, K., et al., &#34;DsbB Elicits a Red-shift of Bound Ubiquinone during the Catalysis of DsbA Oxidation,&#34; J. Biol. Chem. 2004;279(8):6761-6768." scheme="references">
+    
+    <meta name="citation_reference" content="Kadokura, H., et al., &#34;Mutational Alterations of the Key cis Proline Residue That Cause Accumulation of Enzymatic Reaction Intermediates of DsbA, a Member of the Thioredoxin Superfamily,&#34; J. Bacteriol. 2005;187(4):1519-1522." scheme="references">
+    
+    <meta name="citation_reference" content="Kadokura, H., et al., &#34;Snapshots of DsbA in Action: Detection of Proteins in the Process of Oxidative Folding,&#34; Science 2004;303:534-537." scheme="references">
+    
+    <meta name="citation_reference" content="Missiakas, D., et al., &#34;Identification and characterization of a new disulfide isomerase-like protein (DsbD) in Escherichia coli,&#34; The EMBO Journal 1995;14(14):3415-3424." scheme="references">
+    
+    <meta name="citation_reference" content="Rietsch, A., et al., &#34;An in vivo pathway for disulfide bond isomerization in Escherichia coil,&#34; Proc. Natl. Acad. Sci. USA 1996;93:13048-13053." scheme="references">
+    
+    <meta name="citation_reference" content="Rietsch, A., et al., &#34;Reduction of the Periplasmic Disulfide Bond Isomerase, DsbC, Occurs by Passage of Electrons from Cytoplasmic Thioredoxin,&#34; J. Bacteriol. 1997;179(21):6602-6608." scheme="references">
+    
+    <meta name="citation_reference" content="Shevchik , V. E., et al., &#34;Characterization of DsbC, a periplasmic protein of Erwinia chrysanthemi and Escherichia coil with disulfide isomerase activity,&#34; The EMBO Journal 1994;13(8):2007-2012." scheme="references">
+    
+    <meta name="citation_reference" content="Sone, M., et al., &#34;Differential in Vivo Roles Played by DsbA and DsbC in the Formation of Protein Disulfide Bonds,&#34; J. Biol. Chem. 1997;272(16):10349-10352." scheme="references">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Product+Sans">
+    <style>
+      body { transition: none; }
+    </style>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-27188110-4', 'auto');
+
+      version = 'patent-search.search_20180320_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "us,ep,wo,cn,ca,de,jp,kr,es,gb,be,dk,fi,fr,lu,nl,ru";
+      
+      window.experiments.enableSuggestions = true;
+      
+      
+      window.experiments.enableQueryURLSerialized = true;
+      
+      
+      window.experiments.enableSortByDate = true;
+      
+      
+      window.experiments.enableCoverageStats = true;
+      
+      
+      window.experiments.enableDownloadResults = true;
+      
+      
+      window.experiments.enableBooleanSearch = true;
+      
+      
+      
+      window.profilePicture = "";
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+    
+    <link rel="import" href="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/search-app-vulcanized.html">
+    
+  </head>
+  <body unresolved>
+    
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+    
+    <search-app>
+      
+      <span id="promo"><span><span style="color: #EA4335;">New!</span> <a target="_blank" href="https://www.darts-ip.com/darts-ip-google-patents/">View global litigation for patent families</a></span>
+</span>
+      <article class="result" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <h1 itemprop="pageTitle">US8293506B2 - L-cysteine-producing bacterium and a method for producing L-cysteine 
+        - Google Patents</h1>
+  <span itemprop="title">L-cysteine-producing bacterium and a method for producing L-cysteine 
+       </span>
+
+  <meta itemprop="type" content="patent">
+  <a href="https://patentimages.storage.googleapis.com/82/17/6c/1da0e4c39dca15/US8293506.pdf" itemprop="pdfLink">Download PDF</a>
+  <h2>Info</h2>
+
+  <dl>
+    <dt>Publication number</dt>
+    <dd itemprop="publicationNumber">US8293506B2</dd>
+    <meta itemprop="numberWithoutCodes" content="8293506">
+    <meta itemprop="kindCode" content="B2">
+    
+    <span>US8293506B2</span>
+    
+    <span>US12711299</span>
+    
+    <span>US71129910A</span>
+    
+    <span>US8293506B2</span>
+    
+    <span>US 8293506 B2</span>
+    
+    <span>US8293506 B2</span>
+    
+    <span>US 8293506B2</span>
+    
+    <span>US 12711299 </span>
+    
+    <span>US12711299 </span>
+    
+    <span>US 12711299</span>
+    
+    <span>US 71129910 A</span>
+    
+    <span>US71129910 A</span>
+    
+    <span>US 71129910A</span>
+    
+    <span>US 8293506 B2</span>
+    
+    <span>US8293506 B2</span>
+    
+    <span>US 8293506B2</span>
+    
+
+    <dt>Authority</dt>
+    <dd itemprop="countryCode">US</dd>
+
+    <dt>Grant status</dt>
+    <dd>
+      
+      Grant
+      <meta itemprop="isApplication" content="false" bool>
+      
+    </dd>
+
+    <dt>Patent type</dt>
+    <dd>
+      
+      <meta itemprop="isDesign" content="false" bool>
+      
+    </dd>
+
+    <dt>Prior art keywords</dt>
+    
+    <dd itemprop="priorArtKeywords" repeat>cysteine</dd>
+    <dd itemprop="priorArtKeywords" repeat>gene</dd>
+    <dd itemprop="priorArtKeywords" repeat>dsba</dd>
+    <dd itemprop="priorArtKeywords" repeat>protein</dd>
+    <dd itemprop="priorArtKeywords" repeat>bacterium</dd>
+
+    <dt>Prior art date</dt>
+    <dd><time itemprop="priorArtDate" datetime="2009-02-25">2009-02-25</time></dd>
+
+    <dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+    <dd itemprop="legalStatusIfi" itemscope>
+      <span itemprop="status">Active</span>, expires <time itemprop="expiration" datetime="2030-11-19">2030-11-19</time>
+    </dd>
+  </dl>
+
+  <dt>Application number</dt>
+  <dd itemprop="applicationNumber">US12711299</dd>
+
+  
+
+  <dt>Other versions</dt>
+  <dd itemprop="directAssociations" itemscope repeat>
+    
+    <a href="/patent/US20100216196A1/en">
+      <span itemprop="publicationNumber">US20100216196A1</span>
+      (<span itemprop="primaryLanguage">en</span>
+      <meta itemprop="isApplication" content="true" bool>)
+    </a>
+  </dd>
+
+  <dt>Inventor</dt>
+  <dd itemprop="inventor" repeat>Gen Nonaka</dd>
+  <dd itemprop="inventor" repeat>Hiroshi Takagi</dd>
+  <dd itemprop="inventor" repeat>Iwao Ohtsu</dd>
+  <dd itemprop="inventor" repeat>Natthawut Wiriyathanawudhiwong</dd>
+  <dd itemprop="inventor" repeat>Takeshi Nakatani</dd>
+  <dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+  <dd itemprop="assigneeCurrent" repeat>
+    Ajinomoto Co Inc
+  </dd>
+
+  <dt>Original Assignee</dt>
+  <dd itemprop="assigneeOriginal" repeat>Ajinomoto Co Inc</dd>
+
+  <dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+  <dd><time itemprop="priorityDate" datetime="2009-02-25">2009-02-25</a></dd>
+
+  <dt>Filing date</dt>
+  <dd><time itemprop="filingDate" datetime="2010-02-24">2010-02-24</a></dd>
+
+  <dt>Publication date</dt>
+  <dd><time itemprop="publicationDate" datetime="2012-10-23">2012-10-23</time></dd>
+
+  <dt>Grant date</dt>
+  <dd><time itemprop="grantDate" datetime="2012-10-23">2012-10-23</time></dd>
+
+  
+
+  <h2>Links</h2>
+
+  <ul>
+    
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="usptoLink">
+      <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=/netahtml/PTO/search-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN/8293506" itemprop="url" target="_blank"><span itemprop="text">USPTO</span></a>
+    </li>
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="usptoAssignmentLink">
+      <a href="https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=8293506" itemprop="url" target="_blank"><span itemprop="text">USPTO Assignment</span></a>
+    </li>
+
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="espacenetLink">
+      <a href="http://worldwide.espacenet.com/publicationDetails/biblio?CC=US&amp;NR=8293506B2&amp;KC=B2&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+    </li>
+    
+
+    
+
+    
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="globalDossierLink">
+        <a href="http://globaldossier.uspto.gov/#/result/patent/US/8293506/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="stackexchangeLink">
+        <a href="https://patents.stackexchange.com/questions/tagged/US8293506" itemprop="url"><span itemprop="text">Discuss</span></a>
+      </li>
+      
+  </ul>
+
+  <section>
+    <h2>Images</h2>
+    <ul>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/f8/94/6b/3914626ce4d437/US08293506-20121023-D00001.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/79/47/e8/1357cb0fb5a3e9/US08293506-20121023-D00001.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/f6/2e/1c/4232fc2e1f6ecc/US08293506-20121023-D00002.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/2e/d3/b9/768cb3ca536086/US08293506-20121023-D00002.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/b1/06/8d/8e4aa918a20bc4/US08293506-20121023-D00003.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/8f/17/d0/929a27c75eb8d0/US08293506-20121023-D00003.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/4a/fc/f2/6231ad098bd862/US08293506-20121023-D00004.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/19/12/81/6f10f1a591a44f/US08293506-20121023-D00004.png">
+      </li>
+      </ul>
+  </section>
+
+  <section>
+    <h2>Classifications</h2>
+    
+    <ul>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12P</span>&mdash;<span itemprop="Description">FERMENTATION OR ENZYME-USING PROCESSES TO SYNTHESISE A DESIRED CHEMICAL COMPOUND OR COMPOSITION OR TO SEPARATE OPTICAL ISOMERS FROM A RACEMIC MIXTURE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12P13/00</span>&mdash;<span itemprop="Description">Preparation of nitrogen-containing organic compounds</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12P13/04</span>&mdash;<span itemprop="Description">Alpha- or beta- amino acids</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12P13/12</span>&mdash;<span itemprop="Description">Methionine; Cysteine; Cystine</span>
+            <meta itemprop="Leaf" content="true">
+            
+            <meta itemprop="FirstCode" content="true">
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N</span>&mdash;<span itemprop="Description">MICROORGANISMS OR ENZYMES; COMPOSITIONS THEREOF; PROPAGATING, PRESERVING OR MAINTAINING MICROORGANISMS; MUTATION OR GENETIC ENGINEERING; CULTURE MEDIA</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/00</span>&mdash;<span itemprop="Description">Enzymes; Proenzymes; Compositions thereof; Processes for preparing, activating, inhibiting, separating or purifying enzymes</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/0004</span>&mdash;<span itemprop="Description">Oxidoreductases (1.)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/0051</span>&mdash;<span itemprop="Description">Oxidoreductases (1.) acting on a sulfur group of donors (1.8)</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      </ul>
+  </section>
+
+  <section itemprop="abstract" itemscope>
+    <h2>Abstract</h2>
+    
+    <div itemprop="content" html><abstract mxw-id="PA101247352" lang="EN" load-source="patent-office">
+    <div num="p-0001" class="abstract">The present invention provides a bacterium belonging to the family Enterobacteriaceae, which is able to produce L-cysteine and has been modified to increase the activity of the protein encoded by the dsbA gene. This bacterium is cultured in a medium, and L-cysteine, L-cystine, a derivative or precursor thereof or a mixture thereof can be collected from the medium.</div>
+  </abstract>
+  </div>
+  </section>
+
+  <section itemprop="description" itemscope>
+    <h2>Description</h2>
+    
+    <div itemprop="content" html><div mxw-id="PDES52098252" lang="EN" load-source="patent-office" class="description">
+    
+    <p num="p-0002">This application claims priority under 35 U.S.C. §119 to Japanese Patent Application No. 2009-042561, filed on Feb. 25, 2009, and U.S. Provisional Patent Application No. 61/155,513, filed on Feb. 25, 2009, both of which are incorporated in their entireties by reference. The Sequence Listing in electronic format filed herewith is also hereby incorporated by reference in its entirety (File Name: US-388_Seq_List; File Size: 30 KB; Date Created: Feb. 23, 2010).</p>
+    
+    
+    <heading>BACKGROUND OF THE INVENTION</heading>
+    <p num="p-0003">1. Field of the Invention</p>
+    <p num="p-0004">The present invention relates to a method for producing L-cysteine or related substances. Specifically, the present invention relates to a bacterium suitable for the production of L-cysteine or related substances and a method for producing L-cysteine or related substances utilizing such a bacterium. L-cysteine and L-cysteine related substances are useful in the fields of drugs, cosmetics, and foods.</p>
+    <p num="p-0005">2. Brief Description of the Related Art</p>
+    <p num="p-0006">L-cysteine is conventionally obtained by extraction from keratin-containing substances such as hair, horns, and feathers, or by the conversion of DL-2-aminothiazoline-4-carboxylic acid using a microbial enzyme. L-cysteine has also been produced on a large scale by using an immobilized enzyme method and a novel enzyme. Furthermore, it has also been attempted to produce L-cysteine by fermentation utilizing a microorganism.</p>
+    <p num="p-0007">Microorganisms which are able to produce L-cysteine are known. For example, a coryneform bacterium with increased intracellular serine acetyltransferase activity produces cysteine (Japanese Patent Laid-open (Kokai) No. 2002-233384). The ability to produce L-cysteine can also be increased by incorporating serine acetyltransferase which has been mutated to attenuate feedback inhibition by L-cysteine (Japanese Patent Laid-open No. 11-155571, U.S. Patent Published Application No. 20050112731, U.S. Pat. No. 6,218,168).</p>
+    <p num="p-0008">Furthermore, the ability to produce L-cysteine in a microorganism can be enhanced by suppressing the L-cysteine decomposition system. Examples of such microorganisms include coryneform bacteria or <i>Escherichia </i>bacteria in which the activity of cystathionine-β-lyase (Japanese Patent Laid-open No. 11-155571), tryptophanase (Japanese Patent Laid-open No. 2003-169668), or O-acetylserine sulfhydrylase B (Japanese Patent Laid-open No. 2005-245311) is attenuated or deleted.</p>
+    <p num="p-0009">Furthermore, it is known that the ydeD gene which encodes the YdeD protein participates in secretion of the metabolic products of the cysteine pathway (Dabler et al., Mol. Microbiol., 36, 1101-1112 (2000)). Furthermore, techniques for enhancing the ability to produce L-cysteine by increasing expression of the mar-locus, emr-locus, acr-locus, cmr-locus, mex-gene, bmr-gene or qacA-gene are also known. These loci and/or genes encode proteins which cause secretion of toxic substances from cells (U.S. Pat. No. 5,972,663). emrAB, emrKY, yojIH, acrEF, bcr, and cusA are further examples (Japanese Patent Laid-open No. 2005-287333).</p>
+    <p num="p-0010">An <i>Escherichia coli </i>has been reported which produces L-cysteine, and which has increased activity of the positive transcriptional control factor of the cysteine regulon encoded by the cysB gene (International Patent Publication WO01/27307).</p>
+    <p num="p-0011">It is known that dsbA (Shevchik V. E., et al., EMBO J., 1994 Apr. 15; 13(8):2007-12) participates in the formation of disulfide bonds (S—S) of proteins as described below, but the relation thereof with L-cysteine production is not known.</p>
+    <p num="p-0012">In general, many proteins with a disulfide bond (S—S) are among proteins that are secreted into cell membrane surface layers or out of cells. The interior of cells enclosed by the cell membranes is under relatively mild conditions both physically and chemically. However, since the exterior of cells is a more severe environment, the structures of proteins need to be more rigid. The presence of S—S bonds in proteins is one of the strategies.</p>
+    <p num="p-0013">Anfinsen et al. demonstrated that oxidative folding of proteins accompanied by the formation of S—S bonds spontaneously advanced under moderate oxidative conditions (Givol D. et al., J. Biol. Chem., 1964, Sep.; 239:PC3114-16). However, it has been elucidated that, in a cell, there is a delicate system for the formation of S—S bond, so that it can advance more quickly and correctly as compared with the aforementioned formation of S—S bonds (Bardwell J. C., et al., Cell, 1991 Nov. 1; 67(3):581-9.). For example, in the periplasm of <i>Escherichia coli</i>, a series of proteins called Dsb factors (disulfide bond, DsbA, DsbB, DsbC (Shevchik V. E., et al., EMBO J., 1994 Apr. 15; 13(8):2007-12), DsbD (Missiakas D., et al., EMBO J., 1995 Jul. 17; 14(14):3415-24), and DsbG (Andersen C. L., et al., Mol. Microbiol., 1997, Oct.; 26(1):121-32)) form disulfide bonds and introduce them into many proteins. In the periplasm, DsbA (disulfide oxidoreductase) oxidizes a substrate protein (AmpC, DsbB, LivK, OstA, RcsF (Kadokura H., et al., Science, 2004, Jan. 23; 303(5657):534-7)), and the cysteine pair of DsbA converted into the reduced type is re-oxidized with the intracellular membrane protein DsbB. It has been elucidated that electrons received by DsbB are transferred to ubiquinone (UQ), which is a respiratory chain component, and oxygen eventually serves as an electron acceptor with the aid of cytochrome oxidase (Inaba K., et al., J. Biol. Chem., 279, 6761-6768 (2004)).</p>
+    <p num="p-0014">Although DsbA has superior characteristics as an S—S bond-introducing enzyme, the ability thereof to select a cysteine pair into which the bond is introduced is not sufficient. It has also been found that the enzyme DsbC (disulfide isomerase) which recombines incorrect S—S bonds is present in the periplasm of <i>Escherichia coli</i>. In order for DsbC to function as an isomerase, the active site thereof must be maintained as a reduced type, contrary to DsbA, which is an oxidase. It is considered that the source of the reducing power originates in the thioredoxin system existing in the cytoplasm, and the reducing power from thioredoxin is transferred to DsbC via an intracellular membrane protein DsbD (Rietsch A., et al., J. Bacteriol., 1997 November; 179(21):6602-8). Moreover, it is also considered that a protein called DsbG which shows narrower substrate specificity is also present in <i>Escherichia coli</i>, and it has activities of both disulfide oxidoreductase and disulfide isomerase (Andersen C. L., et al., Mol. Microbiol., 1997, Oct.; 26(1):121-32).</p>
+    <p num="p-0015">As for the use of the aforementioned Dsb family, there are such findings as mentioned below, with expecting the effect of correctly forming S—S bonds of proteins. Many proteins derived from eukaryotic organisms have a disulfide bond, and they cannot be expected to have their original structures when they are expressed in the cytoplasm of <i>Escherichia coli</i>, which is under severe reducing conditions. Therefore, it is considered that, for production of such proteins derived from eukaryotic organisms, expression in the form of secretion into the periplasm is effective, which is under an oxidative environment preferred for formation of disulfide bond. However, although many attempts of expressing heterogenous proteins by secretion into <i>Escherichia coli </i>periplasm have been reported, any heterogenous protein cannot necessarily be expressed as active proteins. This poses a problem especially for proteins having many disulfide bonds. Meanwhile, in <i>Escherichia coli</i>, the roles of DsbA, DsbB, DsbC, and DsbD, which are the Dsb family proteins involved in the formation of disulfide bond, were deduced on the basis of biochemical tests and complementation tests using strains deficient in each of the genes (Bardwell, J. C., Mol. Microbiol., 14, 199-205 (1994), Sone, M., et al., J. Biol. Chem., 272, 10349-10352 (1997), Rietsch, A., et al., Proc. Natl. Acad. Sci. USA, 93, 13048-13053 (1996)). Therefore, there have been made several attempts of overexpressing DsbA or DsbC together with an objective protein with the goal of improving the secretion expression of the objective protein into the periplasm (Japanese Patent Laid-open No. 2000-83670). Furthermore, it is also already known that DsbA works as a re-activating agent for proteins that do not have physiological activity (Akiyama Y., et al., J. Biol. Chem., 1992 Nov. 5; 267(31):22440-5, Japanese Patent Laid-open No. 5-336986). However, only the oxidation of proteins has been described in the reports to date, and there is no example of reporting involvement of the Dsb factors in oxidation of low molecules such as amino acids. Therefore, it has been completely unknown whether the Dsb factors oxidize low molecular weight molecules such as cysteine to form cystine.</p>
+    <heading>SUMMARY OF THE INVENTION</heading>
+    <p num="p-0016">The present invention provides a novel technique for improving bacterial production of L-cysteine, and thereby provides an L-cysteine-producing bacterium, as well as a method for producing L-cysteine, L-cystine, their derivatives or precursors, or a mixture of these by using such a bacterium.</p>
+    <p num="p-0017">L-cysteine-producing ability of a bacterium is enhanced by modifying the bacterium so that the activity of the protein encoded by the dsbA gene is increased.</p>
+    <p num="p-0018">It is an aspect of the present invention to provide a bacterium belonging to the family Enterobacteriaceae, which is able to produce L-cysteine and has been modified to increase the activity of the protein encoded by the dsbA gene as compared to a non-modified bacterium.</p>
+    <p num="p-0019">It is a further aspect of the present invention to provide the bacterium as described above, wherein the activity of the protein is increased by a method selected from the group consisting of 1) increasing expression of the dsbA gene, 2) increasing translation of the dsbA gene, and 3) combination thereof.</p>
+    <p num="p-0020">It is a further aspect of the present invention to provide the bacterium as described above, wherein expression of the dsbA gene is increased by increasing the copy number of the dsbA gene or by modifying an expression control sequence of the gene.</p>
+    <p num="p-0021">It is a further aspect of the present invention to provide the bacterium as described above, wherein the protein is selected from the group consisting of:</p>
+    <p num="p-0022">(A) a protein comprising the amino acid sequence of SEQ ID NO: 2, 4, 6, 8, 10 or 12,</p>
+    <p num="p-0023">(B) a protein comprising the amino acid sequence of SEQ ID NO: 2, 4, 6, 8, 10 or 12, but which includes substitutions, deletions, insertions or additions of one or several amino acid residues, and wherein the increase of the protein's activity in the bacterium improves the ability of the bacterium to produce L-cysteine.</p>
+    <p num="p-0024">It is a further aspect of the present invention to provide the bacterium as described above, wherein the dsbA gene is selected from the group consisting of:</p>
+    <p num="p-0025">(a) a DNA comprising the nucleotide sequence of SEQ ID NO: 1, 3, 5, 7, 9 or 11,</p>
+    <p num="p-0026">(b) a DNA which hybridizes with a sequence complementary to the nucleotide sequence of SEQ ID NO: 1, 3, 5, 7, 9 or 11, or a probe which is prepared from the nucleotide sequence, under stringent conditions, and codes for a protein wherein the increase of the protein's activity in the bacterium improves the ability of the protein to produce L-cysteine.</p>
+    <p num="p-0027">It is a further aspect of the present invention to provide the bacterium as described above, which contains a serine acetyltransferase which has been mutated to attenuate feedback inhibition by L-cysteine.</p>
+    <p num="p-0028">It is a further aspect of the present invention to provide the bacterium as described above, wherein the bacterium has been modified so that the activity of the protein encoded by the ydeD gene is increased.</p>
+    <p num="p-0029">It is a further aspect of the present invention to provide the bacterium as described above, wherein 3-phosphoglycerate dehydrogenase has been desensitized to feedback inhibition by serine.</p>
+    <p num="p-0030">It is a further aspect of the present invention to provide the bacterium as described above, wherein bacterium has been modified so that the activity of the protein encoded by the ydeD gene is increased.</p>
+    <p num="p-0031">It is a further aspect of the present invention to provide the bacterium as described above, which is an <i>Escherichia </i>bacterium.</p>
+    <p num="p-0032">It is a further aspect of the present invention to provide the bacterium as described above, which is <i>Escherichia coli. </i> </p>
+    <p num="p-0033">It is a further aspect of the present invention to provide a method for producing a compound selected from the group consisting of L-cysteine, L-cystine, and derivatives or precursors thereof, which comprises culturing the bacterium as described above in a medium and collecting the compound from the medium.</p>
+    <p num="p-0034">It is a further aspect of the present invention to provide the method as described above, wherein the derivative of L-cysteine is a thiazolidine derivative.</p>
+    <p num="p-0035">It is a further aspect of the present invention to provide the method as described above, wherein the precursor of L-cysteine is O-acetylserine or N-acetylserine.</p>
+    <p num="p-0036">According to the present invention, L-cysteine-producing ability of bacteria can be improved. Furthermore, according to the present invention, L-cysteine, L-cystine, their derivatives or precursors, or combinations thereof can be efficiently produced.</p>
+    <p num="p-0037">Still other aspects, features, and attendant advantages of the present invention will become apparent to those skilled in the art from a reading of the following detailed description of embodiments constructed in accordance therewith, taken in conjunction with the accompanying drawings.</p>
+    
+    
+    <description-of-drawings>
+      <heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+      <p num="p-0038"> <figref idrefs="DRAWINGS">FIG. 1</figref> shows cysteine sensitivity of a dsbA-deficient strain and complementation (recovery of growth) with a dsbA plasmid (photograph).</p>
+      <p num="p-0039"> <figref idrefs="DRAWINGS">FIG. 2</figref> shows oxidized and reduced states of the DsbA protein provided by cysteine (electrophoresis photograph).</p>
+      <p num="p-0040"> <figref idrefs="DRAWINGS">FIG. 3</figref> shows oxidized and reduced states of the OstA protein provided by cysteine (electrophoresis photograph).</p>
+      <p num="p-0041"> <figref idrefs="DRAWINGS">FIG. 4</figref> shows cysteine production by a DsbA-enhanced cysteine-producing bacterium.</p>
+    </description-of-drawings>
+    
+    
+    <heading>DETAILED DESCRIPTION OF EXEMPLARY EMBODIMENTS</heading>
+    <p num="p-0042">&lt;1&gt; Bacterium</p>
+    <p num="p-0043">The bacterium belongs to the family Enterobacteriaceae, and is able to produce L-cysteine. Furthermore, the bacterium has been modified to increase the activity of the protein encoded by the dsbA gene. The “ability to produce L-cysteine” or the “L-cysteine-producing ability” means an ability of the bacterium to produce L-cysteine and cause accumulation of L-cysteine in a medium or the bacterial cells in such an amount that the L-cysteine can be collected from the medium or cells when the bacterium is cultured in the medium. A bacterium having L-cysteine-producing ability means a bacterium which can produce and cause accumulation of a larger amount of L-cysteine as compared with a wild-type, parent, or unmodified strain, for example, a bacterium which can produce and cause accumulation of L-cysteine in a medium in an amount of 0.05 g/L or more, 0.1 g/L or more, or even 0.2 g/L or more.</p>
+    <p num="p-0044">The L-cysteine produced by the bacterium can change into L-cystine in the medium by the formation of a disulfide bond. Especially, as described later, it is considered that if L-cysteine is produced in a large amount by enhancing the DsbA activity, formation of L-cystine from L-cysteine by the DsbA-DsbB-UQ oxidation system is promoted. Furthermore, S-sulfocysteine can be generated by the reaction of L-cysteine and thiosulfuric acid in the medium (Szczepkowski T. W., Nature, vol. 182 (1958)). Furthermore, the L-cysteine generated in bacterial cells can be condensed with a ketone, aldehyde, or, for example, pyruvic acid, which is present in the cells, to produce a thiazolidine derivative via a hemithioketal intermediate (refer to Japanese Patent No. 2992010). This thiazolidine derivative and hemithioketal can be present as an equilibrated mixture. Therefore, the L-cysteine-producing ability is not limited to the ability to accumulate only L-cysteine in the medium or cells, but also includes the ability to accumulate L-cystine or its derivatives or precursors, or a mixture thereof in the medium. Examples of the aforementioned derivative of L-cysteine or L-cystine include, for example, S-sulfocysteine, thiazolidine derivatives, hemithioketal, and so forth. Examples of the precursor of L-cysteine or L-cystine include, for example, O-acetylserine, which is a precursor of L-cysteine. The precursors of L-cysteine or L-cystine also include derivatives of the precursors, and examples include, for example, N-acetylserine, which is a derivative of O-acetylserine, and so forth.</p>
+    <p num="p-0045">O-Acetylserine (OAS) is a precursor of L-cysteine biosynthesis. OAS is a metabolite of bacteria and plants, and is produced by acetylation of L-serine by an enzymatic reaction catalyzed by serine acetyltransferase (SAT). OAS is further converted into L-cysteine in cells.</p>
+    <p num="p-0046">The bacterium having L-cysteine-producing ability can inherently have the ability to produce L-cysteine, or it can be imparted by modifying a microorganism such as those described below by mutagenesis or a recombinant DNA technique. Unless specially mentioned, the term L-cysteine refers to the reduced-type L-cysteine, L-cystine, a derivative or precursor such as those mentioned above, or a mixture thereof.</p>
+    <p num="p-0047">The bacterium is not particularly limited so long as the bacterium belongs to the family Enterobacteriaceae and has L-cysteine-producing ability. Such bacteria include those of the genera <i>Escherichia, Enterobacter, Pantoea, Klebsiella, Serratia, Erwinia, Salmonella </i>and <i>Morganella</i>. Specifically, those classified into the family Enterobacteriaceae according to the taxonomy used in the NCBI (National Center for Biotechnology Information) database (http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=91347) can be used. As the parent strain of the family Enterobacteriaceae which can be used to perform modification, it is desirable to use, especially, a bacterium of the genus <i>Escherichia, Enterobacter, Pantoea, Erwinia</i>, or <i>Klebsiella. </i> </p>
+    <p num="p-0048">Although the <i>Escherichia </i>bacteria are not particularly limited, specifically, those described in the work of Neidhardt et al. (Backmann B. J., 1996, Derivations and Genotypes of some mutant derivatives of <i>Escherichia coli </i>K-12, p. 2460-2488, Table 1, In F. D. Neidhardt (ed.), <i>Escherichia coli </i>and <i>Salmonella </i>Cellular and Molecular Biology/Second Edition, American Society for Microbiology Press, Washington, D.C.) can be used. An example of <i>Escherichia </i>bacterium includes <i>Escherichia coli</i>. Examples of <i>Escherichia coli </i>include <i>Escherichia coli </i>W3110 (ATCC 27325), <i>Escherichia coli </i>MG1655 (ATCC 47076), and so forth, and include those derived from the prototype wild-type strain, K12 strain.</p>
+    <p num="p-0049">These strains are available from, for example, the American Type Culture Collection (Address: 12301 Parklawn Drive, Rockville, Md. 20852, P.O. Box 1549, Manassas, Va. 20108, United States of America). That is, registration numbers are given to each of the strains, and the strains can be ordered by using these registration numbers (refer to http://www.atcc.org/). The registration numbers of the strains are listed in the catalogue of the American Type Culture Collection.</p>
+    <p num="p-0050">Examples of the <i>Enterobacter </i>bacteria include <i>Enterobacter agglomerans, Enterobacter aerogenes </i>and so forth, and examples of the <i>Pantoea </i>bacteria include <i>Pantoea ananatis</i>. Some strains of <i>Enterobacter agglomerans </i>were recently reclassified into <i>Pantoea agglomerans, Pantoea ananatis</i>, or <i>Pantoea stewartii </i>on the basis of nucleotide sequence analysis of 16S rRNA etc. A bacterium belonging to either <i>Enterobacter </i>or <i>Pantoea </i>can be used so long as it is classified as the family Enterobacteriaceae.</p>
+    <p num="p-0051">In particular, <i>Pantoea </i>bacteria, <i>Erwinia </i>bacteria, and <i>Enterobacter </i>bacteria are classified as γ-proteobacteria, and they are taxonomically very close to one another (J. Gen. Appl. Microbiol., 1997, 43, 355-361; International Journal of Systematic Bacteriology, October 1997, pp. 1061-1067). In recent years, some bacteria belonging to the genus <i>Enterobacter </i>were reclassified as <i>Pantoea agglomerans, Pantoea dispersa</i>, or the like, on the basis of DNA-DNA hybridization experiments etc. (International Journal of Systematic Bacteriology, July 1989, 39(3), pp. 337-345). Furthermore, some bacteria belonging to the genus <i>Erwinia </i>were reclassified as <i>Pantoea ananas </i>or <i>Pantoea stewartii </i>(refer to International Journal of Systematic Bacteriology, January 1993; 43(1), pp. 162-1′73).</p>
+    <p num="p-0052">Examples of the <i>Enterobacter </i>bacteria include, but are not limited to, <i>Enterobacter agglomerans, Enterobacter aerogenes</i>, and so forth. Specifically, the strains exemplified in European Patent Publication No. 952221 can be used. A typical strain of the genus <i>Enterobacter </i>is the <i>Enterobacter agglomeranses </i>ATCC 12287 strain.</p>
+    <p num="p-0053">Typical strains of the <i>Pantoea </i>bacteria include, but are not limited to, <i>Pantoea ananatis, Pantoea stewartii, Pantoea agglomerans</i>, and <i>Pantoea citrea</i>. Specific examples of <i>Pantoea ananatis </i>include the <i>Pantoea ananatis </i>AJ13355 strain and SC17 strain. The SC17 strain was selected as a low phlegm-producing mutant strain from the AJ13355 strain (FERM BP-6614), which was isolated from soil in Iwata-shi, Shizuoka-ken, Japan for its ability to proliferate in a low pH medium containing L-glutamic acid and a carbon source (U.S. Pat. No. 6,596,517). The <i>Pantoea ananatis </i>AJ13355 strain was deposited at the National Institute of Bioscience and Human-Technology, Agency of Industrial Science and Technology, Ministry of International Trade and Industry (currently, the National Institute of Advanced Industrial Science and Technology, International Patent Organism Depositary, Address: Tsukuba Central 6, 1-1, Higashi 1-Chome, Tsukuba-shi, Ibaraki-ken, 305-8566, Japan) on Feb. 19, 1998 and assigned an accession number of FERM P-16644. It was then converted to an international deposit under the provisions of Budapest Treaty on Jan. 11, 1999 and assigned an accession number of FERM BP-6614. This strain was identified as <i>Enterobacter agglomerans </i>when it was isolated and deposited as the <i>Enterobacter agglomerans </i>AJ13355 strain. However, it was recently reclassified as <i>Pantoea ananatis </i>on the basis of nucleotide sequencing of 16S rRNA and so forth.</p>
+    <p num="p-0054">Examples of the <i>Erwinia </i>bacteria include, but are not limited to, <i>Erwinia amylovora </i>and <i>Erwinia carotovora</i>, and examples of the <i>Klebsiella </i>bacteria include <i>Klebsiella planticola. </i> </p>
+    <p num="p-0055">Hereinafter, methods for imparting L-cysteine-producing ability to bacteria belonging to Enterobacteriaceae, or methods for enhancing L-cysteine-producing ability of such bacteria, are described.</p>
+    <p num="p-0056">To impart the ability to produce L-cysteine, methods conventionally employed in the breeding of coryneform bacteria or bacteria of the genus <i>Escherichia </i>(see “Amino Acid Fermentation”, Gakkai Shuppan Center (Ltd.), 1st Edition, published May 30, 1986, pp. 77-100) can be used. Such methods include by acquiring the properties of an auxotrophic mutant, an analogue-resistant strain, or a metabolic regulation mutant, or by constructing a recombinant strain so that it overexpresses an L-cysteine biosynthesis enzyme. Here, in the breeding of a bacteria able to produce L-cysteine, one or more of the above described properties such as auxotrophy, analogue resistance, and metabolic regulation mutation can be imparted. The expression of L-cysteine biosynthesis enzyme(s) can be enhanced alone or in combinations of two or more. Furthermore, imparting properties such as an auxotrophy, analogue resistance, or metabolic regulation mutation can be combined with enhancement of the biosynthesis enzymes.</p>
+    <p num="p-0057">An auxotrophic mutant strain, L-cysteine analogue-resistant strain, or metabolic regulation mutant strain with the ability to produce L-cysteine can be obtained by subjecting a parent, wild-type, or unmodified strain to conventional mutatagenesis, such as exposure to X-rays or UV irradiation, or by treating with a mutagen such as N-methyl-N′-nitro-N-nitrosoguanidine, ethyl methanesulfonate (EMS) etc., and then selecting those which exhibit autotrophy, analogue resistance, or a metabolic regulation mutation and which also have the ability to produce L-cysteine from the obtained transformants.</p>
+    <p num="p-0058">Specific examples of L-cysteine-producing bacteria include, but are not limited to, <i>E. coli </i>JM15 transformed with multiple kinds of cysE gene alleles encoding serine acetyltransferase (SAT) resistant to feedback inhibition (U.S. Pat. No. 6,218,168), <i>E. coli </i>W3110 in which a gene encoding a protein responsible for excretion of cytotoxic substances is overexpressed (U.S. Pat. No. 5,972,663), an <i>E. coli </i>strain having decreased cysteine desulfhydrase activity (Japanese Patent Laid-open No. 11-155571), and <i>E. coli </i>W3110 with decreased activity of the positive transcriptional control factor of the cysteine regulon encoded by the cysB gene (WO01/27307).</p>
+    <p num="p-0059">The following proteins are known to have the cysteine desulfhydrase activity of <i>E. coli</i>: cystathionine-β-lyase (metC product, Japanese Patent Laid-open No. 11-155571, Chandra et al., Biochemistry, 21 (1982) 3064-3069), tryptophanase (tnaA product, Japanese Patent Laid-open No. 2003-169668, Austin Newton et al., J. Biol. Chem., 240 (1965) 1211-1218)), O-acetylserine sulfhydrylase B (cysM gene product, Japanese Patent Laid-open No. 2005-245311) and the malY gene product (Japanese Patent Laid-open No. 2005-245311). By decreasing the activities of these proteins, L-cysteine-producing ability is improved. The phrase “decreasing activity of a protein” can mean that activity of the protein is decreased as compared with a non-modified strain such as a wild-type or parent strain, and also can mean the complete disappearance of the activity.</p>
+    <p num="p-0060">Decreasing the activity of a protein having the cysteine desulfhydrase activity can be attained by, for example, reducing expression of a gene coding for the protein. Specifically, for example, intracellular activity of the protein can be reduced by deleting a part of or the entire coding region of the target gene on the chromosome. Expression of a target gene can also be decreased by modifying an expression control sequence of the gene such as promoter and Shine-Dalgarno (SD) sequence. Furthermore, the expression of the gene can also be reduced by modifying a non-translated region other than the expression control sequence. Furthermore, the entire gene as well as the sequences on both sides of the gene on the chromosome can be deleted. Furthermore, a mutations which cause an amino acid substitution (missense mutation), a stop codon (nonsense mutation), or a frame shift mutation which adds or deletes one or two nucleotides into the coding region of the target gene on the chromosome can be introduced (Journal of Biological Chemistry, 272:8611-8617 (1997); Proceedings of the National Academy of Sciences, USA, 95 5511-5515 (1998); Journal of Biological Chemistry, 266, 20833-20839 (1991)).</p>
+    <p num="p-0061">Furthermore, modification can be caused by a conventional mutagenesis based on X-ray or ultraviolet irradiation or the use of a mutagen such as N-methyl-N′-nitro-N-nitrosoguanidine, as long as the activity of the target protein is decreased.</p>
+    <p num="p-0062">An expression control sequence can be modified by mutating one or more nucleotides, two or more nucleotides, or three or more nucleotides. Deletions can occur in the N-terminus region, an internal region, or the C-terminus region, or even the entire coding region, so long as the function of the target protein is decreased or deleted. The longer the region which is deleted, the greater the likelihood of inactivating the gene. Furthermore, the deleted reading frames upstream and downstream of the region can be the same or different.</p>
+    <p num="p-0063">To inactivate a gene by inserting a sequence into the coding region of the gene, the sequence can be inserted into any part of the coding region of the gene. The longer the inserted sequence, the greater the likelihood of inactivating the gene. The reading frames upstream and downstream of the insertion site can be the same or different. The sequence to be inserted is not particularly limited so long as the insertion decreases or deletes the function of the encoded protein, and examples include a transposon carrying an antibiotic resistance gene, a gene useful for L-cysteine production and so forth.</p>
+    <p num="p-0064">A target gene on the chromosome can be modified as described above by, for example, preparing a deletion-type version of the gene in which a partial sequence of the gene is deleted so that the deletion-type gene does not produce a normally-functioning proteins. Then, a bacterium can be transformed with a DNA containing the deletion-type gene to cause homologous recombination between the deletion-type gene and the native gene on the chromosome, which results in the substitution of the deletion-type gene for the gene on the genome. The protein encoded by the deletion-type gene has a conformation different from that of the wild-type enzyme protein, if it is even produced, and thus the function is reduced or deleted. Such gene disruption based on gene substitution utilizing homologous recombination is known, and examples include Red-driven integration (Datsenko, K. A., and Wanner, B. L., Proc. Natl. Acad. Sci. USA, 97:6640-6645 (2000)), using a linear DNA utilizing in Red driven integration in combination with an excision system derived from λ phage (Cho, E. H., Gumport, R. I., Gardner, J. F., J. Bacteriol., 184:5200-5203 (2002)) (refer to WO2005/010175), using a plasmid containing a temperature sensitive replication origin or a plasmid capable of conjugative transfer, utilizing a suicide vector without a replication origin in a host (U.S. Pat. No. 6,303,383, Japanese Patent Laid-open No. 05-007491), and so forth.</p>
+    <p num="p-0065">Decrease of the expression of a target gene can be confirmed by comparing the amount of mRNA transcribed from the gene with that in a wild-type strain or non-modified strain. The expression amount can be confirmed by Northern hybridization, RT-PCR (Molecular Cloning (Cold Spring Harbor Laboratory Press, Cold Spring Harbor (USA), 2001)), and the like.</p>
+    <p num="p-0066">A decrease of the amount of a target protein can be confirmed by Western blotting using antibodies (Molecular Cloning (Cold Spring Harbor Laboratory Press, Cold Spring Harbor (USA), 2001)).</p>
+    <p num="p-0067">The L-cysteine-producing bacterium can have a SAT which has been mutated to be resistant to feedback inhibition. The following mutations in SAT are known to induce resistance to feedback inhibition and are derived from <i>Escherichia coli</i>: when the methionine residue at position 256 is replaced with a glutamate residue (Japanese Patent Laid-open No. 11-155571), when the methionine residue at position 256 is replaced with an isoleucine residue (Denk, D. and Boeck, A., J. General Microbiol., 133, 515-525 (1987)), a mutation in the region from the amino acid residue at position 97 to the amino acid residue at position 273 or a deletion of the C-terminus region from the amino acid residue at position 227 (International Patent Publication WO97/15673, U.S. Pat. No. 6,218,168), when the amino acid sequence corresponding to positions 89 to 96 of the wild-type SAT contains one or more mutations (U.S. Patent Published Application No. 20050112731(A1)), and so forth. In the cysE5 gene which encodes the mutant SAT described in the examples, the Val residue and the Asp residue at positions 95 and 96 of the wild-type SAT are replaced with an Arg residue and Pro residue, respectively.</p>
+    <p num="p-0068">The SAT gene is not limited to the gene of <i>Escherichia coli</i>, but can be any gene encoring a protein having the SAT activity. An SAT isozyme of <i>Arabidopsis thaliana </i>desensitized to feedback inhibition by L-cysteine is known, and the gene encoding this SAT can also be used (FEMS Microbiol. Lett., 179 (1999) 453-459). If a gene encoding a mutant SAT is introduced into a bacterium, L-cysteine-producing ability is imparted to the bacterium. To introduce a mutant SAT gene into a bacterium, various vectors which are typically used for protein expression can be used. Examples of such vectors include pUC19, pUC18, pHSG299, pHSG399, pHSG398, RSF1010, pBR322, pACYC184, pMW219 and so forth.</p>
+    <p num="p-0069">In order to introduce a recombinant vector containing a SAT gene into a bacterium, methods which are typically used to transform bacteria can be used, such as the method of D. A. Morrison (Methods in Enzymology, 68, 326 (1979)), treating recipient cells with calcium chloride to increase permeability of the cells for DNA (Mandel, M. and Higa, A., J. Mol. Biol., 53, 159 (1970)), and a method based on electroporation.</p>
+    <p num="p-0070">Furthermore, the SAT activity can also be enhanced by increasing the copy number of the SAT gene. The copy number of the SAT gene can be increased by introducing the SAT gene into a bacterium by using a vector such as those described above, or by introducing multiple copies of the SAT gene onto the chromosomal DNA of a bacterium. Multiple copies of the SAT gene are introduced by homologous recombination which targets a sequence present on the chromosomal DNA in multiple copies. A repetitive DNA or inverted repeat present at the end of a transposable element can be used as a sequence which is present on the chromosomal DNA in multiple copies. Alternatively, as disclosed in Japanese Patent Laid-open No. 2-109985, multiple copies of the SAT gene can be introduced into the chromosomal DNA by incorporating them into a transposon and transferring it.</p>
+    <p num="p-0071">Furthermore, it is known that the ydeD gene coding for the YdeD protein participates in secretion of metabolic products of the cysteine pathway, and L-cysteine-producing ability can also be improved by enhancing the activity of the YdeD protein (Japanese Patent Laid-open No. 2002-233384). The activity of the YdeD protein can be increased by, for example, improving expression of the ydeD gene. Expression of the ydeD gene can be improved in the same manner as that of the modification for improving expression of the dsbA gene described later. The ydeD gene of <i>Escherichia coli </i>can be obtained from <i>Escherichia coli </i>chromosomal DNA by PCR using, for example, the primers having the nucleotide sequences of SEQ ID NOS: 13 and 14.</p>
+    <p num="p-0072">Furthermore, by incorporating 3-phosphoglycerate dehydrogenase (PGD) desensitized to the feedback inhibition by serine, L-cysteine-producing ability can also be improved. As a gene coding for such a mutant PGD, the serA5 gene is known (described in U.S. Pat. No. 6,180,373).</p>
+    <p num="p-0073">Furthermore, an L-cysteine-producing <i>Escherichia </i>bacterium which has been modified to enhance expression of the cysPTWAM cluster genes coding for the sulfate/thio sulfate transport system proteins (Japanese Patent Laid-open No. 2005-137369, EP 1528108) can also be used.</p>
+    <p num="p-0074">Furthermore, an <i>Escherichia </i>bacterium which has L-cysteine producing-ability and has been modified to increase expression of the emrAB, emrKY, yojIH, acrEF, bcr or cusA gene (Japanese Patent Laid-open No. 2005-287333) can also be used.</p>
+    <p num="p-0075">Particular examples of the bacteria having L-cysteine-producing ability include, a bacterium containing a mutant SAT resistant to feedback inhibition, a bacterium having enhanced activity of the YdeD protein, and a bacterium containing a PGD protein desensitized to feedback inhibition by serine, a bacterium containing a mutant SAT resistant to feedback inhibition and having enhanced activity of the YdeD protein, a bacterium containing a mutant SAT resistant to feedback inhibition and a PGD protein desensitized to the feedback inhibition by serine, a bacterium having enhanced activity of the YdeD protein and containing a PGD protein desensitized to feedback inhibition by serine, and a bacterium containing a mutant SAT resistant to feedback inhibition and a PGD protein desensitized to feedback inhibition by serine, and having enhanced activity of the YdeD protein.</p>
+    <p num="p-0076">The bacterium can be obtained by modifying a bacterium belonging to the family Enterobacteriaceae which has L-cysteine-producing ability such as those described above so that the activity of the protein encoded by dsbA (henceforth also referred to as “DsbA”) is increased. Alternatively, after such modification that the activity of the DsbA protein is increased is performed, L-cysteine-producing ability can be imparted. The dsbA gene is the same as ECK3852, b3860, dsf, iarA and ppfA genes.</p>
+    <p num="p-0077">The phrase “the activity of the protein encoded by the dsbA gene is increased” means that the activity of the DsbA protein encoded by the dsbA gene is increased as compared with a non-modified strain such as a wild-type or parent strain. The activity of the DsbA protein is essentially an activity of oxidizing a substrate protein (AmpC, DsbB, LivK, OstA, RcsF) in the periplasm, and by increasing the activity of this DsbA protein, L-cysteine-producing ability can be improved. Therefore, according to another definition, the activity of the DsbA protein means an activity of improving L-cysteine-producing ability, when the activity is increased in bacteria. Furthermore, it was revealed that when the dsbA gene was deleted, the bacterium became L-cysteine sensitive, and when the dsbA gene-deficient strain was transformed with the dsbA gene, it was recovered from the cysteine sensitivity as described in the examples. Therefore, according to another definition, the activity of the DsbA protein means a property of being involved in such cysteine resistance or sensitivity.</p>
+    <p num="p-0078">Such modification that the activity of the DsbA protein encoded by the dsbA gene is increased is attained by, for example, increasing expression of the dsbA gene.</p>
+    <p num="p-0079">Modification for enhancing expression of the dsbA gene can be attained by increasing the copy number of the dsbA gene by using, for example, a gene recombination technique. For example, a recombinant DNA can be prepared by ligating a gene fragment containing the dsbA gene with a vector functioning in a host bacterium such as a multi-copy type vector and introduced into the bacterium to transform it. Examples of the vector include vectors which are autonomously replicable in host bacterium cells. Examples of the vector autonomously replicable in <i>Escherichia coli </i>cells include pUC19, pUC18, pHSG299, pHSG399, pHSG398, pACYC184 (pHSG and pACYC series vectors are available from Takara Bio), RSF1010, pBR322, pMW219 (pMW219 is available from NIPPON GENE), pSTV29 (available from Takara Bio), and so forth.</p>
+    <p num="p-0080">To introduce such a recombinant DNA into a bacterium, any known transformation methods that have hitherto been reported can be employed. For instance, employable are treating recipient cells with calcium chloride so as to increase permeability thereof for DNA, which has been reported for <i>Escherichia coli </i>K-12 (Mandel, M. and Higa, A., J. Mol. Biol., 53, 159 (1970)), and preparing competent cells from cells which are at the growth phase followed by introducing the DNA thereinto, which has been reported for <i>Bacillus subtilis </i>(Duncan, C. H., Wilson, G. A. and Young, F. E., Gene, 1, 153 (1977)). In addition to these, also employable is making DNA-recipient cells into protoplasts or spheroplasts, which can easily take up recombinant DNA, followed by introducing the recombinant DNA into the cells, which is known to be applicable to <i>Bacillus subtilis</i>, actinomycetes and yeasts (Chang, S, and Choen, S. N., Mol. Gen. Genet., 168, 111 (1979); Bibb, M. J., Ward, J. M. and Hopwood, O. A., Nature, 274, 398 (1978); Hinnen, A., Hicks, J. B. and Fink, G. R., Proc. Natl. Sci. USA, 75, 1929 (1978)).</p>
+    <p num="p-0081">Increase of the copy number of the dsbA gene can also be achieved by introducing multiple copies of the dsbA gene into a genomic DNA of a bacterium. In order to introduce multiple copies of the dsbA gene into a genomic DNA of a bacterium, homologous recombination is carried out by using a sequence whose multiple copies are present in the genomic DNA as targets. As sequences whose multiple copies are present in genomic DNA, repetitive DNA, and inverted repeats existing at the end of a transposable element can be used. Another dsbA gene can be introduced aside the dsbA gene existing on a genome in tandem, or it can be introduced into an unnecessary gene on a genome in a plural number. Such gene transfer can be attained by using a temperature sensitive vector or an integration vector.</p>
+    <p num="p-0082">Alternatively, as disclosed in Japanese Patent Laid-open No. 2-109985, it is also possible to incorporate the dsbA gene into a transposon, and allow it to transfer to introduce multiple copies of the genes into a genomic DNA. Transfer of the gene to the genome can be confirmed by performing Southern hybridization using a part of the dsbA gene as a probe.</p>
+    <p num="p-0083">Furthermore, in addition to the aforementioned increase of the gene copy number, expression of the dsbA gene can be enhanced by replacing an expression control sequence such as a promoter of the dsbA gene on a genome DNA or plasmid with a stronger one, by making the −35 and −10 regions of the gene closer to the consensus sequence, by amplifying a regulator that increases expression of the dsbA gene, or by deleting or attenuating a regulator that decreases expression of the dsbA gene according to the methods described in International Patent Publication WO00/18935. For example, the lac promoter, trp promoter, trc promoter, tac promoter, araBA promoter, lambda phage PR promoter and PL promoter, tet promoter, T7 promoter, Φ10 promoter, and so forth are known as strong promoters. Furthermore, the promoter of the threonine operon of <i>E. coli </i>can also be used. A promoter or SD region of the dsbA gene can also be modified so as to become stronger by introducing a nucleotide substitution or the like. Examples of methods for evaluating strength of a promoter and strong promoters are described in the paper of Goldstein et al. (Prokaryotic promoters in biotechnology, Biotechnol. Annu. Rev., 1, 105-128 (1995)) and so forth. In addition, it is known that substitution of several nucleotides in a spacer between the ribosome binding site (RBS) and translation initiation codon, especially a sequence immediately upstream from the initiation codon, greatly affects mRNA translation efficiency, and therefore this sequence can be modified. Expression control regions such as promoter of the dsbA gene can also be identified by using a promoter probe vector or gene analysis software such as GENETYX. By such substitution or modification of promoter as described above, expression of the dsbA gene is enhanced. Substitution of an expression control sequence can also be attained by, for example, a method using a temperature sensitive plasmid or Red-driven integration (WO2005/010175).</p>
+    <p num="p-0084">The nucleotide sequence of the dsbA gene of <i>Escherichia coli </i>and the amino acid sequence encoded by this gene are shown in SEQ ID NOS: 1 and 2, respectively. Since the nucleotide sequence of the dsbA gene can be different depending on species or strain of the bacterium, the dsbA gene to be modified can be a variant of the nucleotide sequence of SEQ ID NO: 1. Homologues of DsbA are known for many bacteria, and can be found by search of databases. When proteins highly homologous to the DsbA protein of the <i>E. coli </i>K-12 strain are searched for on the basis of sequence information, the search can be performed as, for example, BLAST search (http://www.ncbi.nlm.nih.gov/blast/Blast.cgi). Furthermore, when homologues are searched for with a keyword, if the search engine of Entrez (http://www.ncbi.nlm.nih.gov/sites/gquery) is used, and a term “dsbA” or “outer membrane channel protein” is inputted as a keyword, for example, candidate sequences are retrieved from plural databases. By scrutinizing these candidates, objective homologue sequences can be found. Among the many DsbA homologues found by such a method, nucleotide sequences of genes and amino acid sequences of DsbA homologues of the following bacteria are shown in SEQ ID NOS: 3 to 12. The accession numbers in the NCBI (National Center for Biotechnology Information) database and identity (%) with respect to the amino acid sequence of SEQ ID NO: 2 are shown in the parentheses.</p>
+    <p num="p-0085"> <i>Shigella flexneri </i>301 (serotype 2a) (KEGG Entry Name: SF3931, 99.5%)</p>
+    <p num="p-0086"> <i>Klebsiella pneumoniae </i>subsp. <i>pneumoniae </i>MGH 78578 (KEGG Entry Name: KPN<sub>—</sub>04170, 81.2%)</p>
+    <p num="p-0087"> <i>Yersinia enterocolitica </i>subsp. <i>enterocolitica </i>8081 (KEGG Entry Name: YE0020, 70.7%)</p>
+    <p num="p-0088"> <i>Photorhabdus luminescens </i>subsp. <i>laumondii </i>TTO1 (KEGG Entry Name: p1u0381, 60.1%)</p>
+    <p num="p-0089"> <i>Pasteurella multocida </i>PM70 (KEGG Entry Name: PM1801, 48.1%)</p>
+    <p num="p-0090">The dsbA gene can also encode a protein having a sequence corresponding to the amino acid sequence of the aforementioned DsbA protein or DsbA homologue, such as the amino acid sequences of SEQ ID NOS: 2, 4, 6, 8, 10 and 12, but which include substitutions, deletions, insertions, additions or the like of one or several amino acid residues at one or several positions. Although the number of the “one or several” amino acid residues can differ depending on their position in the three-dimensional structure or the types of amino acid residues of the proteins, it can be 1 to 20, 1 to 10, or even 1 to 5. These substitutions, deletions, insertions, or additions of one or several amino acid residues can be conservative mutations so that the function of the protein is maintained. A conservative mutation is a mutation wherein substitution takes place mutually among Phe, Trp and Tyr, if the substitution site is an aromatic amino acid; among Leu, Ile and Val, if the substitution site is a hydrophobic amino acid; between Gln and Asn, if it is a polar amino acid; among Lys, Arg and His, if it is a basic amino acid; between Asp and Glu, if it is an acidic amino acid; and between Ser and Thr, if it is an amino acid having a hydroxyl group. Typical examples of conservative mutations are conservative substitutions. Specific examples of conservative substitutions include: substitution of Ser or Thr for Ala; substitution of Gln, His or Lys for Arg; substitution of Glu, Gln, Lys, His or Asp for Asn; substitution of Asn, Glu or Gln for Asp; substitution of Ser or Ala for Cys; substitution of Asn, Glu, Lys, His, Asp or Arg for Gln; substitution of Gly, Asn, Gln, Lys or Asp for Glu; substitution of Pro for Gly; substitution of Asn, Lys, Gln, Arg or Tyr for His; substitution of Leu, Met, Val or Phe for Ile; substitution of Ile, Met, Val or Phe for Leu; substitution of Asn, Glu, Gln, His or Arg for Lys; substitution of Ile, Leu, Val or Phe for Met; substitution of Trp, Tyr, Met, Ile or Leu for Phe; substitution of Thr or Ala for Ser; substitution of Ser or Ala for Thr; substitution of Phe or Tyr for Trp; substitution of His, Phe or Trp for Tyr; and substitution of Met, Ile or Leu for Val. The above-mentioned amino acid substitution, deletion, insertion, addition, inversion etc. can be a result of a naturally-occurring mutation or variation due to an individual difference or a difference of species of a microorganism as an origin of gene (mutant or variant).</p>
+    <p num="p-0091">Furthermore, the gene having such a conservative mutation as mentioned above can be a gene encoding a protein which has a homology of 80% or more, 90% or more, 95% or more, 97% or more, 98% or more, or even 99% or more, to the entire encoded amino acid sequence, and which has a function equivalent to that of a wild-type DsbA protein. In the present specification, the term “homology” can mean “identity”.</p>
+    <p num="p-0092">The dsbA gene can be a DNA which hybridizes with a probe prepared from known gene sequences, for example, the aforementioned nucleotide sequence of the dsbA gene or the dsbA gene homologues, such as the sequence of SEQ ID NOS: 1, 5, 7, 9 or 11, or sequences complementary to the sequences under stringent conditions and which encodes a protein which is a functionally equivalent to the DsbA protein. The term “stringent conditions” refers to conditions where a so-called specific hybrid is formed and a non-specific hybrid is not formed. Examples thereof include conditions where DNAs having high homology, for example, at least 80%, 90%, 95%, 97%, 98%, or even 99% homology, hybridize with each other and DNAs having homology less than the value do not hybridize with each other; and specifically include conditions corresponding to a salt concentration and temperature of washing which are typical of Southern hybridization, that is, washing once or 2 or 3 times, at a salt concentration and temperature corresponding to 1×SSC, 0.1% SDS at 60° C., 0.1×SSC, 0.1% SDS at 60° C., or 0.1×SSC, 0.1% SDS at 68° C.</p>
+    <p num="p-0093">The probe can be a partial sequence of a complementary sequence of the gene. Such a probe can be prepared by PCR using oligonucleotides prepared based on the known nucleotide sequences of genes as primers, and a DNA fragment containing these sequences as the template. When a DNA fragment of a length of about 300 by is used as the probe, the conditions of washing after hybridization can be, for example, 50° C., 2×SSC, and 0.1% SDS.</p>
+    <p num="p-0094">The above descriptions about variants of genes and proteins are similarly applied to enzymes such as serine acetyltransferase and cysteine desulfhydrase, the YdeD protein, and the genes that code for them.</p>
+    <p num="p-0095">&lt;2&gt; Method for Producing L-cysteine, L-cystine, Derivatives or Precursors Thereof or Mixture Thereof</p>
+    <p num="p-0096">These compounds can be produced by culturing the bacterium obtained as described above in a medium, and collecting L-cysteine, L-cystine, derivatives or precursors thereof or a mixture thereof from the medium. Examples of a derivative or precursor of L-cysteine include S-sulfocysteine, a thiazolidine derivative, a hemithioketal corresponding the thiazolidine derivative mentioned above, O-acetylserine, N-acetylserine, and so forth.</p>
+    <p num="p-0097">Examples of the medium used for the culture can include ordinary media containing a carbon source, nitrogen source, sulfur source, inorganic ions, and other organic components as required.</p>
+    <p num="p-0098">As the carbon source, saccharides such as glucose, fructose, sucrose, molasses and starch hydrolysate, and organic acids such as fumaric acid, citric acid and succinic acid can be used.</p>
+    <p num="p-0099">As the nitrogen source, inorganic ammonium salts such as ammonium sulfate, ammonium chloride and ammonium phosphate, organic nitrogen such as soybean hydrolysate, ammonia gas, aqueous ammonia and so forth can be used.</p>
+    <p num="p-0100">As the sulfur source, inorganic sulfur compounds, such as sulfates, sulfites, sulfides, hyposulfites and thiosulfates can be used.</p>
+    <p num="p-0101">As organic trace amount nutrients, it is desirable to add required substances such as vitamin B<sub>1</sub>, yeast extract and so forth in appropriate amounts. Other than these, potassium phosphate, magnesium sulfate, iron ions, manganese ions and so forth are added in small amounts.</p>
+    <p num="p-0102">The culture can be performed under aerobic conditions for 30 to 90 hours. The culture temperature can be controlled to be 25° C. to 37° C., and the pH can be controlled to be 5 to 8 during the culture. To adjust the pH, inorganic or organic acidic or alkaline substances, ammonia gas and so forth can be used. Collection of L-cysteine from the culture can be attained by, for example, any combination of known ion exchange resin methods, precipitation, and other known methods.</p>
+    <p num="p-0103">L-cysteine obtained as described above can be used to produce L-cysteine derivatives. The cysteine derivatives include methylcysteine, ethylcysteine, carbocysteine, sulfocysteine, acetylcysteine, and so forth.</p>
+    <p num="p-0104">Furthermore, when a thiazolidine derivative of L-cysteine is produced in the medium, L-cysteine can be produced by collecting the thiazolidine derivative from the medium to break the reaction equilibrium between the thiazolidine derivative and L-cysteine so that L-cysteine is excessively produced. Furthermore, when S-sulfocysteine is produced in the medium, it can be converted into L-cysteine by reduction with a reducing agent such as dithiothreitol.</p>
+    <heading>EXAMPLES</heading>
+    <p num="p-0105">Hereinafter, the present invention will be explained more specifically with reference to the following non-limiting examples. In the following descriptions, cysteine means L-cysteine.</p>
+    <p num="p-0106">(1) Screening of Clones Showing Cysteine Sensitivity</p>
+    <p num="p-0107">In order to comprehensively search for genes participating in cysteine resistance, the Keio collection (single gene-knock out library except for essential genes of <i>E. coli </i>BW25113, Baba, T, et al., 2006, Mol. Syst. Biol., 2:2006.0008) was screened for clones showing sensitivity to cysteine.</p>
+    <p num="p-0108">(1-1) Screening of Keio Collection for Clones Showing Cysteine Sensitivity</p>
+    <p num="p-0109">The 3,985 clones of the Keio collection were cultured at 37° C. for 15 hours in 0.5 ml of LB liquid medium. This culture medium was stamped on LB agar media containing cysteine at different concentrations (0, 15, 20, 25 mM), and culture was performed overnight at 37° C. Clones that were cysteine sensitive at the growth inhibition concentration of cysteine for wild-type strains (20 mM) were visually selected. Specifically, clones that did not form colonies on the LB plate containing 15 mM cysteine were selected as candidates. A dsbA gene-deficient strain was obtained as a clone showing particularly strong and distinctive cysteine sensitivity among the above candidates.</p>
+    <p num="p-0110">DsbA localizes in the periplasm, and forms disulfide bond (S—S bond) in a substrate protein by utilizing the oxidized state (—S—S—) and the reduced state (—SH/—SH) of two cysteine residues of DsbA itself to induce folding of the substrate protein. At the time of the S—S bond formation of the substrate protein, the cysteine residues of DsbA changes from those of the oxidized type (—S—S—) into the reduced type (—SH/—SH). As a protein that recycles the reduced type DsbA produced as described above into the oxidized type, DsbB is known. It was elucidated that the electrons received by DsbB are transferred to ubiquinone (UQ), which is a respiratory chain component, and oxygen finally serves as an electron acceptor with the aid of cytochrome oxidase. Therefore, a series of these DsbA, DsbB, and the respiratory chain system play a role of performing the oxidative crosslinking reaction of cysteine residues on a substrate protein. Although it was known that the cysteine residues in a protein were used as a substrate as described above, it was unpredictable that the addition of a low molecule cysteine itself had a certain influence on that system.</p>
+    <p num="p-0111">(1-2) Cysteine Sensitivity Induced by dsbA Gene Deficiency</p>
+    <p num="p-0112">Since a dsbA-deficient strain was obtained by the screening of the Keio Collection, growth of the gene-deficient strain was observed on the agar medium containing cysteine of different concentrations in order to analyze the sensitivity of that strain to cysteine in more detail. Furthermore, as for the to/C gene (Japanese Patent Application No. 2008-040167, Wiriyathanawudhiwong, N. et al., Appl. Microbiol. Biotechnol. (2009) 81:903-913), which was previously obtained in a similar manner, and of which deletion is known to induce cysteine sensitivity, a similar experiment was performed by using a to/C-deficient strain. The dsbA-deficient strain and to/C-deficient strain used in this experiment were JW3832 strain and JW5503 strain, respectively (both were included in the Keio collection), and their parent strain was the BW25113 strain (Andreas Haldimann, A. and Wanner, B. L., J. Bacteriol., 2001 November, 183 (21):6384-6393). The plasmids carrying the dsbA gene and the to/C gene for the complementation experiment were pDsbA and pTo1C (ASKA clone (Kitagawa, M., et al., 2005, DNA Res., 12:291-299)), and the vector used as the base of them was pCA24 (vector for ASKA clone (Kitagawa, M., et al., 2005, DNA Res., 12:291-299)).</p>
+    <p num="p-0113">The bacteria containing each of the plasmids were each inoculated into 5 ml of L medium (10 g/L of Bacto trypton, 5 g/L of Bacto yeast extract, 5 g/L of NaCl), and cultured overnight at 30° C. The culture was serially diluted 10 times for every dilution with 0.9% physiological saline to prepare serially diluted cell suspensions (10<sup>−2 </sup>to 10<sup>−6</sup>), and the cell suspensions were spotted (5 μl) onto L agar medium (10 g/L of Bacto trypton, 5 g/L of Bacto yeast extract, 5 g/L of NaCl, 15 g/L of agar) containing various concentrations (10, 15, 20 mM) of cysteine. Culture was performed at 37° C. overnight, and growth tests of the dsbA-deficient strain and the to/C-deficient strain in the cysteine medium, and complementation (recovery of growth) tests with the dsbA plasmid and the to/C plasmid were performed. The results are shown in <figref idrefs="DRAWINGS">FIG. 1</figref>. The dsbA-deficient strain JW3832/pCA24 and the to/C-deficient strain JW5503/pCA24 showed marked cysteine sensitivity as compared with the control strain BW25113/pCA24, and when the dsbA and to/C gene were introduced as plasmids (JW3832/pDsbA strain, JW5503/pTolC strain), the strains recovered from the sensitivity. Therefore, it was found that DsbA was involved in the cysteine resistance, like to/C.</p>
+    <p num="p-0114">(2) Toxicity of Cysteine to Cell and Relation to DsbA</p>
+    <p num="p-0115">Since deficiency of the dsbA gene induced cysteine sensitivity, experiments were performed about toxicity of cysteine to cells and relation thereof to DsbA.</p>
+    <p num="p-0116">(2-1) Accumulation of Reduced Type DsbA Induced by Cysteine</p>
+    <p num="p-0117">In order to examine whether cysteine has any influence on the oxidized and reduced states of the DsbA protein, the oxidized and reduced states of DsbA were analyzed when cysteine was added, or YdeD, a cysteine secretion factor, was highly expressed. It is known that YdeD is a secretion protein localizing at cell membranes, and participates in transportation from cytoplasm to periplasm (Dasler, T. et al., Mol. Microbiol., 2000, 36:1101-1112). Therefore, it is estimated that if YdeD is highly expressed, the supply of cysteine to the periplasm is increased.</p>
+    <p num="p-0118">The strains used in this experiment were the <i>E. coli </i>BW25113 strain (Andreas Haldimann and Barry L. Wanner, J. Bacteriol., 2001 November, 183 (21):6384-6393) as a wild-type parent strain, the dsbA-deficient JW3832 strain and dsbB-deficient JW5182 strain derived from BW25113 strain (Baba, T, et al., 2006, Mol. Syst. Biol., 2:2006.0008). As a plasmid carrying the dsbB gene, pDsbB (ASKA clone, Kitagawa, M. et al., 2005, DNA Res., 12:291-9) was used.</p>
+    <p num="p-0119">A plasmid pYdeD carrying the ydeD gene for highly expressing YdeD was constructed as follows. PCR was performed by using the genomic DNA of the <i>E. coli </i>MG1655 strain as a template, P1 (5′-CGCGGATCCAATGGTCATAAATGGCAGCGTAGCGC-3′: SEQ ID NO: 13) and P2 (5′-CGCGGATCCGCAGGGCGTTGCGGAACAAAC-3′: SEQ ID NO: 14) as primers according to the protocol attached to Pyrobest DNA polymerase (Takara) to obtain a ydeD gene fragment of about 1.5 kb including a region of about 300 by upstream from the ydeD gene and a region of about 200 by downstream from the ydeD gene. The BamHI site was designed in both the primers. The PCR fragment was digested with BamHI, and then inserted into pSTV29 (Takara) at the BamHI site, and the obtained plasmid in which the ydeD gene fragment was inserted in the same direction as the lacZ gene on the pSTV29 vector was designated plasmid pYdeD. The amplified portion was sequenced by PCR to confirm that it did not contain a mutation.</p>
+    <p num="p-0120">In order to distinguish the oxidized state and the reduced state of the DsbA protein, the protein was modified with AMS (4-acetamido-4′-maleimidyl-stilbene-2,2′-disulfonate) (Kadokura, H. et al., 2004, Science, 303, 534-537). Each of the wild-type strain, the dsbA-deficient strain, the dsbB-deficient strain, the wild-type strain +pYdeD and the dsbB-deficient strain +pDsbB was cultured overnight at 30° C. in 3 ml of LB medium, and the resulting culture was used as a preculture medium. The preculture medium was inoculated into the LB medium in a 1% amount, and culture was performed at 30° C. with shaking until OD<sub>660 </sub>reached 0.4 to 0.5. Then, cysteine was added at 5 mM as the final concentration to expose the cells to cysteine for 20 minutes. The oxidized and reduced states of the DsbA protein were examined by the method of Ito et al. (Kobayashi, T., Kishigami, S., Sone, M., Inokuchi, H., Mogi, T. and Ito K., Proc. Natl. Acad. Sci. USA, 94, 11857-11862). That is, after giving the stress, 100 μl of TCA (trichloroacetic acid, final concentration: 16.7%) was immediately added to 0.5 ml of the culture medium (OD<sub>660 </sub>was about 0.5), and the mixture was stirred, left standing on ice for 20 minutes to precipitate the cells, and centrifuged to collect the cells. Then, 700 μl of acetone was added to the obtained precipitates, the mixture was stirred, then left standing on ice for 20 minutes, and recentrifuged to collect the cells. The precipitates were dissolved in a solution of 1% SDS, 50 mM Tris-HCl (pH 6.8) and 10 mM 4-acetamido-4′-maleimidyl-stilbene-2,2′-disulfonate (AMS, Invitrogen) prepared immediately before use.</p>
+    <p num="p-0121">The labeled protein was then separated by non-reduced SDS gel electrophoresis (12.5%), and then detected by Western blotting. The nitrocellulose membrane after the blotting was shaken in a blocking solution (TTBS containing 3% of skim milk, 0.05% (wt/vol) of Tween 20, 200 mM Tris-HCl (pH 7.5), 500 mM NaCl) for 1 hour. The membrane was washed with TTBS, and then shaken in a primary antibody solution (anti-DsbA blood serum (rabbit), Kadokura, H. et al., 2004, Science, 303, 534-537) for 1 hour. The membrane was washed with TTBS, and then shaken in a secondary antibody solution (TTBS containing 0.2% of peroxidase-labeled anti-rabbit IgG (GE Healthcare) and 3% of albumin). The label was detected by using ECL Plus Western Blotting Detection Reagents (Amersham).</p>
+    <p num="p-0122">The results are shown in <figref idrefs="DRAWINGS">FIG. 2</figref>. From the fact that no band was detected for the dsbA-deficient strain, and the appearance of the bands for the dsbB-deficient strain and dsbB-deficient strain +pDsbB, it was confirmed that the oxidized type and reduced type of DsbA were correctly detected. When cysteine was not added, only the oxidized type DsbA was observed for the wild-type strain. However, the reduced type DsbA accumulated after exposure to cysteine (reduction stress), and the DsbA-DsbB complex also markedly accumulated. Moreover, it was found that the reduced type DsbA also accumulated in the wild-type strain when YdeD was highly expressed in that strain. The DsbA-DsbB-UQ oxidation system is originally a system for disulfide bond formation in proteins. However, it was found that when cysteine excessively existed, it worked to oxidize it into cystine, and thus the reduced type DsbA accumulated.</p>
+    <p num="p-0123">(2-2) Accumulation of Reduced Type OstA Protein Induced by Cysteine</p>
+    <p num="p-0124">Since it was elucidated that the reduced type DsbA was accumulated by cysteine (reduction stress), it was decided to investigate toxicity of cysteine and oxidized and reduced states of a protein in the periplasm. The OstA is a protein in the periplasm indispensable to growth, and requires disulfide bond formed by DsbA. In order to investigate the oxidized and reduced states of the OstA protein, the <i>E. coli </i>BW25113 strain as the wild-type parent strain and the dsbA-deficient JW3832 strain derived from the BW25113 strain were used, and the plasmid pmyc-OstA for expressing OstA fused with an Myc tag (Kadokura, H. et al., 2004, Science, 303, 534-537) was introduced into them. Under the same culture conditions as those of the aforementioned experiment for investigating the oxidized and reduced states of DsbA, addition of L-cysteine (final concentration: 5 mM) and modification of the protein with AMS (4-acetamido-4′-maleimidyl-stilbene-2,2′-disulfonate) were performed, and the OstA protein was detected by Western blotting. As the antibody, anti-Myc (mouse) was used in this experiment.</p>
+    <p num="p-0125">The results are shown in <figref idrefs="DRAWINGS">FIG. 3</figref>. It was found that, in the DsbA-deficient strain, all of the OstA proteins are the reduced type, irrespective of addition or no addition of cysteine. In the wild-type strain, when there was no cysteine, the OstA protein was the oxidized type with correctly formed disulfide bond, but the reduced type accumulated after the addition of cysteine. It was elucidated that the reduced type DsbA accumulated due to cysteine (reduction stress), accordingly the OstA protein which is as an essential protein was not correctly oxidized, and this constituted one of toxicities of cysteine for growth. On the basis of the above consideration, it was considered that enhancement of DsbA was effective in an environment where cysteine abundantly existed such as that of cysteine production by fermentation.</p>
+    <p num="p-0126">(3) Construction of Cysteine-producing Bacterium</p>
+    <p num="p-0127">A cysteine-producing bacterium was constructed by introducing pACYC-DES carrying a mutant cysE coding for a mutant serine acetyltransferase in which feedback inhibition by L-cysteine was reduced, the ydeD gene, and a mutant serA gene coding for a 3-phosphoglycerate dehydrogenase in which feedback inhibition by L-serine was reduced on one plasmid into <i>E. coli </i>BW25113. The construction of pACYC-DES is described in EP 1528108 B1. Furthermore, in order to investigate the effect of overexpression of DsbA on cysteine production, cysteine-producing bacteria introduced with pDsbA or an empty vector pCA24N serving as a control were constructed.</p>
+    <p num="p-0128"> <i>E. coli </i>BW25113 can be obtained from the <i>Escherichia coli </i>Genetic Stock Center (830 Kline Biology Tower, Dept. of Molecular, Cellular, and Developmental Biology, 266 Whitney Ave., PO box 208103, Yale University, New Haven, Conn. 06520-8103) by referring to the number of CGSC#7636. An L-cysteine-producing bacterium can also be similarly constructed by using the <i>E. coli </i>W3110 strain or the like instead of the above strain. <i>E. coli </i>K12 W3110 can be obtained from ATCC as ATCC 27325.</p>
+    <p num="p-0129">(4) L-Cysteine Production by DsbA-Enhanced Cysteine-Producing Bacterium</p>
+    <p num="p-0130">A DsbA-enhanced cysteine-producing bacterium (<i>E. coli </i>BW25113/pACYC-DES/pDsbA strain), and a DsbA-non-enhanced control strain (<i>E. coli </i>BW25113/pACYC-DES/pCA24N strain) were each inoculated into 5 ml of L medium (10 g/L of Bacto trypton, 5 g/L of Bacto yeast extract, 5 g/L of NaCl, tetracycline (10 μg/mL), chloramphenicol (30 μg/mL)), and cultured at 30° C. overnight (preculture).</p>
+    <p num="p-0131">The cell suspension after an overnight culture was taken in a volume of 250 μl, and added to 25 ml of the fresh medium (SM1+10% L medium), and culture was performed at 30° C. with shaking at 140 rpm. In this culture, tetracycline (10 mg/mL) and chloramphenicol (30 μg/mL) were added to the medium in order to maintain the plasmids in the cells. The medium was temporally sampled, and production of cysteine, cystine, and cysteine-related compounds were analyzed after various periods. The composition of the SM1 medium used for the culture was as follows: 0.1 M KH<sub>2</sub>PO<sub>4</sub>—K<sub>2</sub>HPO<sub>4 </sub>buffer (pH 7.0), 30 g/L of glucose, 10 g/L of (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, 0.1 g/L of NaCl, 7.2 μM FeSO<sub>4</sub>.7H<sub>2</sub>O, 0.6 μM Na<sub>2</sub>MoO<sub>4</sub>, 40.4 μM H<sub>3</sub>BO<sub>3</sub>, 2.9 μM CoCl<sub>2</sub>, 1 μMl CuSO<sub>4</sub>, 8.1 μM MnCl<sub>2</sub>, 1 mM MgSO<sub>4</sub>, 0.1 mM CaCl<sub>2 </sub>(Dassler, T. et al., 2000, Mol. Microbiol., 36, 1101-1112).</p>
+    <p num="p-0132">Cysteine, cystine, and cysteine-related compounds were quantified as follows according to the method of Gaitonde (Gaitonde, M. K., 1967, Biochem. J., 104, 627-633). The Gaitonde reagent (250 mg of ninhydrin, 6 ml of acetic acid, 4 ml of hydrochloric acid) in a volume of 200 μl was added to 100 μl of the culture medium, the coloration reaction was performed at 100° C. for 5 minutes, 400 μl of 100% ethanol was added to the mixture, and OD<sub>560 </sub>of the mixture was measured. Change of the amounts of cysteine accumulated in the medium (amounts quantified by the Gaitonde method) is shown in <figref idrefs="DRAWINGS">FIG. 4</figref>. In the Figure, “Cys” represents the total amount including the amounts of cystine and cysteine-related compounds. Furthermore, BW25113/pDESpDsbA and BW25113/pDESpCA24N represent BW25113/pACYC-DES/pDsbA and BW25113/pACYC-DES/pCA24N, respectively. It was found that the amount of cysteine markedly increased in the DsbA-enhanced strain. Thus, it became clear that enhancement of DsbA had an effect of increasing cysteine production amount.</p>
+    <p num="p-0133">(5) Cysteine Production by DsbB, DsbC, DsbD and DsbG-Enhanced Cysteine-producing Bacterium</p>
+    <p num="p-0134">Since DsbB promotes re-oxidation of DsbA, enhancement thereof can be expected to have the same effect as that of DsbA enhancement. Furthermore, a similar effect can be expected for enhancement of DsbC-DsbD or DsbG similar to the system of DsbA-DsbB. Enhancement of DsbB, DsbC, DsbD and DsbG in a cysteine-producing bacterium can be attained by, for example, introducing the ASKA clone plasmids of each gene into <i>E. coli </i>BW25113/pACYC-DES strain, as performed for obtaining the DsbA-enhanced strain. By culturing and analyzing each cysteine-producing bacterium prepared as described above in the same manners as those used in the experiments for DsbA-enhanced strain, it can be demonstrated that each gene has an effect of improving cysteine production.</p>
+    <heading>EXPLANATION OF SEQUENCE LISTING</heading>
+    <p num="p-0135">SEQ ID NO: 1: Nucleotide sequence of <i>E. coli </i>dsbA gene</p>
+    <p num="p-0136">SEQ ID NO: 2: Amino acid sequence of <i>E. coli </i>DsbA</p>
+    <p num="p-0137">SEQ ID NO: 3: Nucleotide sequence of <i>Shigella flexneri </i>dsbA gene homologue</p>
+    <p num="p-0138">SEQ ID NO: 4: Amino acid sequence of <i>Shigella flexneri </i>DsbA homologue</p>
+    <p num="p-0139">SEQ ID NO: 5: Nucleotide sequence of <i>Klebsiella pneumoniae </i>dsbA gene homologue</p>
+    <p num="p-0140">SEQ ID NO: 6: Amino acid sequence of <i>Klebsiella pneumoniae </i>DsbA homologue</p>
+    <p num="p-0141">SEQ ID NO: 7: Nucleotide sequence of <i>Yersinia enterocolitica </i>dsbA gene homologue</p>
+    <p num="p-0142">SEQ ID NO: 8: Amino acid sequence of <i>Yersinia enterocolitica </i>DsbA homologue</p>
+    <p num="p-0143">SEQ ID NO: 9: Nucleotide sequence of <i>Photorhabdus luminescens </i>dsbA gene homologue</p>
+    <p num="p-0144">SEQ ID NO: 10: Amino acid sequence of <i>Photorhabdus luminescens </i>DsbA homologue</p>
+    <p num="p-0145">SEQ ID NO: 11: Nucleotide sequence of <i>Pasteurella multocida </i>dsbA gene homologue</p>
+    <p num="p-0146">SEQ ID NO: 12: Amino acid sequence of <i>Pasteurella multocida </i>DsbA homologue</p>
+    <p num="p-0147">SEQ ID NO: 13: Primer P1 for ydeD gene amplification</p>
+    <p num="p-0148">SEQ ID NO: 14: Primer P2 for ydeD gene amplification</p>
+    <p num="p-0149">While the invention has been described in detail with reference to exemplary embodiments thereof, it will be apparent to one skilled in the art that various changes can be made, and equivalents employed, without departing from the scope of the invention. Each of the aforementioned documents is incorporated by reference herein in its entirety.</p>
+    
+  </div>
+  </div>
+  </section>
+
+  <section itemprop="claims" itemscope>
+    <h2>Claims (<span itemprop="count">11</span>)</h2>
+    
+    <div itemprop="content" html><div mxw-id="PCLM45748651" lang="EN" load-source="patent-office" class="claims">
+    <div class="claim"> <div id="CLM-00001" num="00001" class="claim">
+      <div class="claim-text">1. A method for producing a compound selected from the group consisting of L-cysteine, L-cystine, and a derivative or precursor thereof, which comprises culturing a bacterium belonging to the family <i>Enterobacteriaceae </i>in a medium and collecting the compound from the medium,
+<div class="claim-text">wherein the bacterium is able to produce L-cysteine and has been modified to increase the activity of a protein encoded by the dsbA gene as compared to a non-modified bacterium,</div>
+<div class="claim-text">wherein the activity of the protein is increased by a method selected from the group consisting of:</div>
+<div class="claim-text">i) increasing expression of the dsbA gene by increasing the copy number of the dsbA gene or by modifying an expression control sequence of the dsbA gene,</div>
+<div class="claim-text">ii) increasing translation of the dsbA gene, and</div>
+<div class="claim-text">iii) combinations thereof,</div>
+<div class="claim-text">wherein the protein is selected from the group consisting of:</div>
+<div class="claim-text">(A) a protein comprising the amino acid sequence of SEQ ID NO: 2, 4, 6, 8, 10 or 12, and</div>
+<div class="claim-text">(B) a protein comprising the amino acid sequence of SEQ ID NO: 2, 4, 6, 8, 10 or 12, but which includes substitutions, deletions, insertions or additions of one to 5 amino acid residues, and wherein the increase of the protein's activity in the bacterium improves the ability of the bacterium to produce L-cysteine.</div>
+</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00002" num="00002" class="claim">
+      <div class="claim-text">2. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the derivative of L-cysteine is a thiazolidine derivative.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00003" num="00003" class="claim">
+      <div class="claim-text">3. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the precursor of L-cysteine is O-acetylserine or N-acetylserine.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00004" num="00004" class="claim">
+      <div class="claim-text">4. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the dsbA gene is selected from the group consisting of:
+<div class="claim-text">(a) a DNA comprising the nucleotide sequence of SEQ ID NO: 1, 3, 5, 7, 9 or 11, and</div>
+<div class="claim-text">(b) a DNA which hybridizes with a sequence complementary to the nucleotide sequence of SEQ ID NO: 1, 3, 5, 7, 9 or 11 under stringent conditions comprising washing at a salt concentration and temperature corresponding to 0.1×SSC, 0.1% SDS at 60° C., and codes for a protein wherein the increase of the protein's activity in the bacterium improves the ability of the bacterium to produce L-cysteine.</div>
+</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00005" num="00005" class="claim">
+      <div class="claim-text">5. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bacterium contains a serine acetyltransferase which has been mutated to attenuate feedback inhibition by L-cysteine.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00006" num="00006" class="claim">
+      <div class="claim-text">6. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bacterium has been modified so that the activity of the protein encoded by the ydeD gene is increased.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00007" num="00007" class="claim">
+      <div class="claim-text">7. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein 3-phosphoglycerate dehydrogenase has been desensitized to feedback inhibition by serine.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00008" num="00008" class="claim">
+      <div class="claim-text">8. The method according to <claim-ref idref="CLM-00005">claim 5</claim-ref>, wherein the bacterium has been modified so that the activity of the protein encoded by the ydeD gene is increased.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00009" num="00009" class="claim">
+      <div class="claim-text">9. The method according to <claim-ref idref="CLM-00007">claim 7</claim-ref>, wherein the bacterium has been modified so that the activity of the protein encoded by the ydeD gene is increased.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00010" num="00010" class="claim">
+      <div class="claim-text">10. The method according to <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the bacterium is an <i>Escherichia </i>bacterium.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00011" num="00011" class="claim">
+      <div class="claim-text">11. The method according to <claim-ref idref="CLM-00010">claim 10</claim-ref>, wherein the bacterium is <i>Escherichia coli. </i> </div>
+    </div>
+  </div> </div>
+  </div>
+  </section>
+
+  <section itemprop="application" itemscope>
+
+    <section itemprop="metadata" itemscope>
+        <span itemprop="applicationNumber">US12711299</span>
+        <span itemprop="priorityDate">2009-02-25</span>
+        <span itemprop="filingDate">2010-02-24</span>
+        <span itemprop="title">L-cysteine-producing bacterium and a method for producing L-cysteine 
+       </span>
+        <span itemprop="ifiStatus">Active</span>
+        <span itemprop="ifiExpiration">2030-11-19</span>
+        <a href="/patent/US8293506B2/en">
+            <span itemprop="representativePublication">US8293506B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+        </a>
+    </section>
+
+    <h2>Priority Applications (4)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US15551309</span>
+                   <span itemprop="isUsProvisional">true</span>
+                   
+                <td itemprop="priorityDate">2009-02-25</td>
+                <td itemprop="filingDate">2009-02-25</td>
+                <td itemprop="title"></td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">JP2009-042561</span>
+                   
+                   
+                <td itemprop="priorityDate"></td>
+                <td itemprop="filingDate">2009-02-25</td>
+                <td itemprop="title"></td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">JP2009042561A</span>
+                   
+                   <a href="/patent/JP5463528B2/en">
+                        <span itemprop="representativePublication">JP5463528B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2009-02-25</td>
+                <td itemprop="filingDate">2009-02-25</td>
+                <td itemprop="title">  L- cysteine-producing bacterium and l- cysteine ​​production method  </td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12711299</span>
+                   
+                   <a href="/patent/US8293506B2/en">
+                        <span itemprop="representativePublication">US8293506B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2009-02-25</td>
+                <td itemprop="filingDate">2010-02-24</td>
+                <td itemprop="title">L-cysteine-producing bacterium and a method for producing L-cysteine 
+       </td>
+              </tr>
+           </tbody>
+       </table>
+
+    <h2>Applications Claiming Priority (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="appsClaimingPriority" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12711299</span>
+                   <a href="/patent/US8293506B2/en">
+                        <span itemprop="representativePublication">US8293506B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2009-02-25</td>
+                <td itemprop="filingDate">2010-02-24</td>
+                <td itemprop="title">L-cysteine-producing bacterium and a method for producing L-cysteine 
+       </td>
+              </tr>
+           </tbody>
+       </table>
+
+    
+
+    
+
+    <h2>Publications (2)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Publication Number</th>
+                    <th>Publication Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="pubs" itemscope repeat>
+                <td>
+                   <span itemprop="publicationNumber">US20100216196A1</span>
+                   
+                   <span itemprop="isApplication">true</span>
+                   
+                   <a href="/patent/US20100216196A1/en">US20100216196A1
+                       (<span itemprop="primaryLanguage">en</span>)
+                   </a>
+                </td>
+                <td itemprop="publicationDate">2010-08-26</td>
+              </tr><tr itemprop="pubs" itemscope repeat>
+                <td>
+                   <span itemprop="publicationNumber">US8293506B2</span>
+                   
+                   
+                   <span itemprop="thisPatent">true</span>
+                   <a href="/patent/US8293506B2/en">US8293506B2
+                       (<span itemprop="primaryLanguage">en</span>)
+                   </a>
+                </td>
+                <td itemprop="publicationDate">2012-10-23</td>
+              </tr>
+           </tbody>
+        </table>
+
+  </section>
+
+  <section itemprop="family" itemscope>
+    <h1>Family</h1>
+    <h2>ID=42631316</h2>
+
+    <h2>Family Applications (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12711299</span>
+                    <span itemprop="ifiStatus">Active</span>
+                    <span itemprop="ifiExpiration">2030-11-19</span>
+                    <a href="/patent/US8293506B2/en">
+                        <span itemprop="representativePublication">US8293506B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2009-02-25</td>
+                <td itemprop="filingDate">2010-02-24</td>
+                <td itemprop="title">L-cysteine-producing bacterium and a method for producing L-cysteine 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    
+
+    
+
+    <h2>Country Status (2)</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Country</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">US</span>
+                (<span itemprop="num">1</span>)
+              <meta itemprop="thisCountry" content="true">
+              
+              
+            </td>
+            <td>
+              <a href="/patent/US8293506B2/en">
+                <span itemprop="representativePublication">US8293506B2</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr><tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">JP</span>
+                (<span itemprop="num">1</span>)
+              
+              
+              
+            </td>
+            <td>
+              <a href="/patent/JP5463528B2/en">
+                <span itemprop="representativePublication">JP5463528B2</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr>
+      </tbody>
+    </table>
+
+    <h2>Cited By (2)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8962284B2/en">
+              <span itemprop="publicationNumber">US8962284B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2010-09-14</td>
+          <td itemprop="publicationDate">2015-02-24</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co., Inc.</span></td>
+          <td itemprop="title">Sulfur-containing amino acid-producing bacterium and method for producing sulfur-containing amino acid 
+       </td>
+        </tr><tr itemprop="forwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9611461B2/en">
+              <span itemprop="publicationNumber">US9611461B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2013-03-19</td>
+          <td itemprop="publicationDate">2017-04-04</td>
+          <td><span itemprop="assigneeOriginal">National University Corporation NARA Institute of Science and Technology</span></td>
+          <td itemprop="title">Enterobacteriaceae bacteria exhibiting increased L-cysteine producing ability 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Families Citing this family (7)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/EP2336347B1/en">
+              <span itemprop="publicationNumber">EP2336347B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2008-09-08</td>
+          <td itemprop="publicationDate">2017-03-15</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co., Inc.</span></td>
+          <td itemprop="title">An l-amino acid-producing microorganism and a method for producing an l-amino acid 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2011065469A1/en">
+              <span itemprop="publicationNumber">WO2011065469A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2009-11-30</td>
+          <td itemprop="publicationDate">2011-06-03</td>
+          <td><span itemprop="assigneeOriginal">味の素株式会社</span></td>
+          <td itemprop="title">L-cysteine-producing bacterium, and process for production of l-cysteine 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/RU2460793C2/en">
+              <span itemprop="publicationNumber">RU2460793C2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2010-01-15</td>
+          <td itemprop="publicationDate">2012-09-10</td>
+          <td><span itemprop="assigneeOriginal">Закрытое акционерное общество &#34;Научно-исследовательский институт &#34;Аджиномото-Генетика&#34; (ЗАО АГРИ)</span></td>
+          <td itemprop="title">Method for producing l-amino acids with use of bacteria of enterobacteriaceae family 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2014087259A/en">
+              <span itemprop="publicationNumber">JP2014087259A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2011-02-22</td>
+          <td itemprop="publicationDate">2014-05-15</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">L-cysteine-producing bacterium, and production method of l-cysteine 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US9234223B2/en">
+              <span itemprop="publicationNumber">US9234223B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2011-04-01</td>
+          <td itemprop="publicationDate">2016-01-12</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co., Inc.</span></td>
+          <td itemprop="title">Method for producing L-cysteine 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2012137689A1/en">
+              <span itemprop="publicationNumber">WO2012137689A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2011-04-01</td>
+          <td itemprop="publicationDate">2012-10-11</td>
+          <td><span itemprop="assigneeOriginal">味の素株式会社</span></td>
+          <td itemprop="title">Method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="forwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JPWO2015033849A1/en">
+              <span itemprop="publicationNumber">JPWO2015033849A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2013-09-04</td>
+          <td itemprop="publicationDate">2017-03-02</td>
+          <td><span itemprop="assigneeOriginal">国立大学法人 奈良先端科学技術大学院大学</span></td>
+          <td itemprop="title">  Method for producing L- cysteine  </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Citations (13)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JPH05336986A/en">
+              <span itemprop="publicationNumber">JPH05336986A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1992-06-05</td>
+          <td itemprop="publicationDate">1993-12-21</td>
+          <td><span itemprop="assigneeOriginal">Takara Shuzo Co Ltd</span></td>
+          <td itemprop="title">Protein-reactivating agent 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JPH11155571A/en">
+              <span itemprop="publicationNumber">JPH11155571A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1997-11-25</td>
+          <td itemprop="publicationDate">1999-06-15</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">Production of l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US5972663A/en">
+              <span itemprop="publicationNumber">US5972663A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1997-06-19</td>
+          <td itemprop="publicationDate">1999-10-26</td>
+          <td><span itemprop="assigneeOriginal">Consortium Fur Elektrochemische Industrie Gmbh</span></td>
+          <td itemprop="title">Microorganisms and processes for the fermentative preparation of L-cysteine, L-cystine, N-acetylserine or thiazolidine derivatives 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2000083670A/en">
+              <span itemprop="publicationNumber">JP2000083670A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-09-09</td>
+          <td itemprop="publicationDate">2000-03-28</td>
+          <td><span itemprop="assigneeOriginal">Hsp Kenkyusho:Kk</span></td>
+          <td itemprop="title">Dsba/dsbb/dsbc/dsbd-expression plasmid 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6218168B1/en">
+              <span itemprop="publicationNumber">US6218168B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1995-10-26</td>
+          <td itemprop="publicationDate">2001-04-17</td>
+          <td><span itemprop="assigneeOriginal">CONSORTIUM FüR ELEKTROCHEMISCHE INUDSTRIE GMBH</span></td>
+          <td itemprop="title">Process for preparing O-acetylserine, L-cysteine and L-cysteine-related products 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CA2386539A1/en">
+              <span itemprop="publicationNumber">CA2386539A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1999-10-14</td>
+          <td itemprop="publicationDate">2001-04-19</td>
+          <td><span itemprop="assigneeOriginal">Thomas Maier</span></td>
+          <td itemprop="title">Method for production of l-cysteine or l-cysteine derivatives by fermentation 
+     </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2002233384A/en">
+              <span itemprop="publicationNumber">JP2002233384A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-02-09</td>
+          <td itemprop="publicationDate">2002-08-20</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">L-cysteine-producing bacterium and method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2003169668A/en">
+              <span itemprop="publicationNumber">JP2003169668A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-09-28</td>
+          <td itemprop="publicationDate">2003-06-17</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">L-cysteine-producing microorganism and method for producing l-cysteine 
+     </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20050112731A1/en">
+              <span itemprop="publicationNumber">US20050112731A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-07-16</td>
+          <td itemprop="publicationDate">2005-05-26</td>
+          <td><span itemprop="assigneeOriginal">Tatsuki Kashiwagi</span></td>
+          <td itemprop="title">Mutant serine acetyltransferase 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2005245311A/en">
+              <span itemprop="publicationNumber">JP2005245311A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-04</td>
+          <td itemprop="publicationDate">2005-09-15</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">L-cysteine producing bacteria and method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20050221453A1/en">
+              <span itemprop="publicationNumber">US20050221453A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-31</td>
+          <td itemprop="publicationDate">2005-10-06</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co., Inc</span></td>
+          <td itemprop="title">L-cysteine producing microorganism and method for producing L-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20090226984A1/en">
+              <span itemprop="publicationNumber">US20090226984A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-03-06</td>
+          <td itemprop="publicationDate">2009-09-10</td>
+          <td><span itemprop="assigneeOriginal">Gen Nonaka</span></td>
+          <td itemprop="title">L-cysteine producing bacterium and a method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20090226983A1/en">
+              <span itemprop="publicationNumber">US20090226983A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-03-06</td>
+          <td itemprop="publicationDate">2009-09-10</td>
+          <td><span itemprop="assigneeOriginal">Gen Nonaka</span></td>
+          <td itemprop="title">L-cysteine-producing bacterium and a method for producing l-cysteine 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Family Cites Families (2)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CN100513414C/en">
+              <span itemprop="publicationNumber">CN100513414C</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2001-08-27</td>
+          <td itemprop="publicationDate">2009-07-15</td>
+          <td><span itemprop="assigneeOriginal">杰南技术公司</span></td>
+          <td itemprop="title">A system for antibody expression and assembly 
+       </td>
+        </tr><tr itemprop="backwardReferencesFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US8043833B2/en">
+              <span itemprop="publicationNumber">US8043833B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2005-10-31</td>
+          <td itemprop="publicationDate">2011-10-25</td>
+          <td><span itemprop="assigneeOriginal">Novo Nordisk A/S</span></td>
+          <td itemprop="title">Expression of soluble therapeutic proteins 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    </section>
+
+  <section>
+    <h2>Patent Citations (20)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JPH05336986A/en">
+              <span itemprop="publicationNumber">JPH05336986A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1992-06-05</td>
+          <td itemprop="publicationDate">1993-12-21</td>
+          <td><span itemprop="assigneeOriginal">Takara Shuzo Co Ltd</span></td>
+          <td itemprop="title">Protein-reactivating agent 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6218168B1/en">
+              <span itemprop="publicationNumber">US6218168B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1995-10-26</td>
+          <td itemprop="publicationDate">2001-04-17</td>
+          <td><span itemprop="assigneeOriginal">CONSORTIUM FüR ELEKTROCHEMISCHE INUDSTRIE GMBH</span></td>
+          <td itemprop="title">Process for preparing O-acetylserine, L-cysteine and L-cysteine-related products 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US5972663A/en">
+              <span itemprop="publicationNumber">US5972663A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1997-06-19</td>
+          <td itemprop="publicationDate">1999-10-26</td>
+          <td><span itemprop="assigneeOriginal">Consortium Fur Elektrochemische Industrie Gmbh</span></td>
+          <td itemprop="title">Microorganisms and processes for the fermentative preparation of L-cysteine, L-cystine, N-acetylserine or thiazolidine derivatives 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JPH11155571A/en">
+              <span itemprop="publicationNumber">JPH11155571A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1997-11-25</td>
+          <td itemprop="publicationDate">1999-06-15</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">Production of l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2000083670A/en">
+              <span itemprop="publicationNumber">JP2000083670A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-09-09</td>
+          <td itemprop="publicationDate">2000-03-28</td>
+          <td><span itemprop="assigneeOriginal">Hsp Kenkyusho:Kk</span></td>
+          <td itemprop="title">Dsba/dsbb/dsbc/dsbd-expression plasmid 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US6673569B1/en">
+              <span itemprop="publicationNumber">US6673569B1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1998-09-09</td>
+          <td itemprop="publicationDate">2004-01-06</td>
+          <td><span itemprop="assigneeOriginal">Hsp Research Institute, Inc.</span></td>
+          <td itemprop="title">DsbA/DsbB/DsbC/DsbD expression plasmid 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/WO2001027307A1/en">
+              <span itemprop="publicationNumber">WO2001027307A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1999-10-14</td>
+          <td itemprop="publicationDate">2001-04-19</td>
+          <td><span itemprop="assigneeOriginal">Consortium für elektrochemische Industrie GmbH</span></td>
+          <td itemprop="title">Method for production of l-cysteine or l-cysteine derivatives by fermentation 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/CA2386539A1/en">
+              <span itemprop="publicationNumber">CA2386539A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">1999-10-14</td>
+          <td itemprop="publicationDate">2001-04-19</td>
+          <td><span itemprop="assigneeOriginal">Thomas Maier</span></td>
+          <td itemprop="title">Method for production of l-cysteine or l-cysteine derivatives by fermentation 
+     </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2002233384A/en">
+              <span itemprop="publicationNumber">JP2002233384A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-02-09</td>
+          <td itemprop="publicationDate">2002-08-20</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">L-cysteine-producing bacterium and method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20030077766A1/en">
+              <span itemprop="publicationNumber">US20030077766A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-02-09</td>
+          <td itemprop="publicationDate">2003-04-24</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co. Inc.</span></td>
+          <td itemprop="title">L-cysteine producing bacterium and method for producing L-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2003169668A/en">
+              <span itemprop="publicationNumber">JP2003169668A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2001-09-28</td>
+          <td itemprop="publicationDate">2003-06-17</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">L-cysteine-producing microorganism and method for producing l-cysteine 
+     </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20050112731A1/en">
+              <span itemprop="publicationNumber">US20050112731A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-07-16</td>
+          <td itemprop="publicationDate">2005-05-26</td>
+          <td><span itemprop="assigneeOriginal">Tatsuki Kashiwagi</span></td>
+          <td itemprop="title">Mutant serine acetyltransferase 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7312058B2/en">
+              <span itemprop="publicationNumber">US7312058B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2003-07-16</td>
+          <td itemprop="publicationDate">2007-12-25</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co., Ltd.</span></td>
+          <td itemprop="title">Mutant serine acetyltransferase 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20100093045A1/en">
+              <span itemprop="publicationNumber">US20100093045A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-04</td>
+          <td itemprop="publicationDate">2010-04-15</td>
+          <td><span itemprop="assigneeOriginal">Hiroshi Takagi</span></td>
+          <td itemprop="title">L-cysteine producing microorganism and a method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20080076163A1/en">
+              <span itemprop="publicationNumber">US20080076163A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-04</td>
+          <td itemprop="publicationDate">2008-03-27</td>
+          <td><span itemprop="assigneeOriginal">Hiroshi Takagi</span></td>
+          <td itemprop="title">L-cysteine-producing microorganism and a method for producing L-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2005245311A/en">
+              <span itemprop="publicationNumber">JP2005245311A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-04</td>
+          <td itemprop="publicationDate">2005-09-15</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">L-cysteine producing bacteria and method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2005287333A/en">
+              <span itemprop="publicationNumber">JP2005287333A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-31</td>
+          <td itemprop="publicationDate">2005-10-20</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co Inc</span></td>
+          <td itemprop="title">L-cysteine producing bacteria and method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20050221453A1/en">
+              <span itemprop="publicationNumber">US20050221453A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2004-03-31</td>
+          <td itemprop="publicationDate">2005-10-06</td>
+          <td><span itemprop="assigneeOriginal">Ajinomoto Co., Inc</span></td>
+          <td itemprop="title">L-cysteine producing microorganism and method for producing L-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20090226984A1/en">
+              <span itemprop="publicationNumber">US20090226984A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-03-06</td>
+          <td itemprop="publicationDate">2009-09-10</td>
+          <td><span itemprop="assigneeOriginal">Gen Nonaka</span></td>
+          <td itemprop="title">L-cysteine producing bacterium and a method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20090226983A1/en">
+              <span itemprop="publicationNumber">US20090226983A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            
+            
+          </td>
+          <td itemprop="priorityDate">2008-03-06</td>
+          <td itemprop="publicationDate">2009-09-10</td>
+          <td><span itemprop="assigneeOriginal">Gen Nonaka</span></td>
+          <td itemprop="title">L-cysteine-producing bacterium and a method for producing l-cysteine 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Non-Patent Citations (15)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Akiyama, Y., et al., "<a href='http://scholar.google.com/scholar?q="In+Vitro+Catalysis+of+Oxidative+Folding+of+Disulfide-bonded+Proteins+by+the+Escherichia+coli+dsbA+%28ppfA%29+Gene+Product%2C"'>In Vitro Catalysis of Oxidative Folding of Disulfide-bonded Proteins by the Escherichia coli dsbA (ppfA) Gene Product,</a>" J. Biol. Chem. 1992;267(31):22440-22445.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Andersen, C. L., et al., "<a href='http://scholar.google.com/scholar?q="A+new+Escherichia+coli+gene%2C+dsbG%2C+encodes+a+periplasmic+protein+involved+in+disulphide+bond+formation%2C+required+for+recycling+DsbA%2FDsbB+and+DsbC+redox+proteins%2C"'>A new Escherichia coli gene, dsbG, encodes a periplasmic protein involved in disulphide bond formation, required for recycling DsbA/DsbB and DsbC redox proteins,</a>" Mol. Microbiol. 1997;26(1):121-132.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Bardwell, J. C. A., "<a href='http://scholar.google.com/scholar?q="Building+bridges%3A+disulphide+bond+formation+in+the+cell%2C"'>Building bridges: disulphide bond formation in the cell,</a>" Mol. Microbiol. 1994:14(2):199-205.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Bardwell, J. C. A., et al., "<a href='http://scholar.google.com/scholar?q="Identification+of+a+Protein+Required+for+Disulfide+Bond+Formation+In+Vivo%2C"'>Identification of a Protein Required for Disulfide Bond Formation In Vivo,</a>" Cell 1991;67:581-589.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Dabetaler, T., et al., "<a href='http://scholar.google.com/scholar?q="Identification+of+a+major+facilitator+protein+from+Escherichia+coli+involved+in+efflux+of+metabolites+of+the+cysteine+pathway%2C"'>Identification of a major facilitator protein from Escherichia coli involved in efflux of metabolites of the cysteine pathway,</a>" Mol. Microbiol. 2000;36(5):1101-1112.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Daβler, T., et al., "<a href='http://scholar.google.com/scholar?q="Identification+of+a+major+facilitator+protein+from+Escherichia+coli+involved+in+efflux+of+metabolites+of+the+cysteine+pathway%2C"'>Identification of a major facilitator protein from Escherichia coli involved in efflux of metabolites of the cysteine pathway,</a>" Mol. Microbiol. 2000;36(5):1101-1112.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Givol, D., et al., "<a href='http://scholar.google.com/scholar?q="Oxidation+and+Disulfide+Interchange+in+the+Reactivation+of+Reduced+Ribonuclease%2C"'>Oxidation and Disulfide Interchange in the Reactivation of Reduced Ribonuclease,</a>" J. Biol. Chem. 1964;239(9):3114-3116.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Inaba, K., et al., "<a href='http://scholar.google.com/scholar?q="DsbB+Elicits+a+Red-shift+of+Bound+Ubiquinone+during+the+Catalysis+of+DsbA+Oxidation%2C"'>DsbB Elicits a Red-shift of Bound Ubiquinone during the Catalysis of DsbA Oxidation,</a>" J. Biol. Chem. 2004;279(8):6761-6768.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Kadokura, H., et al., "<a href='http://scholar.google.com/scholar?q="Mutational+Alterations+of+the+Key+cis+Proline+Residue+That+Cause+Accumulation+of+Enzymatic+Reaction+Intermediates+of+DsbA%2C+a+Member+of+the+Thioredoxin+Superfamily%2C"'>Mutational Alterations of the Key cis Proline Residue That Cause Accumulation of Enzymatic Reaction Intermediates of DsbA, a Member of the Thioredoxin Superfamily,</a>" J. Bacteriol. 2005;187(4):1519-1522.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Kadokura, H., et al., "<a href='http://scholar.google.com/scholar?q="Snapshots+of+DsbA+in+Action%3A+Detection+of+Proteins+in+the+Process+of+Oxidative+Folding%2C"'>Snapshots of DsbA in Action: Detection of Proteins in the Process of Oxidative Folding,</a>" Science 2004;303:534-537.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Missiakas, D., et al., "<a href='http://scholar.google.com/scholar?q="Identification+and+characterization+of+a+new+disulfide+isomerase-like+protein+%28DsbD%29+in+Escherichia+coli%2C"'>Identification and characterization of a new disulfide isomerase-like protein (DsbD) in Escherichia coli,</a>" The EMBO Journal 1995;14(14):3415-3424.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Rietsch, A., et al., "<a href='http://scholar.google.com/scholar?q="An+in+vivo+pathway+for+disulfide+bond+isomerization+in+Escherichia+coil%2C"'>An in vivo pathway for disulfide bond isomerization in Escherichia coil,</a>" Proc. Natl. Acad. Sci. USA 1996;93:13048-13053.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Rietsch, A., et al., "<a href='http://scholar.google.com/scholar?q="Reduction+of+the+Periplasmic+Disulfide+Bond+Isomerase%2C+DsbC%2C+Occurs+by+Passage+of+Electrons+from+Cytoplasmic+Thioredoxin%2C"'>Reduction of the Periplasmic Disulfide Bond Isomerase, DsbC, Occurs by Passage of Electrons from Cytoplasmic Thioredoxin,</a>" J. Bacteriol. 1997;179(21):6602-6608.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Shevchik , V. E., et al., "<a href='http://scholar.google.com/scholar?q="Characterization+of+DsbC%2C+a+periplasmic+protein+of+Erwinia+chrysanthemi+and+Escherichia+coil+with+disulfide+isomerase+activity%2C"'>Characterization of DsbC, a periplasmic protein of Erwinia chrysanthemi and Escherichia coil with disulfide isomerase activity,</a>" The EMBO Journal 1994;13(8):2007-2012.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Sone, M., et al., "<a href='http://scholar.google.com/scholar?q="Differential+in+Vivo+Roles+Played+by+DsbA+and+DsbC+in+the+Formation+of+Protein+Disulfide+Bonds%2C"'>Differential in Vivo Roles Played by DsbA and DsbC in the Formation of Protein Disulfide Bonds,</a>" J. Biol. Chem. 1997;272(16):10349-10352.</span>
+            
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <h2>Cited By (2)</h2>
+  <table>
+    <caption>* Cited by examiner, † Cited by third party</caption>
+    <thead>
+      <tr>
+        <th>Publication number</th>
+        <th>Priority date</th>
+        <th>Publication date</th>
+        <th>Assignee</th>
+        <th>Title</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          
+          
+          <a href="/patent/US8962284B2/en">
+            <span itemprop="publicationNumber">US8962284B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          
+          
+        </td>
+        <td itemprop="priorityDate">2010-09-14</td>
+        <td itemprop="publicationDate">2015-02-24</td>
+        <td><span itemprop="assigneeOriginal">Ajinomoto Co., Inc.</span></td>
+        <td itemprop="title">Sulfur-containing amino acid-producing bacterium and method for producing sulfur-containing amino acid 
+       </td>
+      </tr><tr itemprop="forwardReferences" itemscope repeat>
+        <td>
+          
+          
+          <a href="/patent/US9611461B2/en">
+            <span itemprop="publicationNumber">US9611461B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+          </a>
+          
+          
+        </td>
+        <td itemprop="priorityDate">2013-03-19</td>
+        <td itemprop="publicationDate">2017-04-04</td>
+        <td><span itemprop="assigneeOriginal">National University Corporation NARA Institute of Science and Technology</span></td>
+        <td itemprop="title">Enterobacteriaceae bacteria exhibiting increased L-cysteine producing ability 
+       </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <section>
+    <h2>Also Published As</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Publication date</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP2010193788A/en">
+              <span itemprop="publicationNumber">JP2010193788A</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2010-09-09</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/JP5463528B2/en">
+              <span itemprop="publicationNumber">JP5463528B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2014-04-09</td>
+          <td>grant <meta itemprop="isApplication" content="false" bool></td>
+        </tr><tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20100216196A1/en">
+              <span itemprop="publicationNumber">US20100216196A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2010-08-26</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Similar Documents</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication</th>
+          <th>Publication Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="13372112904518973555">
+              <a href="/scholar/13372112904518973555"><span itemprop="scholarAuthors">Mihara et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2002">2002</time>
+          </td>
+          <td itemprop="title">Bacterial cysteine desulfurases: their function and mechanisms</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="7296343818291978645">
+              <a href="/scholar/7296343818291978645"><span itemprop="scholarAuthors">Gerstmeir et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2004">2004</time>
+          </td>
+          <td itemprop="title">RamB, a novel transcriptional regulator of genes involved in acetate metabolism of Corynebacterium glutamicum</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="10432115568426989546">
+              <a href="/scholar/10432115568426989546"><span itemprop="scholarAuthors">Bolanos-Garcia et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2006">2006</time>
+          </td>
+          <td itemprop="title">Structural analysis and classification of native proteins from E. coli commonly co-purified by immobilised metal affinity chromatography</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="10670500236094231662">
+              <a href="/scholar/10670500236094231662"><span itemprop="scholarAuthors">Belyi et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2008">2008</time>
+          </td>
+          <td itemprop="title">Lgt: a family of cytotoxic glucosyltransferases produced by Legionella pneumophila</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20050255568A1/en">
+                <span itemprop="publicationNumber">US20050255568A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-11-17">2005-11-17</time>
+            
+          </td>
+          <td itemprop="title">Methods and compositions for amino acid production 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20050196846A1/en">
+                <span itemprop="publicationNumber">US20050196846A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-09-08">2005-09-08</time>
+            
+          </td>
+          <td itemprop="title">L-glutamic acid-producing microorganism and a method for producing L-glutamic acid 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="1087563271043391562">
+              <a href="/scholar/1087563271043391562"><span itemprop="scholarAuthors">Peterson et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2003">2003</time>
+          </td>
+          <td itemprop="title">Basic amino acids in a distinct subset of signal peptides promote interaction with the signal recognition particle</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/WO2005111202A1/en">
+                <span itemprop="publicationNumber">WO2005111202A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-11-24">2005-11-24</time>
+            
+          </td>
+          <td itemprop="title">Recombinant enzyme with altered feedback sensitivity 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/WO2006138689A2/en">
+                <span itemprop="publicationNumber">WO2006138689A2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2006-12-28">2006-12-28</time>
+            
+          </td>
+          <td itemprop="title">Improved amino acid and metabolite biosynthesis 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="1106448198056050489">
+              <a href="/scholar/1106448198056050489"><span itemprop="scholarAuthors">Gao et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2008">2008</time>
+          </td>
+          <td itemprop="title">Probing regulon of ArcA in Shewanella oneidensis MR-1 by integrated genomic analyses</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20040038352A1/en">
+                <span itemprop="publicationNumber">US20040038352A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2004-02-26">2004-02-26</time>
+            
+          </td>
+          <td itemprop="title">Method for fermentative production of amino acids and amino acid derivatives of the phosphoglycerate family 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="18359653055184237142">
+              <a href="/scholar/18359653055184237142"><span itemprop="scholarAuthors">Sperandio et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2005">2005</time>
+          </td>
+          <td itemprop="title">Sulfur amino acid metabolism and its control in Lactococcus lactis IL1403</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/WO2009043803A2/en">
+                <span itemprop="publicationNumber">WO2009043803A2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2009-04-09">2009-04-09</time>
+            
+          </td>
+          <td itemprop="title">Increasing methionine yield 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/WO2007012078A1/en">
+                <span itemprop="publicationNumber">WO2007012078A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2007-01-25">2007-01-25</time>
+            
+          </td>
+          <td itemprop="title">Methionine producing recombinant microorganisms 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/WO2007077041A1/en">
+                <span itemprop="publicationNumber">WO2007077041A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2007-07-12">2007-07-12</time>
+            
+          </td>
+          <td itemprop="title">Process for the preparation of methionine and its precursors homoserine or succinylhomoserine employing a microorganism with enhanced sulfate permease expression 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US7501282B2/en">
+                <span itemprop="publicationNumber">US7501282B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2009-03-10">2009-03-10</time>
+            
+          </td>
+          <td itemprop="title">Plasmid autonomously replicable in Enterobacteriaceae family 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20050221453A1/en">
+                <span itemprop="publicationNumber">US20050221453A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-10-06">2005-10-06</time>
+            
+          </td>
+          <td itemprop="title">L-cysteine producing microorganism and method for producing L-cysteine 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/JP2003169668A/en">
+                <span itemprop="publicationNumber">JP2003169668A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2003-06-17">2003-06-17</time>
+            
+          </td>
+          <td itemprop="title">L-cysteine-producing microorganism and method for producing l-cysteine 
+     </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="18174867618139052852">
+              <a href="/scholar/18174867618139052852"><span itemprop="scholarAuthors">Kim et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2007">2007</time>
+          </td>
+          <td itemprop="title">Why metabolic enzymes are essential or nonessential for growth of Escherichia coli K12 on glucose</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="11104807771096844053">
+              <a href="/scholar/11104807771096844053"><span itemprop="scholarAuthors">Sindelar et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2007">2007</time>
+          </td>
+          <td itemprop="title">Improving lysine production by Corynebacterium glutamicum through DNA microarray-based identification of novel target genes</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/WO2004108894A2/en">
+                <span itemprop="publicationNumber">WO2004108894A2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2004-12-16">2004-12-16</time>
+            
+          </td>
+          <td itemprop="title">Methods and compositions for amino acid production 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/JP2005245311A/en">
+                <span itemprop="publicationNumber">JP2005245311A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2005-09-15">2005-09-15</time>
+            
+          </td>
+          <td itemprop="title">L-cysteine producing bacteria and method for producing l-cysteine 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="383135483590383319">
+              <a href="/scholar/383135483590383319"><span itemprop="scholarAuthors">Park et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2007">2007</time>
+          </td>
+          <td itemprop="title">Characteristics of methionine production by an engineered Corynebacterium glutamicum strain</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="12758353117927988863">
+              <a href="/scholar/12758353117927988863"><span itemprop="scholarAuthors">Park et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2010">2010</time>
+          </td>
+          <td itemprop="title">Metabolic pathways and fermentative production of L‐aspartate family amino acids</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20090226984A1/en">
+                <span itemprop="publicationNumber">US20090226984A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2009-09-10">2009-09-10</time>
+            
+          </td>
+          <td itemprop="title">L-cysteine producing bacterium and a method for producing l-cysteine 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Legal Events</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Code</th>
+          <th>Title</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2010-04-13">2010-04-13</time></td>
+          <td itemprop="code">AS</td>
+          <td itemprop="title">Assignment</td>
+          <td>
+            
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">AJINOMOTO CO., INC., JAPAN</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NONAKA, GEN;TAKAGI, HIROSHI;OHTSU, IWAO;AND OTHERS;SIGNING DATES FROM 20100324 TO 20100401;REEL/FRAME:024224/0744</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2016-04-06">2016-04-06</time></td>
+          <td itemprop="code">FPAY</td>
+          <td itemprop="title">Fee payment</td>
+          <td>
+            
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Year of fee payment</strong>:
+              <span itemprop="value">4</span>
+            </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</article>
+
+      
+    </search-app>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/api.js"></script>
+    <script async="" defer="" src="//www.google.com/insights/consumersurveys/async_survey?site=cxkjf7ipxgbnnjy6k35ezcvbbe"></script>
+  </body>
+</html>

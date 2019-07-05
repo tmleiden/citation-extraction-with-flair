@@ -1,0 +1,1722 @@
+<!doctype html>
+<html>
+  <head>
+    <title>US8092995B2 - Expressed pseudogene regulates gene expression 
+        - Google Patents</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <meta name="referrer" content="origin-when-crossorigin">
+    <link rel="canonical" href="https://patents.google.com/patent/US8092995B2/en">
+    <meta name="description" content="
+     Selective expression of a pseudogene of myosin light chain kinase is found in cancer cells and tissues but not in normal cells and tissues. The pseudogene is expressed, and when expressed it inhibits expression of the ancestral myosin light chain kinase. This widespread expression among cancer cell types and the selective expression in cancer cells versus normal cells opens the door to many diagnostic and therapeutic applications. 
+   
+   ">
+    
+    <meta name="DC.type" content="patent">
+    
+    <meta name="DC.title" content="Expressed pseudogene regulates gene expression 
+       ">
+    
+    <meta name="DC.date" content="2010-01-04" scheme="dateSubmitted">
+    
+    <meta name="DC.description" content="
+     Selective expression of a pseudogene of myosin light chain kinase is found in cancer cells and tissues but not in normal cells and tissues. The pseudogene is expressed, and when expressed it inhibits expression of the ancestral myosin light chain kinase. This widespread expression among cancer cell types and the selective expression in cancer cells versus normal cells opens the door to many diagnostic and therapeutic applications. 
+   
+   ">
+    
+    <meta name="citation_patent_application_number" content="US:12/651,810">
+    
+    <meta name="citation_pdf_url" content="https://patentimages.storage.googleapis.com/28/55/24/11bf05bc61559d/US8092995.pdf">
+    
+    <meta name="citation_patent_number" content="US:8092995">
+    
+    <meta name="DC.date" content="2012-01-10" scheme="issue">
+    
+    <meta name="DC.contributor" content="Primal de Lanerolle" scheme="inventor">
+    
+    <meta name="DC.contributor" content="Yoo Jeong Han" scheme="inventor">
+    
+    <meta name="DC.contributor" content="University of Illinois" scheme="assignee">
+    
+    <meta name="DC.relation" content="US:20060211017:A1" scheme="references">
+    
+    <meta name="DC.relation" content="US:7186512" scheme="references">
+    
+    <meta name="citation_reference" content="&#34;Homo sapiens chromosome 3, olfactory receptor pseudogene cluster 1, complete sequence, and myosin light chain kinase (MLCK) pseudogene, partial sequence&#34;, GenBank: AF042089.1, dated Nov. 2, 2000." scheme="references">
+    
+    <meta name="citation_reference" content="&#34;Homo sapiens long myosin light chain kinase mRNA, complete cds&#34;, GenBank: AY339601.1, dated Apr. 19, 2004." scheme="references">
+    
+    <meta name="citation_reference" content="&#34;Homo sapiens myosin light chain kinase (MLCK) mRNA, complete cds&#34;, GenBank: U48959.2, dated Mar. 14, 2000." scheme="references">
+    
+    <meta name="citation_reference" content="&#34;Homo sapiens myosin light chain kinase isoform 2 (MLCK) mRNA, complete cds&#34;, GenBank: AF069601.2 dated Mar. 14, 2000." scheme="references">
+    
+    <meta name="citation_reference" content="&#34;Homo sapiens myosin light chain polypeptide kinase isoform 1 (MYLK) mRNA, complete cds, alternatively spliced&#34;, GenBank: AY424270.1, dated Dec. 23, 2004." scheme="references">
+    
+    <meta name="citation_reference" content="&#34;Homo sapiens myosin light chain polypeptide kinase isoform 2 (MYLK) mRNA, complete cds, alternatively spliced&#34;, GenBank: AY424269.1, dated Dec. 23, 2004." scheme="references">
+    
+    <meta name="citation_reference" content="&#34;MYLK Myosin Light Chain Kinase&#34; Entrez Gene, GeneID: 4638, updated Dec. 26, 2009." scheme="references">
+    
+    <meta name="citation_reference" content="&#34;MYLKP Myosin Light Chain Kinase Pseuodene&#34; Entrez Gene, GeneID: 9430, updated Jun. 25, 2009." scheme="references">
+    
+    <meta name="citation_reference" content="Brand-Arpon, Veronique, et al. &#34;A Genomic Region Encompassing a Cluster of Olfactory Receptor Genes and a Myosin Light Chain Kinase (MYLK) Gene is Duplicated on Human Chromosome Regions 3q13-q21 and 3p13&#34; Genomics vol. 56, pp. 98-110 (1999)." scheme="references">
+    
+    <meta name="citation_reference" content="Gao, Li, et al.&#34;Novel Polymorphisms in the Myosin Light Chain Kinase Gene Confer Risk for Acute Lung Injury&#34; American Journal of Respiratory Cell and Molecular Biology, vol. 34. pp. 487-495 (2006)." scheme="references">
+    
+    <meta name="citation_reference" content="Gu, L.Z., et al. Inhibiting myosin light chain kinase retards the growth of mammary and prostate cancers cells. Eur. J. Cancer. 2006 47:948-57 (abstract only)." scheme="references">
+    
+    <meta name="citation_reference" content="Han, Y. &#34;Pseudo Myosin Light Chain Kinase (MLCK) Gene Transcribes in Cancerous Tissues and Cells&#34;, American Society of Human Genetics, 2008 meeting abstract #241." scheme="references">
+    
+    <meta name="citation_reference" content="Han, Yoo-Jeong, et al. &#34;Naturally Extended CT AG Repeats Increase H-DNA Structures and Promoter Activity in the Smooth Muscle Myosin Light Chain Kinase Gene&#34; Molecular and Cellular Biology, pp. 863-872, Jan. 2008." scheme="references">
+    
+    <meta name="citation_reference" content="Lazar V, Garcia JG &#34;A single human myosin light chain kinase gene (MLCK; MYLK)&#34; Genomics, Apr. 15, 1999. pp. 256-267." scheme="references">
+    
+    <meta name="citation_reference" content="Trask, Barbara, et al. &#34;Large multi-chromosomal duplications encompass many members of the olfactory receptor gene family in the human genome&#34; Human Molecular Genetics, Oxford University Press, vol. 7, No. 13 (1998) pp. 2007-2020." scheme="references">
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Product+Sans">
+    <style>
+      body { transition: none; }
+    </style>
+
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-27188110-4', 'auto');
+
+      version = 'patent-search.search_20180320_RC00';
+
+      function sendFeedback() {
+        userfeedback.api.startFeedback({
+          'productId': '713680',
+          'bucket': 'patent-search-web',
+          'productVersion': version,
+        });
+      }
+
+      window.experiments = {};
+      window.experiments.patentCountries = "us,ep,wo,cn,ca,de,jp,kr,es,gb,be,dk,fi,fr,lu,nl,ru";
+      
+      window.experiments.enableSuggestions = true;
+      
+      
+      window.experiments.enableQueryURLSerialized = true;
+      
+      
+      window.experiments.enableSortByDate = true;
+      
+      
+      window.experiments.enableCoverageStats = true;
+      
+      
+      window.experiments.enableDownloadResults = true;
+      
+      
+      window.experiments.enableBooleanSearch = true;
+      
+      
+      
+      window.profilePicture = "";
+
+      window.Polymer = {
+        dom: 'shady',
+        lazyRegister: true,
+      };
+    </script>
+
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/webcomponentsjs/webcomponents-lite.min.js"></script>
+    
+    <link rel="import" href="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/search-app-vulcanized.html">
+    
+  </head>
+  <body unresolved>
+    
+    <script src="//www.gstatic.com/patent-search/frontend/patent-search.search_20180320_RC00/scs/compiled_dir/search-app-vulcanized.js"></script>
+    
+    <search-app>
+      
+      <span id="promo"><span><span style="color: #EA4335;">New!</span> <a target="_blank" href="https://www.darts-ip.com/darts-ip-google-patents/">View global litigation for patent families</a></span>
+</span>
+      <article class="result" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <h1 itemprop="pageTitle">US8092995B2 - Expressed pseudogene regulates gene expression 
+        - Google Patents</h1>
+  <span itemprop="title">Expressed pseudogene regulates gene expression 
+       </span>
+
+  <meta itemprop="type" content="patent">
+  <a href="https://patentimages.storage.googleapis.com/28/55/24/11bf05bc61559d/US8092995.pdf" itemprop="pdfLink">Download PDF</a>
+  <h2>Info</h2>
+
+  <dl>
+    <dt>Publication number</dt>
+    <dd itemprop="publicationNumber">US8092995B2</dd>
+    <meta itemprop="numberWithoutCodes" content="8092995">
+    <meta itemprop="kindCode" content="B2">
+    
+    <span>US8092995B2</span>
+    
+    <span>US12651810</span>
+    
+    <span>US65181010A</span>
+    
+    <span>US8092995B2</span>
+    
+    <span>US 8092995 B2</span>
+    
+    <span>US8092995 B2</span>
+    
+    <span>US 8092995B2</span>
+    
+    <span>US 12651810 </span>
+    
+    <span>US12651810 </span>
+    
+    <span>US 12651810</span>
+    
+    <span>US 65181010 A</span>
+    
+    <span>US65181010 A</span>
+    
+    <span>US 65181010A</span>
+    
+    <span>US 8092995 B2</span>
+    
+    <span>US8092995 B2</span>
+    
+    <span>US 8092995B2</span>
+    
+
+    <dt>Authority</dt>
+    <dd itemprop="countryCode">US</dd>
+
+    <dt>Grant status</dt>
+    <dd>
+      
+      Grant
+      <meta itemprop="isApplication" content="false" bool>
+      
+    </dd>
+
+    <dt>Patent type</dt>
+    <dd>
+      
+      <meta itemprop="isDesign" content="false" bool>
+      
+    </dd>
+
+    <dt>Prior art keywords</dt>
+    
+    <dd itemprop="priorArtKeywords" repeat>expression</dd>
+    <dd itemprop="priorArtKeywords" repeat>human</dd>
+    <dd itemprop="priorArtKeywords" repeat>cells</dd>
+    <dd itemprop="priorArtKeywords" repeat>smmlck</dd>
+    <dd itemprop="priorArtKeywords" repeat>gene</dd>
+
+    <dt>Prior art date</dt>
+    <dd><time itemprop="priorArtDate" datetime="2009-01-02">2009-01-02</time></dd>
+
+    <dt>Legal status (The legal status is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the status listed.)</dt>
+    <dd itemprop="legalStatusIfi" itemscope>
+      <span itemprop="status">Expired - Fee Related</span>
+    </dd>
+  </dl>
+
+  <dt>Application number</dt>
+  <dd itemprop="applicationNumber">US12651810</dd>
+
+  
+
+  <dt>Other versions</dt>
+  <dd itemprop="directAssociations" itemscope repeat>
+    
+    <a href="/patent/US20100173975A1/en">
+      <span itemprop="publicationNumber">US20100173975A1</span>
+      (<span itemprop="primaryLanguage">en</span>
+      <meta itemprop="isApplication" content="true" bool>)
+    </a>
+  </dd>
+
+  <dt>Inventor</dt>
+  <dd itemprop="inventor" repeat>Primal de Lanerolle</dd>
+  <dd itemprop="inventor" repeat>Yoo Jeong Han</dd>
+  <dt>Current Assignee (The listed assignees may be inaccurate. Google has not performed a legal analysis and makes no representation or warranty as to the accuracy of the list.)</dt>
+  <dd itemprop="assigneeCurrent" repeat>
+    University of Illinois
+  </dd>
+
+  <dt>Original Assignee</dt>
+  <dd itemprop="assigneeOriginal" repeat>University of Illinois</dd>
+
+  <dt>Priority date (The priority date is an assumption and is not a legal conclusion. Google has not performed a legal analysis and makes no representation as to the accuracy of the date listed.)</dt>
+  <dd><time itemprop="priorityDate" datetime="2009-01-02">2009-01-02</a></dd>
+
+  <dt>Filing date</dt>
+  <dd><time itemprop="filingDate" datetime="2010-01-04">2010-01-04</a></dd>
+
+  <dt>Publication date</dt>
+  <dd><time itemprop="publicationDate" datetime="2012-01-10">2012-01-10</time></dd>
+
+  <dt>Grant date</dt>
+  <dd><time itemprop="grantDate" datetime="2012-01-10">2012-01-10</time></dd>
+
+  
+
+  <h2>Links</h2>
+
+  <ul>
+    
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="usptoLink">
+      <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect2=PTO1&amp;Sect2=HITOFF&amp;p=1&amp;u=/netahtml/PTO/search-bool.html&amp;r=1&amp;f=G&amp;l=50&amp;d=PALL&amp;RefSrch=yes&amp;Query=PN/8092995" itemprop="url" target="_blank"><span itemprop="text">USPTO</span></a>
+    </li>
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="usptoAssignmentLink">
+      <a href="https://assignment.uspto.gov/patent/index.html#/patent/search/resultFilter?searchInput=8092995" itemprop="url" target="_blank"><span itemprop="text">USPTO Assignment</span></a>
+    </li>
+
+    <li itemprop="links" itemscope repeat>
+      <meta itemprop="id" content="espacenetLink">
+      <a href="http://worldwide.espacenet.com/publicationDetails/biblio?CC=US&amp;NR=8092995B2&amp;KC=B2&amp;FT=D" itemprop="url" target="_blank"><span itemprop="text">Espacenet</span></a>
+    </li>
+    
+
+    
+
+    
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="globalDossierLink">
+        <a href="http://globaldossier.uspto.gov/#/result/patent/US/8092995/1" itemprop="url" target="_blank"><span itemprop="text">Global Dossier</span></a>
+      </li>
+      
+
+      
+
+      
+
+      
+
+      <li itemprop="links" itemscope repeat>
+        <meta itemprop="id" content="stackexchangeLink">
+        <a href="https://patents.stackexchange.com/questions/tagged/US8092995" itemprop="url"><span itemprop="text">Discuss</span></a>
+      </li>
+      
+  </ul>
+
+  <section>
+    <h2>Images</h2>
+    <ul>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/US8092995B2/US08092995-20120110-D00001.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/US8092995B2/US08092995-20120110-D00001.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/US8092995B2/US08092995-20120110-D00002.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/US8092995B2/US08092995-20120110-D00002.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/US8092995B2/US08092995-20120110-D00003.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/US8092995B2/US08092995-20120110-D00003.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/US8092995B2/US08092995-20120110-D00004.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/US8092995B2/US08092995-20120110-D00004.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/US8092995B2/US08092995-20120110-D00005.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/US8092995B2/US08092995-20120110-D00005.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/US8092995B2/US08092995-20120110-D00006.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/US8092995B2/US08092995-20120110-D00006.png">
+      </li>
+      <li itemprop="images" itemscope repeat>
+        <img itemprop="thumbnail" src="https://patentimages.storage.googleapis.com/thumbnails/US8092995B2/US08092995-20120110-D00007.png">
+        <meta itemprop="full" content="https://patentimages.storage.googleapis.com/US8092995B2/US08092995-20120110-D00007.png">
+      </li>
+      </ul>
+  </section>
+
+  <section>
+    <h2>Classifications</h2>
+    
+    <ul>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N</span>&mdash;<span itemprop="Description">MICROORGANISMS OR ENZYMES; COMPOSITIONS THEREOF; PROPAGATING, PRESERVING OR MAINTAINING MICROORGANISMS; MUTATION OR GENETIC ENGINEERING; CULTURE MEDIA</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/00</span>&mdash;<span itemprop="Description">Enzymes; Proenzymes; Compositions thereof; Processes for preparing, activating, inhibiting, separating or purifying enzymes</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/10</span>&mdash;<span itemprop="Description">Transferases (2.)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/12</span>&mdash;<span itemprop="Description">Transferases (2.) transferring phosphorus containing groups, e.g. kinases (2.7)</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N9/1205</span>&mdash;<span itemprop="Description">Phosphotransferases with an alcohol group as acceptor (2.7.1), e.g. protein kinases</span>
+            <meta itemprop="Leaf" content="true">
+            
+            <meta itemprop="FirstCode" content="true">
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K31/00</span>&mdash;<span itemprop="Description">Medicinal preparations containing organic active ingredients</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K31/70</span>&mdash;<span itemprop="Description">Carbohydrates; Sugars; Derivatives thereof</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K31/7042</span>&mdash;<span itemprop="Description">Compounds having saccharide radicals and heterocyclic rings</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K31/7052</span>&mdash;<span itemprop="Description">Compounds having saccharide radicals and heterocyclic rings having nitrogen as a ring hetero atom, e.g. nucleosides, nucleotides</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K31/706</span>&mdash;<span itemprop="Description">Compounds having saccharide radicals and heterocyclic rings having nitrogen as a ring hetero atom, e.g. nucleosides, nucleotides containing six-membered rings with nitrogen as a ring hetero atom</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K31/7064</span>&mdash;<span itemprop="Description">Compounds having saccharide radicals and heterocyclic rings having nitrogen as a ring hetero atom, e.g. nucleosides, nucleotides containing six-membered rings with nitrogen as a ring hetero atom containing condensed or non-condensed pyrimidines</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K31/7076</span>&mdash;<span itemprop="Description">Compounds having saccharide radicals and heterocyclic rings having nitrogen as a ring hetero atom, e.g. nucleosides, nucleotides containing six-membered rings with nitrogen as a ring hetero atom containing condensed or non-condensed pyrimidines containing purines, e.g. adenosine, adenylic acid</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K31/708</span>&mdash;<span itemprop="Description">Compounds having saccharide radicals and heterocyclic rings having nitrogen as a ring hetero atom, e.g. nucleosides, nucleotides containing six-membered rings with nitrogen as a ring hetero atom containing condensed or non-condensed pyrimidines containing purines, e.g. adenosine, adenylic acid having oxo groups directly attached to the purine ring system, e.g. guanosine, guanylic acid</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N</span>&mdash;<span itemprop="Description">MICROORGANISMS OR ENZYMES; COMPOSITIONS THEREOF; PROPAGATING, PRESERVING OR MAINTAINING MICROORGANISMS; MUTATION OR GENETIC ENGINEERING; CULTURE MEDIA</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N15/00</span>&mdash;<span itemprop="Description">Mutation or genetic engineering; DNA or RNA concerning genetic engineering, vectors, e.g. plasmids, or their isolation, preparation or purification; Use of hosts therefor</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N15/09</span>&mdash;<span itemprop="Description">Recombinant DNA-technology</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N15/63</span>&mdash;<span itemprop="Description">Introduction of foreign genetic material using vectors; Vectors; Use of hosts therefor; Regulation of expression</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N15/79</span>&mdash;<span itemprop="Description">Vectors or expression systems specially adapted for eukaryotic hosts</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12N15/85</span>&mdash;<span itemprop="Description">Vectors or expression systems specially adapted for eukaryotic hosts for animal cells</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q</span>&mdash;<span itemprop="Description">MEASURING OR TESTING PROCESSES INVOLVING ENZYMES OR MICROORGANISMS; COMPOSITIONS OR TEST PAPERS THEREFOR; PROCESSES OF PREPARING SUCH COMPOSITIONS; CONDITION RESPONSIVE CONTROL IN MICROBIOLOGICAL OR ENZYMOLOGICAL PROCESSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q1/00</span>&mdash;<span itemprop="Description">Measuring or testing processes involving enzymes, nucleic acids or microorganisms; Compositions therefor; Processes of preparing such compositions</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q1/48</span>&mdash;<span itemprop="Description">Measuring or testing processes involving enzymes, nucleic acids or microorganisms; Compositions therefor; Processes of preparing such compositions involving transferase</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q1/485</span>&mdash;<span itemprop="Description">Measuring or testing processes involving enzymes, nucleic acids or microorganisms; Compositions therefor; Processes of preparing such compositions involving transferase involving kinase</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q</span>&mdash;<span itemprop="Description">MEASURING OR TESTING PROCESSES INVOLVING ENZYMES OR MICROORGANISMS; COMPOSITIONS OR TEST PAPERS THEREFOR; PROCESSES OF PREPARING SUCH COMPOSITIONS; CONDITION RESPONSIVE CONTROL IN MICROBIOLOGICAL OR ENZYMOLOGICAL PROCESSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q1/00</span>&mdash;<span itemprop="Description">Measuring or testing processes involving enzymes, nucleic acids or microorganisms; Compositions therefor; Processes of preparing such compositions</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q1/68</span>&mdash;<span itemprop="Description">Measuring or testing processes involving enzymes, nucleic acids or microorganisms; Compositions therefor; Processes of preparing such compositions involving nucleic acids</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q1/6876</span>&mdash;<span itemprop="Description">Hybridisation probes</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q1/6883</span>&mdash;<span itemprop="Description">Hybridisation probes for diseases caused by alterations of genetic material</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q1/6886</span>&mdash;<span itemprop="Description">Hybridisation probes for diseases caused by alterations of genetic material for cancer</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">G</span>&mdash;<span itemprop="Description">PHYSICS</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">G01</span>&mdash;<span itemprop="Description">MEASURING; TESTING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">G01N</span>&mdash;<span itemprop="Description">INVESTIGATING OR ANALYSING MATERIALS BY DETERMINING THEIR CHEMICAL OR PHYSICAL PROPERTIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">G01N33/00</span>&mdash;<span itemprop="Description">Investigating or analysing materials by specific methods not covered by the preceding groups</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">G01N33/48</span>&mdash;<span itemprop="Description">Biological material, e.g. blood, urine; Haemocytometers</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">G01N33/50</span>&mdash;<span itemprop="Description">Chemical analysis of biological material, e.g. blood, urine; Testing involving biospecific ligand binding methods; Immunological testing</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">G01N33/53</span>&mdash;<span itemprop="Description">Immunoassay; Biospecific binding assay</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">G01N33/574</span>&mdash;<span itemprop="Description">Immunoassay; Biospecific binding assay for cancer</span>
+            <meta itemprop="Leaf" content="true">
+            
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A</span>&mdash;<span itemprop="Description">HUMAN NECESSITIES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61</span>&mdash;<span itemprop="Description">MEDICAL OR VETERINARY SCIENCE; HYGIENE</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K</span>&mdash;<span itemprop="Description">PREPARATIONS FOR MEDICAL, DENTAL, OR TOILET PURPOSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">A61K48/00</span>&mdash;<span itemprop="Description">Medicinal preparations containing genetic material which is inserted into cells of the living body to treat genetic diseases; Gene therapy</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q</span>&mdash;<span itemprop="Description">MEASURING OR TESTING PROCESSES INVOLVING ENZYMES OR MICROORGANISMS; COMPOSITIONS OR TEST PAPERS THEREFOR; PROCESSES OF PREPARING SUCH COMPOSITIONS; CONDITION RESPONSIVE CONTROL IN MICROBIOLOGICAL OR ENZYMOLOGICAL PROCESSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q2600/00</span>&mdash;<span itemprop="Description">Oligonucleotides characterized by their use</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q2600/136</span>&mdash;<span itemprop="Description">Screening for pharmacological compounds</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      <li>
+        <ul itemprop="cpcs" itemscope repeat>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C</span>&mdash;<span itemprop="Description">CHEMISTRY; METALLURGY</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12</span>&mdash;<span itemprop="Description">BIOCHEMISTRY; BEER; SPIRITS; WINE; VINEGAR; MICROBIOLOGY; ENZYMOLOGY; MUTATION OR GENETIC ENGINEERING</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q</span>&mdash;<span itemprop="Description">MEASURING OR TESTING PROCESSES INVOLVING ENZYMES OR MICROORGANISMS; COMPOSITIONS OR TEST PAPERS THEREFOR; PROCESSES OF PREPARING SUCH COMPOSITIONS; CONDITION RESPONSIVE CONTROL IN MICROBIOLOGICAL OR ENZYMOLOGICAL PROCESSES</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q2600/00</span>&mdash;<span itemprop="Description">Oligonucleotides characterized by their use</span>
+            
+            
+            
+          </li>
+          <li itemprop="cpcs" itemscope repeat>
+            <span itemprop="Code">C12Q2600/158</span>&mdash;<span itemprop="Description">Expression markers</span>
+            <meta itemprop="Leaf" content="true">
+            <meta itemprop="Additional" content="true">
+            
+          </li>
+          </ul>
+      </li>
+      </ul>
+  </section>
+
+  <section itemprop="abstract" itemscope>
+    <h2>Abstract</h2>
+    
+    <div itemprop="content" html><abstract mxw-id="PA88093011" lang="EN" load-source="patent-office">
+    <div num="p-0001" class="abstract">Selective expression of a pseudogene of myosin light chain kinase is found in cancer cells and tissues but not in normal cells and tissues. The pseudogene is expressed, and when expressed it inhibits expression of the ancestral myosin light chain kinase. This widespread expression among cancer cell types and the selective expression in cancer cells versus normal cells opens the door to many diagnostic and therapeutic applications.</div>
+  </abstract>
+  </div>
+  </section>
+
+  <section itemprop="description" itemscope>
+    <h2>Description</h2>
+    
+    <div itemprop="content" html><div mxw-id="PDES44151792" lang="EN" load-source="patent-office" class="description">
+    
+    <p num="p-0002">This application claims the benefit of and incorporates the content of provisional application Ser. No. 61/142,259 filed Jan. 2, 2009.</p>
+    
+    
+    <p num="p-0003">This invention was made with government support under NIH RO1 HL 59618 and NIH RO1 HL 64702 awarded by the National Institutes of Health. The government has certain rights in the invention.</p>
+    
+    
+    <heading>TECHNICAL FIELD OF THE INVENTION</heading>
+    <p num="p-0004">This invention is related to the area of cancer diagnostics and therapeutics. In particular, it relates to use of the pseudogene of MYLK.</p>
+    <heading>BACKGROUND OF THE INVENTION</heading>
+    <p num="p-0005">Pseudogenes have been defined as nonfunctional genomic sequences that are originally derived from paralogous functional genes. Although the biological importance of pseudogenes is not clear, pseudogenes have been widely used as evolution fossils. During the evolution to higher primates, a functional MYLK (myosin light chain kinase) gene was partially duplicated, making a pseudo-MYLK (MYLKP) gene in humans, chimpanzees, and gorillas. MLCK (myosin light chain kinase protein) is of critical importance in regulating cytoskeletal dynamics that are necessary for cell division and metastasis by increasing myosin-actin cross-bridges</p>
+    <p num="p-0006">A functional gene encoding MLCK, namely MYLK, is located on chromosome 3q21, spanning over 270 kb and containing at least 34 exons that encode 3 proteins: non-muscle MLCK (nmMLCK, 220 kDa), smooth muscle MLCK (smMLCK, 130 kDa) and Telokin (20 kDa). The nmMLCK is translated from exon 1 to exon 34 while the smMLCK is translated from exon 18 to exon 34. A number of isoforms resulting from different splicing patterns are also known. A pseudo-MYLK gene, in contrast, is located on chromosome 3p12, and contains only 5 exons which correspond to exons 13-17 of the functional gene. See Brand-Arpon et al., “A genomic region encompassing a cluster of olfactory receptor genes ad a myosin light chain kinase (MYLK) gene is duplicated on human chromosome regions 3q13-q21 and 3p13<i>” Genomics </i>56, 98-110, 1998.</p>
+    <p num="p-0007">There is a continuing need in the art to identify techniques which can detect cancer early in the general population and agents which can effectively inhibit the growth or stimulate the death of cancer cells.</p>
+    <heading>SUMMARY OF THE INVENTION</heading>
+    <p num="p-0008">According to one aspect of the invention a method aids in detecting a malignancy in a human. A body sample of the human is tested for the presence of an expression product of pseudogene MYLKP (myosin light chain kinase). The body sample is selected from the group consisting of blood, serum, and plasma. The human is identified as likely to have a malignancy if the expression product is present and detected in the body sample.</p>
+    <p num="p-0009">Another aspect of the invention is an isolated RNA molecule that is expressed from pseudogene MYLKP (myosin light chain kinase).</p>
+    <p num="p-0010">An additional aspect of the invention is a method of treating a primate that has a malignancy. The primate is selected from the group consisting of human, chimpanzee, and gorilla. A specific inhibitor of nmMYLK (non-muscle myosin light chain kinase) expression or enzyme activity is administered to the primate. The inhibitor induces death or growth arrest in malignant cells of the primate selectively relative to non-malignant cells.</p>
+    <p num="p-0011">Yet another aspect of the invention is a method to aid in detecting a malignancy in a human. A tissue sample of the human suspected of being malignant is tested for the protein expression product of smMYLK. The tissue sample is identified as likely to be malignant if the protein expression product is down-regulated relative to a control tissue of the human.</p>
+    <p num="p-0012">An aspect of the invention is a method to screen for drug candidates potentially useful for treating malignancy in a primate selected from the group consisting of human, chimpanzee, and gorilla. Primate cells selected from the group consisting of human, chimpanzee, and gorilla cells are treated with a test substance. The treated cells are assayed to determine relative expression of nmMYLK and smMYLK. A test substance is identified as a drug candidate potentially useful for treating malignancy if the test substance selectively inhibits expression of nmMYLK relative to smMYLK.</p>
+    <p num="p-0013">Another aspect of the invention is a method to screen for drug candidates potentially useful for treating malignancy in a primate selected from the group consisting of human, chimpanzee, and gorilla. Proteins nmMLCK and smMLCK are contacted with a test substance. The proteins are selected from the group consisting of human, chimpanzee, and gorilla proteins. The proteins are assayed to determine relative activity of the proteins in the presence and in the absence of the test substance. A test substance is identified as a drug candidate potentially useful for treating a malignancy if the test substance selectively inhibits nmMLCK activity relative to smMLCK activity.</p>
+    <p num="p-0014">An additional aspect of the invention is a fusion construct useful for obtaining cancer-specific expression. A promoter from pseudogene MYLKP is operably linked to a coding sequence for a cytotoxic product. The product may be a fusion protein or a singleton cytotoxic protein.</p>
+    <p num="p-0015">These and other embodiments which will be apparent to those of skill in the art upon reading the specification provide the art with additional tools for diagnosing and treating cancers in higher primates.</p>
+    
+    
+    <description-of-drawings>
+      <heading>BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+      <p num="p-0016"> <figref idrefs="DRAWINGS">FIG. 1</figref> shows the MYLK gene structure in the mouse, including three proteins and four promoters.</p>
+      <p num="p-0017"> <figref idrefs="DRAWINGS">FIG. 2</figref> shows expression of MLCK proteins in the presence of expressed pseudogene in human uterine fibroblast cells. Pseudogene expression decreases smooth muscle MLCK expression.</p>
+      <p num="p-0018"> <figref idrefs="DRAWINGS">FIG. 3</figref> shows quantitation of smooth muscle MLCK expression in HUF cells infected with the pseudogene in a lentivirus or control lentivirus. Smooth muscle MLCK is expressed as a fraction of total MLCK.</p>
+      <p num="p-0019"> <figref idrefs="DRAWINGS">FIG. 4</figref> shows that MYLKP mRNA is only expressed in cancer cells or tissue and not in normal cells.</p>
+      <p num="p-0020"> <figref idrefs="DRAWINGS">FIG. 5</figref> shows the structure of MYLK gene in rats and human. Note that smMLCK is encoded by exons 15-32 in rats while it is encoded by exons 18-34 in humans.</p>
+      <p num="p-0021"> <figref idrefs="DRAWINGS">FIG. 6</figref> shows the exon-intron structure in rat and human MYLK genes. The smMLCK is translated from the start codon (ATG) located in exon 15 and exon 18 of the rat and human genes. The introns preceding the start codons have promoter elements controlling the expressions of smMLCK.</p>
+      <p num="p-0022"> <figref idrefs="DRAWINGS">FIGS. 7A-7B</figref> show isolation and analysis of intron 14 of the rat MYLK gene. (<figref idrefs="DRAWINGS">FIG. 7A</figref>) Exon-intron structure of the rat smMLCK gene. The translation start site of the smMLCK in exon 15 is shown (ATG). (<figref idrefs="DRAWINGS">FIG. 7B</figref>) DNA sequences of intron 14 from SHR (SEQ ID NO: 3) and WKY (SEQ ID NO: 4) rats. Intron <b>14</b> was isolated from genomic DNA from SHR and WKY rats using PCR. DNA sequences of the 5′ and 3′ primers are shown (italics, underlined). The transcription start site (+1) of smMLCK was identified using primer extension and 5′ RACE. Analysis of transcription elements using the Transcription Element Search System identified &gt;<b>55</b> elements, including SRF (CArG box) and TBP (TATA box) binding sites. Comparison of these sequences revealed the presence of a 12-base pair insertion (Insertion) in the SHR sequence not found in the WKY sequence.</p>
+      <p num="p-0023"> <figref idrefs="DRAWINGS">FIG. 8</figref> shows homology analysis of the intron 17 of the human MYLK gene among species. The blue arrow indicates the orientation of DNA sequences (3′&lt;- 5′) and the blue letters indicate the positions of nucleotides. Darkness gradients from black to white represent homology from 100% - 0%. The DNA sequences around TATA (SEQ ID NO: 5, 7, 9, 11, 13, and 15) and CArG (SEQ ID NO: 6, 8, 10, 12, 14, and 16) box are from the antisense strand of MYLK gene, showing reverse complementary sequences. Note that DNA sequences of intron 17 in humans are highly conserved among the species. Human (SEQ ID NO: 5 and 6), chimpanzee (SEQ ID NO: 7 and 8), mouse (SEQ ID NO: 9 and 10), rat (SEQ ID NO: 11 and 12), dog (SEQ ID NO: 13 and 14), chicken (SEQ ID NO: 15 and 16).</p>
+    </description-of-drawings>
+    
+    
+    <heading>DETAILED DESCRIPTION OF THE INVENTION</heading>
+    <p num="p-0024">The inventors have discovered that the pseudo-gene MYLKP has a functional promoter for smMLCK at the intron between exons 17-18 and transcribes at least a part of the gene for smMYLK. We performed reverse transcriptase PCR (RT-PCR) and Northern blot analyses using RNAs purified from various human cancerous and non-cancerous tissues. In humans with no cancer, none of tissues or cultured cells expressed the pseudo-MYLK. However, all of the cancerous tissues and cell lines that we have tested express mRNA from MYLKP. These data strongly suggest that the MYLKP gene is selectively expressed in the development of cancers. This is, to the best of our knowledge, the first association of pseudogene expression with human disease. Pseudogenes, in general, may be important in the development of a variety of human diseases.</p>
+    <p num="p-0025">We have further found that the expression of the smooth muscle MLCK is greatly reduced in cells that express the pseudogene. The combined findings of cancer-selective expression and the negative effects of inhibiting smooth muscle MLCK on cell motility and cell survival, provide an opportunity for differential expression and effects in cancer versus normal cells.</p>
+    <p num="p-0026">The MYLKP gene is found in all higher primates except the gibbon. It is found in humans, chimpanzees, and gorillas. The pseudogene is the result of gene duplication, not a retrotransposition. Brand-Arpon et al. report that the pseudogene contains several deleterious mutations. It contains a frame shift mutation that results in multiple stop codons and a potential 45 amino acid residue protein.</p>
+    <p num="p-0027">Types of cancers in which expression of pseudo-MLCK has been found are cervical, leukemia, uterus, colon, bladder, lymph node, and vulva. Because of the breadth of these tumor types, other types as well are expected to be involved, including, breast, prostate, brain, head and neck, liver, pancreas, testes, kidney, lung, bone.</p>
+    <p num="p-0028">When testing a body sample for the presence of an expression product of pseudogene MYLKP (myosin light chain kinase), either a protein based or an RNA based assay can be used. If an RNA based assay is used, typically a reverse transcription reaction will be used, followed by an amplification reaction. These reactions are known in the art and any of a variety can be used, including but not limited to polymerase chain reaction, rolling circle amplification, emulsion amplification, and solid phase amplification. Products can be identified by any means known in the art, including size-based means, such as gel electrophoresis. The body sample may be blood, serum, or plasma, or fractions or processed samples from these sources. Alternatively other body fluids including lymph, urine, tears, saliva, sputum, stool, can be tested. The human is identified as likely to have a malignancy if the expression product is present and detected in the body sample. Control samples from one or more individuals who do not have cancer or who are not suspected of having cancer may be used. This may be based on medical history, or any other technical assessment, including CT scans, MRI scans, blood tests, etc.</p>
+    <p num="p-0029">An isolated RNA molecule that is expressed from pseudogene MYLKP (myosin light chain kinase) can be obtained by isolation from natural expressing cells or from cells that are engineered to express the pseudogene. For example lentivirus constructs can be used to infect cells, and the RNA can be isolated from the infected cells. The appropriate RNA molecules can be isolated by hybridization to probes. Suitable probes can be designed based on the sequences of the pseudogene. Alternatively, RNA molecules can be transcribed in vitro or synthesized. The RNA molecule will typically be at least 18, at least 20, at least 30, at least 50, at least 75, at least 100, at least 150 ribonucleobases in length.</p>
+    <p num="p-0030">Primates, particularly those that express the pseudogene MYLKP and that have a malignancy can be treated using a specific inhibitor of nmMYLK (non-muscle myosin light chain kinase) expression or enzyme activity. The inhibitor induces death or growth arrest in malignant cells of the primate selectively relative to non-malignant cells. Typically the inhibitor will be one that is complementary to the 5′-portions of the nmMLCK transcript but not to the smMLCK transcript. The inhibitor may be an inhibitory RNA such as an siRNA, an antisense RNA, and RNAi, etc. Alternatively the inhibitor may specifically bind to the promoter of the nmMLCK transcript but not to the promoter of the smMLCK transcript. Binding may be based on sequence complementarity. Alternatively, the inhibitor may be an antibody that is specific for epitopes that are found in the N-terminal portion of the actin binding domain, i.e., epitopes that are not found in the smMLCK protein.</p>
+    <p num="p-0031">The nmMLCK protein is 1914 amino acids in humans, whereas the smMLCK is 991 amino acids. See Lazar and Garcia, Genomics 1999, 57:256-67 and Brand-Arpon, 1999, supra. The MYLKP is described under GeneID: 9430 (NCBI, NLM). See also, GenBank U48959 and GenBank AF042089. The sequence information in these publicly available documents are incorporated by reference herein.</p>
+    <p num="p-0032">Another way to detect a malignancy in a human involves testing a tissue sample suspected of being malignant. The protein expression product of smMYLK is detected using any technique that can identify it. This may involve an antibody or an enzyme assay, for example. It may additionally involve a separation technique such as in an immunoblot. Down-regulation of smMYLK can be assessed relative to a control tissue of the human.</p>
+    <p num="p-0033">Drug candidates potentially useful for treating a malignancy in a primate can be screened by treating cells of a primate with a test substance. The treated cells are assayed to determine relative expression of nmMYLK and smMYLK. A test substance is identified as a drug candidate potentially useful for treating malignancy if the test substance selectively inhibits expression of nmMYLK relative to smMYLK or relative to telokin or both. Expression can be assayed by any means known in the art including but not limited to a Western blot, a Northern blot, and an antibody, a hybridization technique and/or a reverse transcriptase-polymerase chain reaction.</p>
+    <p num="p-0034">Drug candidates can also be screened for potentially useful substances for treating malignancy in a primate by contacting proteins nmMLCK and smMLCK with a test substance. The proteins are assayed to determine relative activity of the proteins in the presence and in the absence of the test substance. A test substance is identified as a drug candidate potentially useful for treating a malignancy if the test substance selectively inhibits nmMLCK activity relative to smMLCK activity.</p>
+    <p num="p-0035">Fusion constructs may be used to obtain cancer-specific expression. A promoter from pseudogene MYLKP can be operably linked to a nucleic acid coding sequence for a cytotoxic product. The product may be a fusion protein or a singleton cytotoxic protein. The toxin may be for example a biological toxin such as shiga toxin, clostridium toxin, pseudomonas toxin. The toxin may be an enzyme that converts a pro-drug to a cytotoxic drug. Nucleic acid constructs which encode the fusion protein or singleton cytotoxic protein or enzyme may also be useful as a means of administration and introduction of the encoded protein to a cell in the body. Optionally, an upstream transcription regulatory region from MYLKP can be used in the fusion construct to obtain or enhance tumor specific expression.</p>
+    <heading>EXAMPLE 1</heading>
+    <heading>Characterization of the smMLCK Promoter in Humans</heading>
+    <p num="p-0036">In humans, a single functional human MYLK gene (GenBank Accession Number U48959) (1,2) is located on chromosome 3qcen-q21. It spans &gt;272 kb and contains at least 34 exons (1-3) while the rat MYLK gene contains 32 exons and spans 177 Kb (<figref idrefs="DRAWINGS">FIG. 5</figref>). Both code for 3 proteins, non-muscle MLCK (nmMLCK), smooth muscle MLCK (smMLCK) and telokin. In humans, nmMLCK, smMLCK and telokin are transcribed by exons 1-34 (4), exons 18-34 and exons 29-34 (5), respectively.</p>
+    <p num="p-0037">Analysis of the exon-intron structure in the human MYLK gene using EMBL Ensembl (Transcript ENST00000360304) showed that smMLCK is encoded from exon 18 through exon 34 and the translation start site (ATG) for smMLCK is located in exon 18 (<figref idrefs="DRAWINGS">FIG. 6</figref>). We have extensively characterized intron 14 in normotensive and hypertensive rats (6) and shown that it contains TATA and CArG elements typical of promoters. Comparing the human and rat genes revealed that the intron preceding exon 18 (intron 17) in humans has the same promoter elements as intron 14 in rats (<figref idrefs="DRAWINGS">FIG. 7</figref>) (See <figref idrefs="DRAWINGS">FIG. 3</figref> of reference 6). Therefore, we performed comparative analyses of the DNA sequences found in various vertebrate species using the UCSC genome browser (<figref idrefs="DRAWINGS">FIG. 8</figref>). This analysis was based on the hypothesis that important regulatory elements of a promoter are conserved between species due to functional constraints. It showed that the promoter sequences of human intron 17 are highly conserved among chimps, dogs, mice, chickens and rats (<figref idrefs="DRAWINGS">FIG. 8</figref>). Importantly, the TATA and CArG elements are 100% conserved among these species.</p>
+    <p num="p-0038">We, therefore, isolated intron 17 from genomic DNA obtained from HeLa cells using a PCR method, cloned it into a pGL3B-firefly luciferase reporter gene and transfected A7r5 rat aorta smooth muscle cells using Fugene transfection system (Roche). The luciferase assay showed that the intron 17 promoter from HeLa cells has relatively strong activity compared to empty pGL3B reporter gene (2,392±320). The activities of the human and rat promoters, 18,510±3,168 and 15,951±2,137 relative units, respectively, were very similar. Importantly, these data established that intron 17 contains the promoter for the human smMLCK gene.</p>
+    <heading>EXAMPLE 2</heading>
+    <heading>Expression of MLCK Proteins in the Presence of Expressed Pseudogene in Human Uterine Fibroblast Cells</heading>
+    <p num="p-0039">Control human uterine fibroblasts (HUF cells), HUF cells infected with a control lentivirus (FUGW) or pMYLK lentivirus or HeLa cells grown in culture were washed in PBS and extracted in 9M urea, 5 mM DTT, 20 mM Tris, pH 7.5. The cell extracts were collected by centrifugation and the protein concentration was determined. Approximately 50 μg of cell extract were incubated with one third of the volume of 3% SDS, 50 mM β-mercaptoethanol, 30% glycerol, 150 mM Tris, pH 6.7 for 30 minutes at room temperature and applied to a 7.5% polyacrylamide gel. The proteins were transferred to nitrocellulose, probed with an affinity purified antibody to MLCK and the immunoreactive bands were visualized using enhanced chemiluminescence (ECL, Roche). The bands were quantified densitometrically and ratio of the band representing smMLCK to total MLCK (smMLCK plus nmMLCK) was calculated. The data represent an N=6-7. The error bars indicate the standard error of the mean. See <figref idrefs="DRAWINGS">FIG. 2</figref>.</p>
+    <heading>EXAMPLE 3</heading>
+    <heading>Quantitation of Smooth Muscle MLCK Expression in HUF Cells Infected with the Pseudogene in a Lentivirus or Control Lentivirus</heading>
+    <p num="p-0040">Control human uterine fibroblasts (HUF cells), HUF cells infected with a control lentivirus (FUGW) or pMYLK lentivirus were analyzed by western blotting as described above. The bands were quantified densitometrically and ratio of the band representing smMLCK to total MLCK (smMLCK plus nmMLCK) was calculated. The data represent N=6-7. The error bars indicate the standard error of the mean. See <figref idrefs="DRAWINGS">FIG. 3</figref>.</p>
+    <heading>EXAMPLE 4</heading>
+    <heading>MYLKP mRNA is Only Expressed in Cancer Cells or Tissue and not in Normal Cells</heading>
+    <p num="p-0041">Quantitative PCR was performed on various human normal and cancer cells and tissues using the following primer set: 5′ TGA ACT TGG TGG TCT TGA GG 3′ (SEQ ID NO: 1) and 5′ ATG GAT CTC CGT GCC AAC C 3′(SEQ ID NO:2). One of the primers was radiolabeled to increase the sensitivity. DNA (40 ng) was incubated with 1 μM of each primer, TAG DNA polymerase. The PCR reaction was run for 17 cycles and the PCR products were analyzed on a 1.5% agarose gel and analyzed using a phosphorimager. Because the primers flank a region of MYLK and corresponding region of MYLKP that contains a 73 by deletion, the predicted PCR products for the MYLK and MYLKP are 667 and 594 bp, respectively. See <figref idrefs="DRAWINGS">FIG. 4</figref>.</p>
+    <heading>REFERENCES</heading>
+    <p num="h-0015">All cited references are expressly incorporated herein.</p>
+    <p num="p-0042">1. Potier, M. C., Chelot, E., Pekarsky, Y., Gardiner, K., Rossier, J. and Turnell, W. G. The human myosin light chain kinase (MLCK) from Hippocampus: Cloning, sequencing, expression, and localization to 3qcen-q21. Genomics 29, 562-570, 1995.</p>
+    <p num="p-0043">2. Garcia, J., Lazar, V., Gilbert-McClain, L., Gallagher, P., and Verin, A. Myosin light chain kinase in endothelium: Molecular cloning and regulation. Am. J. Respir. Cell Mol. Biol. 16: 489-494, 1997.</p>
+    <p num="p-0044">3. Watterson, D. M., Schavocky, J. P., Guo, G., Weiss, C., Chlenski, A., Shirinsky, V. P., Van Eldik, L. J. and Haiech, J. Analysis of the kinase related protein gene found at human chromosome 3q21 in a multi gene cluster: organization, expression, alternative splicing, and polymorphic marker. J. Cell. Biochem. 75: 481-491, 1999.</p>
+    <p num="p-0045">4. Gallagher, P. J., Herring, B. P. and Stull, J. T. Myosin light chain kinases. J. Muscle. Res. Cell. Motil. 18: 1-16 (1997)</p>
+    <p num="p-0046">5. Gallagher, P. J., and Herring, B. P. The carboxyl terminus of the smooth muscle myosin light chain kinase is expressed as an independent protein, telokin. J. Biol. Chem. 266: 23945-52, 1991.</p>
+    <p num="p-0047">6. Han, Y. J., Hu, W. Y., Chernaya, O., Antic, N., Gu, L., Gupta, M., Piano, M. and de Lanerolle, P. Increased myosin light chain kinase expression in hypertension: Regulation by SRF via an insertion mutation in the promoter. Mol. Biol. Cell. 17: 4039-50, 2006.</p>
+    
+  </div>
+  </div>
+  </section>
+
+  <section itemprop="claims" itemscope>
+    <h2>Claims (<span itemprop="count">7</span>)</h2>
+    
+    <div itemprop="content" html><div mxw-id="PCLM38618662" lang="EN" load-source="patent-office" class="claims">
+    <div class="claim"> <div id="CLM-00001" num="00001" class="claim">
+      <div class="claim-text">1. A method to aid in detecting a malignancy in a human, comprising the steps of:
+<div class="claim-text">testing a body sample of the human for the presence of an expression product of MYLKP (myosin light chain kinase pseudogene), wherein the body sample is selected from the group consisting of blood, serum, plasma, and tissue sample suspected of being malignant; and</div>
+<div class="claim-text">identifying the human as likely to have a malignancy if the expression product is present.</div>
+</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00002" num="00002" class="claim">
+      <div class="claim-text">2. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the expression product in an RNA.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00003" num="00003" class="claim">
+      <div class="claim-text">3. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the step of testing comprises hybridization.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00004" num="00004" class="claim">
+      <div class="claim-text">4. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the step of testing comprises amplification.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00005" num="00005" class="claim">
+      <div class="claim-text">5. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the step of testing comprises a size measurement.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00006" num="00006" class="claim">
+      <div class="claim-text">6. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the pseudogene is at chromosome 3p13.</div>
+    </div>
+    </div> <div class="claim-dependent"> <div id="CLM-00007" num="00007" class="claim">
+      <div class="claim-text">7. The method of <claim-ref idref="CLM-00001">claim 1</claim-ref> wherein the amount of the expression product is compared to a control sample from one or more humans that do not have a malignancy.</div>
+    </div>
+  </div> </div>
+  </div>
+  </section>
+
+  <section itemprop="application" itemscope>
+
+    <section itemprop="metadata" itemscope>
+        <span itemprop="applicationNumber">US12651810</span>
+        <span itemprop="priorityDate">2009-01-02</span>
+        <span itemprop="filingDate">2010-01-04</span>
+        <span itemprop="title">Expressed pseudogene regulates gene expression 
+       </span>
+        <span itemprop="ifiStatus">Expired - Fee Related</span>
+        
+        <a href="/patent/US8092995B2/en">
+            <span itemprop="representativePublication">US8092995B2</span>
+            (<span itemprop="primaryLanguage">en</span>)
+        </a>
+    </section>
+
+    <h2>Priority Applications (2)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US14225909</span>
+                   <span itemprop="isUsProvisional">true</span>
+                   
+                <td itemprop="priorityDate">2009-01-02</td>
+                <td itemprop="filingDate">2009-01-02</td>
+                <td itemprop="title"></td>
+              </tr><tr itemprop="priorityApps" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12651810</span>
+                   
+                   <a href="/patent/US8092995B2/en">
+                        <span itemprop="representativePublication">US8092995B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2009-01-02</td>
+                <td itemprop="filingDate">2010-01-04</td>
+                <td itemprop="title">Expressed pseudogene regulates gene expression 
+       </td>
+              </tr>
+           </tbody>
+       </table>
+
+    <h2>Applications Claiming Priority (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                    <th>Title</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="appsClaimingPriority" itemscope repeat>
+                <td>
+                   <span itemprop="applicationNumber">US12651810</span>
+                   <a href="/patent/US8092995B2/en">
+                        <span itemprop="representativePublication">US8092995B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                <td itemprop="priorityDate">2009-01-02</td>
+                <td itemprop="filingDate">2010-01-04</td>
+                <td itemprop="title">Expressed pseudogene regulates gene expression 
+       </td>
+              </tr>
+           </tbody>
+       </table>
+
+    
+
+    
+
+    <h2>Publications (2)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Publication Number</th>
+                    <th>Publication Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="pubs" itemscope repeat>
+                <td>
+                   <span itemprop="publicationNumber">US20100173975A1</span>
+                   
+                   <span itemprop="isApplication">true</span>
+                   
+                   <a href="/patent/US20100173975A1/en">US20100173975A1
+                       (<span itemprop="primaryLanguage">en</span>)
+                   </a>
+                </td>
+                <td itemprop="publicationDate">2010-07-08</td>
+              </tr><tr itemprop="pubs" itemscope repeat>
+                <td>
+                   <span itemprop="publicationNumber">US8092995B2</span>
+                   
+                   
+                   <span itemprop="thisPatent">true</span>
+                   <a href="/patent/US8092995B2/en">US8092995B2
+                       (<span itemprop="primaryLanguage">en</span>)
+                   </a>
+                </td>
+                <td itemprop="publicationDate">2012-01-10</td>
+              </tr>
+           </tbody>
+        </table>
+
+  </section>
+
+  <section itemprop="family" itemscope>
+    <h1>Family</h1>
+    <h2>ID=42312115</h2>
+
+    <h2>Family Applications (1)</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Application Number</th>
+                    <th>Title</th>
+                    <th>Priority Date</th>
+                    <th>Filing Date</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr itemprop="applications" itemscope repeat>
+                <td>
+                    <span itemprop="applicationNumber">US12651810</span>
+                    <span itemprop="ifiStatus">Expired - Fee Related</span>
+                    
+                    <a href="/patent/US8092995B2/en">
+                        <span itemprop="representativePublication">US8092995B2</span>
+                          (<span itemprop="primaryLanguage">en</span>)
+                      </a>
+                </td>
+                <td itemprop="priorityDate">2009-01-02</td>
+                <td itemprop="filingDate">2010-01-04</td>
+                <td itemprop="title">Expressed pseudogene regulates gene expression 
+       </td>
+              </tr>
+           </tbody>
+        </table>
+
+    
+
+    
+
+    <h2>Country Status (1)</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Country</th>
+            <th>Link</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr itemprop="countryStatus" itemscope repeat>
+            <td>
+              <span itemprop="countryCode">US</span>
+                (<span itemprop="num">1</span>)
+              <meta itemprop="thisCountry" content="true">
+              
+              
+            </td>
+            <td>
+              <a href="/patent/US8092995B2/en">
+                <span itemprop="representativePublication">US8092995B2</span>
+                  (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            </td>
+          </tr>
+      </tbody>
+    </table>
+
+    
+
+    
+
+    <h2>Citations (2)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20060211017A1/en">
+              <span itemprop="publicationNumber">US20060211017A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2001-08-02</td>
+          <td itemprop="publicationDate">2006-09-21</td>
+          <td><span itemprop="assigneeOriginal">Chinnaiyan Arul M</span></td>
+          <td itemprop="title">Expression profile of prostate cancer 
+       </td>
+        </tr><tr itemprop="backwardReferencesOrig" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7186512B2/en">
+              <span itemprop="publicationNumber">US7186512B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-06-26</td>
+          <td itemprop="publicationDate">2007-03-06</td>
+          <td><span itemprop="assigneeOriginal">Cold Spring Harbor Laboratory</span></td>
+          <td itemprop="title">Methods and compositions for determining methylation profiles 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+
+    
+
+    </section>
+
+  <section>
+    <h2>Patent Citations (2)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Priority date</th>
+          <th>Publication date</th>
+          <th>Assignee</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20060211017A1/en">
+              <span itemprop="publicationNumber">US20060211017A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2001-08-02</td>
+          <td itemprop="publicationDate">2006-09-21</td>
+          <td><span itemprop="assigneeOriginal">Chinnaiyan Arul M</span></td>
+          <td itemprop="title">Expression profile of prostate cancer 
+       </td>
+        </tr><tr itemprop="backwardReferences" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US7186512B2/en">
+              <span itemprop="publicationNumber">US7186512B2</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+            <span itemprop="examinerCited">*</span>
+            
+          </td>
+          <td itemprop="priorityDate">2002-06-26</td>
+          <td itemprop="publicationDate">2007-03-06</td>
+          <td><span itemprop="assigneeOriginal">Cold Spring Harbor Laboratory</span></td>
+          <td itemprop="title">Methods and compositions for determining methylation profiles 
+       </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Non-Patent Citations (15)</h2>
+    <table>
+      <caption>* Cited by examiner, † Cited by third party</caption>
+      <thead>
+        <tr>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">"<a href='http://scholar.google.com/scholar?q="Homo+sapiens+chromosome+3%2C+olfactory+receptor+pseudogene+cluster+1%2C+complete+sequence%2C+and+myosin+light+chain+kinase+%28MLCK%29+pseudogene%2C+partial+sequence"'>Homo sapiens chromosome 3, olfactory receptor pseudogene cluster 1, complete sequence, and myosin light chain kinase (MLCK) pseudogene, partial sequence</a>", GenBank: AF042089.1, dated Nov. 2, 2000.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">"<a href='http://scholar.google.com/scholar?q="Homo+sapiens+long+myosin+light+chain+kinase+mRNA%2C+complete+cds"'>Homo sapiens long myosin light chain kinase mRNA, complete cds</a>", GenBank: AY339601.1, dated Apr. 19, 2004.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">"<a href='http://scholar.google.com/scholar?q="Homo+sapiens+myosin+light+chain+kinase+%28MLCK%29+mRNA%2C+complete+cds"'>Homo sapiens myosin light chain kinase (MLCK) mRNA, complete cds</a>", GenBank: U48959.2, dated Mar. 14, 2000.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">"<a href='http://scholar.google.com/scholar?q="Homo+sapiens+myosin+light+chain+kinase+isoform+2+%28MLCK%29+mRNA%2C+complete+cds"'>Homo sapiens myosin light chain kinase isoform 2 (MLCK) mRNA, complete cds</a>", GenBank: AF069601.2 dated Mar. 14, 2000.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">"<a href='http://scholar.google.com/scholar?q="Homo+sapiens+myosin+light+chain+polypeptide+kinase+isoform+1+%28MYLK%29+mRNA%2C+complete+cds%2C+alternatively+spliced"'>Homo sapiens myosin light chain polypeptide kinase isoform 1 (MYLK) mRNA, complete cds, alternatively spliced</a>", GenBank: AY424270.1, dated Dec. 23, 2004.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">"<a href='http://scholar.google.com/scholar?q="Homo+sapiens+myosin+light+chain+polypeptide+kinase+isoform+2+%28MYLK%29+mRNA%2C+complete+cds%2C+alternatively+spliced"'>Homo sapiens myosin light chain polypeptide kinase isoform 2 (MYLK) mRNA, complete cds, alternatively spliced</a>", GenBank: AY424269.1, dated Dec. 23, 2004.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">"<a href='http://scholar.google.com/scholar?q="MYLK+Myosin+Light+Chain+Kinase"'>MYLK Myosin Light Chain Kinase</a>" Entrez Gene, GeneID: 4638, updated Dec. 26, 2009.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">"<a href='http://scholar.google.com/scholar?q="MYLKP+Myosin+Light+Chain+Kinase+Pseuodene"'>MYLKP Myosin Light Chain Kinase Pseuodene</a>" Entrez Gene, GeneID: 9430, updated Jun. 25, 2009.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Brand-Arpon, Veronique, et al. "<a href='http://scholar.google.com/scholar?q="A+Genomic+Region+Encompassing+a+Cluster+of+Olfactory+Receptor+Genes+and+a+Myosin+Light+Chain+Kinase+%28MYLK%29+Gene+is+Duplicated+on+Human+Chromosome+Regions+3q13-q21+and+3p13"'>A Genomic Region Encompassing a Cluster of Olfactory Receptor Genes and a Myosin Light Chain Kinase (MYLK) Gene is Duplicated on Human Chromosome Regions 3q13-q21 and 3p13</a>" Genomics vol. 56, pp. 98-110 (1999).</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Gao, Li, et al."<a href='http://scholar.google.com/scholar?q="Novel+Polymorphisms+in+the+Myosin+Light+Chain+Kinase+Gene+Confer+Risk+for+Acute+Lung+Injury"'>Novel Polymorphisms in the Myosin Light Chain Kinase Gene Confer Risk for Acute Lung Injury</a>" American Journal of Respiratory Cell and Molecular Biology, vol. 34. pp. 487-495 (2006).</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Gu, L.Z., et al. Inhibiting myosin light chain kinase retards the growth of mammary and prostate cancers cells. Eur. J. Cancer. 2006 47:948-57 (abstract only).</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Han, Y. "<a href='http://scholar.google.com/scholar?q="Pseudo+Myosin+Light+Chain+Kinase+%28MLCK%29+Gene+Transcribes+in+Cancerous+Tissues+and+Cells"'>Pseudo Myosin Light Chain Kinase (MLCK) Gene Transcribes in Cancerous Tissues and Cells</a>", American Society of Human Genetics, 2008 meeting abstract #241.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Han, Yoo-Jeong, et al. "<a href='http://scholar.google.com/scholar?q="Naturally+Extended+CT+AG+Repeats+Increase+H-DNA+Structures+and+Promoter+Activity+in+the+Smooth+Muscle+Myosin+Light+Chain+Kinase+Gene"'>Naturally Extended CT AG Repeats Increase H-DNA Structures and Promoter Activity in the Smooth Muscle Myosin Light Chain Kinase Gene</a>" Molecular and Cellular Biology, pp. 863-872, Jan. 2008.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Lazar V, Garcia JG "<a href='http://scholar.google.com/scholar?q="A+single+human+myosin+light+chain+kinase+gene+%28MLCK%3B+MYLK%29"'>A single human myosin light chain kinase gene (MLCK; MYLK)</a>" Genomics, Apr. 15, 1999. pp. 256-267.</span>
+            
+            
+          </td>
+        </tr><tr itemprop="detailedNonPatentLiterature" itemscope repeat>
+          <td>
+            <span itemprop="title">Trask, Barbara, et al. "<a href='http://scholar.google.com/scholar?q="Large+multi-chromosomal+duplications+encompass+many+members+of+the+olfactory+receptor+gene+family+in+the+human+genome"'>Large multi-chromosomal duplications encompass many members of the olfactory receptor gene family in the human genome</a>" Human Molecular Genetics, Oxford University Press, vol. 7, No. 13 (1998) pp. 2007-2020.</span>
+            
+            
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  
+
+  <section>
+    <h2>Also Published As</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication number</th>
+          <th>Publication date</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="docdbFamily" itemscope repeat>
+          <td>
+            
+            
+            <a href="/patent/US20100173975A1/en">
+              <span itemprop="publicationNumber">US20100173975A1</span>
+              (<span itemprop="primaryLanguage">en</span>)
+            </a>
+          </td>
+          <td itemprop="publicationDate">2010-07-08</td>
+          <td>application <meta itemprop="isApplication" content="true" bool></td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Similar Documents</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Publication</th>
+          <th>Publication Date</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="2973175643959689580">
+              <a href="/scholar/2973175643959689580"><span itemprop="scholarAuthors">Irby et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1999">1999</time>
+          </td>
+          <td itemprop="title">Activating SRC mutation in a subset of advanced human colon cancers</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="6796210665263636752">
+              <a href="/scholar/6796210665263636752"><span itemprop="scholarAuthors">Davuluri et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2008">2008</time>
+          </td>
+          <td itemprop="title">The functional consequences of alternative promoter use in mammalian genomes</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="1203972920699128428">
+              <a href="/scholar/1203972920699128428"><span itemprop="scholarAuthors">Nioi et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2003">2003</time>
+          </td>
+          <td itemprop="title">Identification of a novel Nrf2-regulated antioxidant response element (ARE) in the mouse NAD (P) H: quinone oxidoreductase 1 gene: reassessment of the ARE consensus sequence.</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="1011821935504756487">
+              <a href="/scholar/1011821935504756487"><span itemprop="scholarAuthors">Park et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2005">2005</time>
+          </td>
+          <td itemprop="title">Sipa1 is a candidate for underlying the metastasis efficiency modifier locus Mtes1</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="14629392120703264639">
+              <a href="/scholar/14629392120703264639"><span itemprop="scholarAuthors">Schumacher et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1998">1998</time>
+          </td>
+          <td itemprop="title">Spectrum of early onset nephrotic syndrome associated with WT1 missense mutations</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="2693028082791081268">
+              <a href="/scholar/2693028082791081268"><span itemprop="scholarAuthors">Jaeger et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2012">2012</time>
+          </td>
+          <td itemprop="title">Hereditary mixed polyposis syndrome is caused by a 40-kb upstream duplication that leads to increased and ectopic expression of the BMP antagonist GREM1</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="1044171827986351414">
+              <a href="/scholar/1044171827986351414"><span itemprop="scholarAuthors">Gutmann et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2000">2000</time>
+          </td>
+          <td itemprop="title">Loss of DAL-1, a protein 4.1-related tumor suppressor, is an important early event in the pathogenesis of meningiomas</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US5705336A/en">
+                <span itemprop="publicationNumber">US5705336A</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1998-01-06">1998-01-06</time>
+            
+          </td>
+          <td itemprop="title">Assay for sensitivity of tumors to DNA-platinating chemotherapy 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="15992049465385761390">
+              <a href="/scholar/15992049465385761390"><span itemprop="scholarAuthors">Kumaraswamy et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2000">2000</time>
+          </td>
+          <td itemprop="title">Structure-expression relationships of the 15-kDa selenoprotein gene Possible role of the protein in cancer etiology</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="5368311116037943348">
+              <a href="/scholar/5368311116037943348"><span itemprop="scholarAuthors">Pflueger et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2009">2009</time>
+          </td>
+          <td itemprop="title">N-myc downstream regulated gene 1 (NDRG1) is fused to ERG in prostate cancer</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="2934122689114256605">
+              <a href="/scholar/2934122689114256605"><span itemprop="scholarAuthors">Tabor et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1998">1998</time>
+          </td>
+          <td itemprop="title">Transcriptional activation of the stearoyl-CoA desaturase 2 gene by sterol regulatory element-binding protein/adipocyte determination and differentiation factor 1</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US20100137410A1/en">
+                <span itemprop="publicationNumber">US20100137410A1</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2010-06-03">2010-06-03</time>
+            
+          </td>
+          <td itemprop="title">Oncogenic ALL-1 Fusion Proteins for Targeting Drosha-Mediated MicroRNA Processing 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="13485420427600724083">
+              <a href="/scholar/13485420427600724083"><span itemprop="scholarAuthors">Xu et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2008">2008</time>
+          </td>
+          <td itemprop="title">Ets2 maintains hTERT gene expression and breast cancer cell proliferation by interacting with c-Myc</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="3740582327346643596">
+              <a href="/scholar/3740582327346643596"><span itemprop="scholarAuthors">McPherson et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1999">1999</time>
+          </td>
+          <td itemprop="title">AP2α and AP2γ: a comparison of binding site specificity and trans-activation of the estrogen receptor promoter and single site promoter constructs</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="17423192133575855542">
+              <a href="/scholar/17423192133575855542"><span itemprop="scholarAuthors">Manczak et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2004">2004</time>
+          </td>
+          <td itemprop="title">Differential expression of oxidative phosphorylation genes in patients with Alzheimer’s disease</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="13544839479274551529">
+              <a href="/scholar/13544839479274551529"><span itemprop="scholarAuthors">Schlisio et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2008">2008</time>
+          </td>
+          <td itemprop="title">The kinesin KIF1Bβ acts downstream from EglN3 to induce apoptosis and is a potential 1p36 tumor suppressor</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="1240078614162739110">
+              <a href="/scholar/1240078614162739110"><span itemprop="scholarAuthors">Lin et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2002">2002</time>
+          </td>
+          <td itemprop="title">The hepatocyte nuclear factor 3 α gene, HNF3α (FOXA1), on chromosome band 14q13 is amplified and overexpressed in esophageal and lung adenocarcinomas</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="18068917828032885320">
+              <a href="/scholar/18068917828032885320"><span itemprop="scholarAuthors">Monzó et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1999">1999</time>
+          </td>
+          <td itemprop="title">Paclitaxel resistance in non–small-cell lung cancer associated with beta-tubulin gene mutations</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="9162157663243532721">
+              <a href="/scholar/9162157663243532721"><span itemprop="scholarAuthors">Shohet et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2002">2002</time>
+          </td>
+          <td itemprop="title">Minichromosome maintenance protein MCM7 is a direct target of the MYCN transcription factor in neuroblastoma</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/US6627401B2/en">
+                <span itemprop="publicationNumber">US6627401B2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="2003-09-30">2003-09-30</time>
+            
+          </td>
+          <td itemprop="title">Method for detecting a single nucleotide polymorphism in p21waf1/cip1 gene as an indicator of risk of esophageal cancer 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="5595685609575743618">
+              <a href="/scholar/5595685609575743618"><span itemprop="scholarAuthors">Kino et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2001">2001</time>
+          </td>
+          <td itemprop="title">Identification of the cis‐acting region in the NF2 gene promoter as a potential target for mutation and methylation‐dependent silencing in schwannoma</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            <meta itemprop="isPatent" content="true">
+              
+              
+              <a href="/patent/WO1999064594A2/en">
+                <span itemprop="publicationNumber">WO1999064594A2</span>
+                (<span itemprop="primaryLanguage">en</span>)
+              </a>
+            
+          </td>
+          <td>
+            <time itemprop="publicationDate" datetime="1999-12-16">1999-12-16</time>
+            
+          </td>
+          <td itemprop="title">Genes and gene expression products that are differentially regulated in prostate cancer 
+       </td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="10469881316987076589">
+              <a href="/scholar/10469881316987076589"><span itemprop="scholarAuthors">Mukhopadhyay et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2002">2002</time>
+          </td>
+          <td itemprop="title">C→ U editing of neurofibromatosis 1 mRNA occurs in tumors that express both the type II transcript and apobec-1, the catalytic subunit of the Apolipoprotein B mRNA–editing enzyme</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="16932170664328230742">
+              <a href="/scholar/16932170664328230742"><span itemprop="scholarAuthors">Zhu et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="2008">2008</time>
+          </td>
+          <td itemprop="title">Regulation of neuron-specific alternative splicing of neurofibromatosis type 1 pre-mRNA</td>
+        </tr><tr itemprop="similarDocuments" itemscope repeat>
+          <td>
+            
+            <meta itemprop="isScholar" content="true">
+              <meta itemprop="scholarID" content="9805383298312232722">
+              <a href="/scholar/9805383298312232722"><span itemprop="scholarAuthors">Hosokawa et al.</span></a>
+          </td>
+          <td>
+            
+            <time itemprop="publicationDate" datetime="1997">1997</time>
+          </td>
+          <td itemprop="title">Cyclin D1 (PRAD1) alternative transcript b: full-length cDNA cloning and expression in breast cancers</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Legal Events</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Code</th>
+          <th>Title</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2010-03-22">2010-03-22</time></td>
+          <td itemprop="code">AS</td>
+          <td itemprop="title">Assignment</td>
+          <td>
+            
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">THE BOARD OF TRUSTES OF THE UNIVERSTIY OF ILLINOIS</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:DE LANEROLLE, PRIMAL;HAN, YOO JEONG;SIGNING DATES FROM 20100124 TO 20100128;REEL/FRAME:024116/0710</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2011-09-20">2011-09-20</time></td>
+          <td itemprop="code">AS</td>
+          <td itemprop="title">Assignment</td>
+          <td>
+            
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Owner name</strong>:
+              <span itemprop="value">THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOI</span>
+            </p>
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Free format text</strong>:
+              <span itemprop="value">CORRECTIVE ASSIGNMENT TO CORRECT THE ASSIGNEE S NAME AND ADDRESS FROM &#34;THE BOARD OF TRUSTES OF THE UNIVERSITY OF ILLINOIS&#34; AND &#34;SOUTH WEST STREET&#34;. PREVIOUSLY RECORDED ON  REEL 024116 FRAME 0710. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNEE S NAME AND ADDRESS TO BE --THE BOARD OF TRUSTEES OF THE UNIVERSITY OF ILLINOIS-- AND --SOUTH WRIGHT STREET--.;ASSIGNORS:DE LANEROLLE, PRIMAL;HAN, YOO JEONG;SIGNING DATES FROM 20100124 TO 20100128;REEL/FRAME:026936/0367</span>
+            </p>
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2015-08-21">2015-08-21</time></td>
+          <td itemprop="code">REMI</td>
+          <td itemprop="title">Maintenance fee reminder mailed</td>
+          <td>
+            
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2016-01-10">2016-01-10</time></td>
+          <td itemprop="code">LAPS</td>
+          <td itemprop="title">Lapse for failure to pay maintenance fees</td>
+          <td>
+            
+          </td>
+        </tr>
+        <tr itemprop="legalEvents" itemscope repeat>
+          <td><time itemprop="date" datetime="2016-03-01">2016-03-01</time></td>
+          <td itemprop="code">FP</td>
+          <td itemprop="title">Expired due to failure to pay maintenance fee</td>
+          <td>
+            
+            <p itemprop="attributes" itemscope repeat>
+              <strong itemprop="label">Effective date</strong>:
+              <span itemprop="value">20160110</span>
+            </p>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</article>
+
+      
+    </search-app>
+    <script type="text/javascript" src="//www.gstatic.com/feedback/api.js"></script>
+    <script async="" defer="" src="//www.google.com/insights/consumersurveys/async_survey?site=cxkjf7ipxgbnnjy6k35ezcvbbe"></script>
+  </body>
+</html>
