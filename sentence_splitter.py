@@ -8,7 +8,7 @@ Created on Fri Apr 26 18:39:16 2019
 
 import os
 
-groundtruth_bio_dir = '/data/bio_patent_citations/'
+groundtruth_bio_dir = 'data/ground_truth_bio/'
 all_filenames = os.listdir(groundtruth_bio_dir+"bio-origin/")
 
 
