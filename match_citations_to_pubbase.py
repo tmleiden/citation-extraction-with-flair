@@ -1,3 +1,5 @@
+# Note that the WoS database files are not included in this repository
+
 import os
 import csv
 import re
