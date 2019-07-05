@@ -8,16 +8,22 @@ from collections import defaultdict
 
 
 intext_citations_dir = "data/found_citations_in_unlabeled_Flair"
+#intext_citations_dir = "data/found_citations_in_unlabeled_CRF"
 
 duplicatesfilepath = "data/Flair_duplicates_with_fp.txt"
+#duplicatesfilepath = "data/CRF_duplicates_with_fp.txt"
 
 fp_citations_dir = "data/fp_citations_in_unlabeled"
 if not os.path.exists(fp_citations_dir):
     os.makedirs(fp_citations_dir)
 
 statsfile_path = "matching.stats.Flair"
-matches_filepath = "all.matches.Flair.out"
-nonmatches_filepath = "all.non-matches.Flair.out"
+matches_filepath = "data/all.matches.Flair.out"
+nonmatches_filepath = "data/all.non-matches.Flair.out"
+
+#statsfile_path = "matching.stats.CRF"
+#matches_filepath = "data/all.matches.CRF.out"
+#nonmatches_filepath = "data/all.non-matches.CRF.out"
 
 
 """
