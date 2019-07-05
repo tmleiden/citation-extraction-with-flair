@@ -14,7 +14,7 @@ import crf_features
 
 groundtruth_bio_dir = 'data/ground_truth_bio/bio-origin'
 unlabeled_txt_dir = 'path-to-directory-with-plain-text-patent-documents '
-found_citations_dir = 'found_citations_in_unlabeled'
+found_citations_dir = 'found_citations_in_unlabeled_CRF'
 model_file_name = "crf_model_stored.pkl"
 
 if not os.path.exists(found_citations_dir):
