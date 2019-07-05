@@ -1,3 +1,5 @@
+# Input: html files as downloaded from Google patents
+
 import os
 import re
 from bs4 import BeautifulSoup as BSHTML
